@@ -1,0 +1,32 @@
+{
+    "formal":[
+        "second",
+        "minute",
+        "hour",
+        "day",
+        "week",
+        "month",
+        "year",
+        "decade",
+        "century",
+        "millenium"
+    ],
+    "informal":[
+        "never",
+        "forever",
+        "sometimes",
+        "fortnight",
+        "blue moon",
+        "seasons",
+        "moment",
+        "once in a while"
+    ],
+    "relative":[
+        "yesterday",
+        "tomorrow",
+        "future",
+        "past",
+        "later",
+        "earlier"
+    ]
+}
