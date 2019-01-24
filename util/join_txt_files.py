@@ -6,7 +6,7 @@ filenames = [f for f in listdir(samples_path) if isfile(join(samples_path, f))]
 
 print filenames
 
-with open('compiled_source/samples.txt', 'w') as outfile:
+with open('compiled_source/samples04.txt', 'w') as outfile:
     for fname in filenames:
         with open('./samples/'+fname) as infile:
             for line in infile:
