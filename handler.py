@@ -31,12 +31,12 @@ def get_news_api_key():
     config.read('config.ini')
     return config['newsapi']['api']
 
-def get_location_from_ip():
-    ip_address = sys.argv[1]
+def get_location_from_ip(ip_address):
     url = 'http://ipinfo.io/{}'.format(ip_address)
     r = requests.get(url)
     payload = r.json()
     IP=payload['ip']
+    org=payload['org']
     city = payload['city']
     country=payload['country']
     region=payload['region']
@@ -71,6 +71,7 @@ def parse_blurb(blurb):
 
 def get_weather(location):
     api_key = get_weather_api_key()
+    print(location)
     latlng = location.split(',')
     url = "https://api.openweathermap.org/data/2.5/weather?lat={}&lon={}&appid={}".format(latlng[0], latlng[1], api_key)
     r = requests.get(url)
@@ -107,14 +108,20 @@ def swap_outputs(location, weather, headline_terms, snippet):
     old_adjective = choice(parsed_sample["adjectives"])
     old_adjective_2 = choice(parsed_sample["adjectives"])
     old_entities = choice(parsed_sample["entities"])
+    print(parsed_sample)
+
     new_chunk = snippet.replace(old_noun_phrase, new_noun_phrase).replace(old_adjective, weather["description"]).replace(old_adjective_2, weather["main"]).replace(old_entities, location["region"])
-    print(new_chunk)
+    return new_chunk
 
-
-
-if __name__ == '__main__':
-    location = get_location_from_ip()
+def pronounce(event, context):
+    ip_address = event["sourceIP"]
+    print ip_address
+    location = get_location_from_ip(ip_address)
     weather_prediction = get_weather(location['loc'])
     headline_terms = get_headline()
     markov_snippet = rant_first()
-    swap_outputs(location, weather_prediction, headline_terms, markov_snippet)
+    message = swap_outputs(location, weather_prediction, headline_terms, markov_snippet)
+
+    return {
+        'message' : message
+    }
