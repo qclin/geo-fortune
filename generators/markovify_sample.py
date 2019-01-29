@@ -103,12 +103,21 @@ def swap_outputs(location, weather, headline_terms, snippet):
     print(headline_terms)
     print(snippet)
     parsed_sample = parse_blurb(snippet)
-    old_noun_phrase = choice(parsed_sample["noun_phrase"])
+    if(len(parsed_sample["noun_phrase"]) > 0):
+        old_noun_phrase = choice(parsed_sample["noun_phrase"])
+
     new_noun_phrase = choice(headline_terms)
-    old_adjective = choice(parsed_sample["adjectives"])
-    old_adjective_2 = choice(parsed_sample["adjectives"])
-    old_entities = choice(parsed_sample["entities"])
-    new_chunk = snippet.replace(old_noun_phrase, new_noun_phrase).replace(old_adjective, weather["description"]).replace(old_adjective_2, weather["main"]).replace(old_entities, location["region"])
+    new_chunk = snippet.replace(old_noun_phrase, new_noun_phrase)
+
+    if(len(choice(parsed_sample["adjectives"])) > 1):
+        old_adjective = choice(parsed_sample["adjectives"])
+        old_adjective_2 = choice(parsed_sample["adjectives"])
+        new_chunk = new_chunk.replace(old_adjective, weather["description"]).replace(old_adjective_2, weather["main"])
+
+    if(len(choice(parsed_sample["entities"])) > 0):
+        old_entities = choice(parsed_sample["entities"])
+        new_chunk = new_chunk.replace(old_entities, location["region"])
+
     print(new_chunk)
 
 
