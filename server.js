@@ -17,9 +17,9 @@ app.use(function(req, res, next) {
 
 
 app.get('/geo_fortune', function(req, res){
-    // var ipAddress = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
+    var ipAddress = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
+    ipAddress = ipAddress.replace(/^.*:/, '')
 
-    var ipAddress = "95.90.239.37"
     var fortunePromise = utterances.generateFortune(ipAddress);
     fortunePromise.then(function(data){
       console.log("fortuen promised", data, typeof data);
