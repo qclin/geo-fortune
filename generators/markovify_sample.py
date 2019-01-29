@@ -52,8 +52,8 @@ def rant_first():
     for i in range(2):
         tmp_chain.append(text_model.make_short_sentence(140))
 
-    tmp_chain.append(text_model.make_sentence())
-    tmp_chain.append(text_model.make_short_sentence(140))
+    # tmp_chain.append(text_model.make_sentence())
+    # tmp_chain.append(text_model.make_short_sentence(140))
     mm_chain = [s.decode('unicode_escape').encode('utf8') for s in tmp_chain]
     blurb = ' '.join(mm_chain)
 
