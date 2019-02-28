@@ -89,7 +89,7 @@ the earth's crust, this would be sufficient for our purpose, so far as
 the history of life is concerned.
 
 The evidence is similar to that obtained by Schliemann on the site of
-Troy, where, in digging through successive layers of _débris_, he found
+Troy, where, in digging through successive layers of debris, he found
 the objects deposited by successive occupants of the site, from the time
 of the Roman Empire back to the earliest tribes, whose flint weapons and
 the ashes of their fires rest on the original surface of the ground.
@@ -117,7 +117,7 @@ animals and plants associated with it:
   Age of Amphibians and Fishes.
   Age of Invertebrates.
 
-            Palæozoic.  { Permian,           Acrogens and
+            Paleozoic.  { Permian,           Acrogens and
                         { Carboniferous,       Gymnosperms
                         { Erian,               dominant.
                         { Silurian,
@@ -127,7 +127,7 @@ animals and plants associated with it:
 
   Age of Protozoa.
 
-            Eozoic.     { Huronian (Lower),  Protogens and Algæ.
+            Eozoic.     { Huronian (Lower),  Protogens and Alge.
                         { Upper Laurentian,
                         { Middle Laurentian,
                         { Lower Laurentian.
@@ -143,9 +143,9 @@ deposition of many of them in the older systems, that they must have
 required vastly greater time. Taking these criteria into account, it has
 been estimated that the time-ratios for the first three great ages may
 be as one for the Kainozoic to three for the Mesozoic and twelve for
-the Palæozoic, with as much for the Eozoic as for the Palæozoic. This
+the Paleozoic, with as much for the Eozoic as for the Paleozoic. This
 is Dana's estimate. Another, by Hull and Houghton, gives the following
-ratios: Azoic, 34·3 per cent.; Palæozoic, 42·5 per cent.; Mesozoic and
+ratios: Azoic, 34·3 per cent.; Paleozoic, 42·5 per cent.; Mesozoic and
 Kainozoic, 23·2 per cent. It is further held that the modern period
 is much shorter than the other periods of the Kainozoic, so that our
 geological table may have to be measured by millions of years instead of
@@ -185,13 +185,13 @@ the few notes in the right-hand column of the table.
 
 The most general subdivision of plants is into the two great series of
 Cryptogams, or those which have no manifest flowers, and produce minute
-spores instead of seeds; and Phænogams, or those which possess flowers
+spores instead of seeds; and Phenogams, or those which possess flowers
 and produce seeds containing an embryo of the future plant.
 
 The Cryptogams may be subdivided into the following three groups:
 
 1. _Thallogens_, cellular plants not distinctly distinguishable into stem
-and leaf. These are the Fungi, the Lichens, and the Algæ, or sea-weeds.
+and leaf. These are the Fungi, the Lichens, and the Alge, or sea-weeds.
 
 2. _Anogens_, having stem and foliage, but wholly cellular. These are the
 Mosses and Liverworts.
@@ -199,10 +199,10 @@ Mosses and Liverworts.
 3. Acrogens, which have long tubular fibres as well as cells in
 their composition, and thus have the capacity of attaining a more
 considerable magnitude. These are the Ferns (_Filices_), the Mare's-tails
-(_Equisetaceæ_), and the Club-mosses (_Lycopodiaceæ_), and a curious
-little group of aquatic plants called Rhizocarps (_Rhizocarpeæ_).
+(_Equisetacee_), and the Club-mosses (_Lycopodiacee_), and a curious
+little group of aquatic plants called Rhizocarps (_Rhizocarpee_).
 
-The Phænogams are all vascular, but they differ much in the simplicity
+The Phenogams are all vascular, but they differ much in the simplicity
 or complexity of their flowers or seeds. On this ground they admit of a
 twofold division:
 
@@ -220,13 +220,13 @@ belong to this group.
 On referring to the geological table, it will be seen that there is a
 certain rough correspondence between the order of rank of plants and the
 order of their appearance in time. The oldest plants that we certainly
-know are Algæ, and with these there are plants apparently with the
+know are Alge, and with these there are plants apparently with the
 structures of Thallophytes but the habit of trees, and which, for want
 of a better name, I may call _Protogens_. Plants akin to the Rhizocarps
 also appear very early. Next in order we find forests in which gigantic
 Ferns and Lycopods and Mare's-tails predominate, and are associated
 with pines. Succeeding these we have a reign of Gymnosperms, and in the
-later formations we find the higher Phænogams dominant. Thus there is an
+later formations we find the higher Phenogams dominant. Thus there is an
 advance in elevation and complexity along with the advance in geological
 time, but connected with the remarkable fact that in earlier times low
 groups attain to an elevation unexampled in later times, when their
@@ -241,7 +241,7 @@ instructive method to consider it in the order of time.
 
 CHAPTER II.
 
-VEGETATION OF THE LAURENTIAN AND EARLY PALÆOZOIC--QUESTIONS AS TO ALGÆ.
+VEGETATION OF THE LAURENTIAN AND EARLY PALeOZOIC--QUESTIONS AS TO ALGe.
 
 
 Oldest of all the formations known to geologists, and representing
@@ -285,7 +285,7 @@ into veins of graphite. When, therefore, we find in the Laurentian thick
 beds of graphite and beds of limestone charged with detached grains and
 crystals of this substance, and graphitic gneisses and schists and veins
 of graphite traversing the beds, we recognise the same phenomena that are
-apparent in later formations containing vegetable _débris_.
+apparent in later formations containing vegetable debris.
 
 The carbon thus occurring in the Laurentian is not to be regarded as
 exceptional or rare, but is widely distributed and of large amount. In
@@ -397,7 +397,7 @@ an arrangement very similar to that of the veins of graphite; and in
 the Quebec rocks of Point Levi, veins attaining to a thickness of more
 than a foot, are filled with a coaly matter having a transverse columnar
 structure, and regarded by Logan and Hunt as an altered bitumen. These
-palæozoic analogies would lead us to infer that the larger part of the
+paleozoic analogies would lead us to infer that the larger part of the
 Laurentian graphite falls under the second class of deposits above
 mentioned, and that, if of vegetable origin, the organic matter must have
 been thoroughly disintegrated and bituminised before it was changed into
@@ -422,7 +422,7 @@ doubt of later date than the Laurentian rocks themselves.
 
 It would be very desirable to confirm such conclusions as those above
 deduced by the evidence of actual microscopic structure. It is to be
-observed, however, that when, in more modern sediments, Algæ have been
+observed, however, that when, in more modern sediments, Alge have been
 converted into bituminous matter, we cannot ordinarily obtain any
 structural evidence of the origin of such bitumen, and in the graphitic
 slates and limestones derived from the metamorphosis of such rocks
@@ -441,7 +441,7 @@ fibrous structures which may be remains of plants, and in some specimens
 vermicular lines, which I believe to be tubes of Eozoon penetrated by
 matter once bituminous, but now in the state of graphite.
 
-When palæozoic land-plants have been converted into graphite, they
+When paleozoic land-plants have been converted into graphite, they
 sometimes perfectly retain their structure. Mineral charcoal, with
 structure, exists in the graphitic coal of Rhode Island. The fronds of
 ferns, with their minutest veins perfect, are preserved in the Devonian
@@ -454,7 +454,7 @@ unaltered specimens from the coal-formation.[G] No structures so perfect
 have as yet been detected in the Laurentian, though in the largest
 of the three graphitic beds at St. John there appear to be fibrous
 structures, which I believe may indicate the existence of land-plants.
-This graphite is composed of contorted and slickensided laminæ, much
+This graphite is composed of contorted and slickensided lamine, much
 like those of some bituminous shales and coarse coals; and in these are
 occasional small pyritous masses which show hollow carbonaceous fibres,
 in some cases presenting obscure indications of lateral pores. I regard
@@ -476,7 +476,7 @@ period the vegetation of the land may have consisted wholly of cellular
 plants, as, for example, mosses and lichens; and if so, there would be
 comparatively little hope of the distinct preservation of their forms or
 tissues, or of our being able to distinguish the remains of land-plants
-from those of Algæ.
+from those of Alge.
 
 We may sum up these facts and considerations in the following statements:
 First, that somewhat obscure traces of organic structure can be detected
@@ -499,7 +499,7 @@ that of any subsequent period.
 
 Many years ago, at the meeting of the American Association in Albany, the
 writer was carrying into the room of the Geological Section a mass of
-fossil wood from the Devonian of Gaspé, when he met the late Professor
+fossil wood from the Devonian of Gaspe, when he met the late Professor
 Agassiz, and remarked that the specimen was the remains of a Devonian
 tree contemporaneous with his fishes of that age. "How I wish I could
 sit under its shade!" was the smiling reply of the great zoölogist; and
@@ -525,12 +525,12 @@ wet soil would have been at home.
 
 If we ask more particularly what kinds of plants might be expected to be
 introduced in such circumstances, we may obtain some information from the
-vegetation of the succeeding Palæozoic age, when such conditions still
+vegetation of the succeeding Paleozoic age, when such conditions still
 continued to a modified extent. In this period the club-mosses, ferns,
 and mare's-tails engrossed the world and grew to sizes and attained
 degrees of complexity of structure not known in modern times. In the
-previous Laurentian age something similar may have happened to Algæ, to
-Fungi, to Lichens, to Liverworts, and Mosses. The Algæ may have attained
+previous Laurentian age something similar may have happened to Alge, to
+Fungi, to Lichens, to Liverworts, and Mosses. The Alge may have attained
 to gigantic dimensions, and may have even ascended out of the water in
 some of their forms. These comparatively simple cellular and tubular
 structures, now degraded to the humble position of flat lichens or soft
@@ -592,7 +592,7 @@ through the Siluro-Cambrian or Ordovician time. These times were, for
 this reason, remarkable for the great abundance and increase of marine
 animals rather than of land-plants. Still, there are some traces of land
 vegetation, and we may sketch first the facts of this kind which are
-known, and then advert to some points relating to the earlier Algæ, or
+known, and then advert to some points relating to the earlier Alge, or
 sea-weeds.
 
 An eminent Swedish geologist, Linnarsson, has described, under the name
@@ -605,13 +605,13 @@ series of these specimens from Sweden, and from rocks of similar age in
 Canada, I confess that I have no faith in their vegetable nature.
 
 The oldest plants known to me, and likely to have been of higher grade
-than Algæ, are specimens kindly presented to me by Dr. Alleyne Nicholson,
+than Alge, are specimens kindly presented to me by Dr. Alleyne Nicholson,
 of Aberdeen, and which he had named _Buthotrephis Harknessii_[H] and _B.
 radiata_. They are from the Skiddaw rocks of Cumberland. On examining
 these specimens, and others subsequently collected in the same locality
 by Dr. Gr. M. Dawson, while convinced by their form and carbonaceous
 character that they are really plants, I am inclined to refer them not
-to Algæ, but probably to Rhizocarps. They consist of slender branching
+to Alge, but probably to Rhizocarps. They consist of slender branching
 stems, with whorls of elongate and pointed leaves, resembling the genus
 _Annularia_ of the coal formation. I am inclined to believe that both
 of Nicholson's species are parts of one plant, and for this I have
@@ -638,13 +638,13 @@ probable Rhizocarp of the Ordovician period.]
 If we ascend into the Upper Silurian, or Silurian proper, the evidences
 of land vegetation somewhat increase. In 1859 I described, in "The
 Journal of the Geological Society" of London, a remarkable tree from the
-Lower Erian of Gaspé, under the name _Prototaxites_, but for which I
+Lower Erian of Gaspe, under the name _Prototaxites_, but for which I
 now prefer the name _Nematophyton_. When in London, in 1870, I obtained
 permission to examine certain specimens of spore-cases or seeds from
 the Upper Ludlow (Silurian) formation of England, and which had been
 described by Sir Joseph Hooker under the name _Pachytheca_. In the same
 slabs with these I found fragments of fossil wood identical with those of
-the Gaspé plant. Still later I recognised similar fragments associated
+the Gaspe plant. Still later I recognised similar fragments associated
 also with _Pachytheca_ in the Silurian of Cape Bon Ami, New Brunswick.
 Lastly, Dr. Hicks has discovered similar wood, and also similar fruits,
 in the Denbighshire grits, at the base of the Silurian.[K]
@@ -665,7 +665,7 @@ Restoration.[L]]
 College.
 
 From comparison of this singular wood, the structure of which is
-represented in Figs. 2, 3, 4, with the _débris_ of fossil taxine woods,
+represented in Figs. 2, 3, 4, with the debris of fossil taxine woods,
 mineralised after long maceration in water, I was inclined to regard
 _Prototaxites_, or, as I have more recently named it, _Nematophyton_, as
 a primeval gymnosperm allied to those trees which Unger had described
@@ -690,7 +690,7 @@ radiating arrangement of the tissue. They now seem to be spaces extending
 from the centre towards the circumference of the stem, and to have
 contained bundles of tubes gathered from the general tissue and extending
 outward perhaps to organs or appendages on the surface. Carruthers has
-suggested a resemblance to Algæ, and has even proposed to change the
+suggested a resemblance to Alge, and has even proposed to change the
 name to _Nematophycus_, or "thread-sea-weed"; but the resemblance is
 by no means clear, and it would be quite as reasonable to compare the
 tissue to that of some Fungi or Lichens, or even to suppose that a plant
@@ -706,11 +706,11 @@ fronds of these strange plants we unfortunately know nothing. They seem,
 however, to realise the idea of arboreal plants having structures akin
 to those of thallophytes, but with seeds so large and complex that they
 can scarcely be regarded as mere spores. They should perhaps constitute a
-separate class or order to which the name _Nematodendreæ_ may be given,
+separate class or order to which the name _Nematodendree_ may be given,
 and of which _Nematophyton_ will constitute one genus and _Aporoxylon_ of
 Unger another.[N]
 
-[M] "Palæontologie des Thuringer Waldes," 1856.
+[M] "Paleontologie des Thuringer Waldes," 1856.
 
 [N] See report by the author on "Erian Flora of Canada," 1871 and 1882,
 for full description of these fossils.
@@ -729,7 +729,7 @@ the _Lepidodendron_ of later periods, to be noticed in the sequel. Dr.
 Hicks has also described from the same series of beds which afforded
 the fragments of Nematophyton certain carbonised dichotomous stems,
 which he has named _Berwynia_. It is just possible that these plants may
-have belonged to the Nematodendreæ. The thick and dense coaly matter
+have belonged to the Nematodendree. The thick and dense coaly matter
 which they show resembles the bark of these trees, the longitudinal
 striation in some of them may represent the fibrous structure, and the
 lateral projections which have been compared to leaves or leaf-bases
@@ -739,7 +739,7 @@ this case I should be disposed to regard the supposed stigmaria-like
 roots as really stems, and the supposed rootlets as short, spine-like
 rudimentary leaves. All such comparisons must, however, in the mean time
 be regarded as conjectural. We seem, however, to have here a type of tree
-very dissimilar to any even of the later Palæozoic age, which existed
+very dissimilar to any even of the later Paleozoic age, which existed
 throughout the Silurian, and probably further back, which ceased to
 exist early in the Erian age, and before the appearance of the ordinary
 coniferous and lepidodendroid trees. May it not have been a survivor of
@@ -748,15 +748,15 @@ an old arboreal flora extending back even to the Laurentian itself?
 [O] "American Journal of Science," 1878.
 
 Multitudes of markings occurring on the surfaces of the older rocks have
-been referred to the Algæ or sea-weeds, and indeed this group has been
-a sort of refuge for the destitute to which palæontologists have been
+been referred to the Alge or sea-weeds, and indeed this group has been
+a sort of refuge for the destitute to which paleontologists have been
 accustomed to refer any anomalous or inexplicable form which, while
 probably organic, could not be definitely referred to the animal kingdom.
 There can be no question that some of these are truly marine plants; and
 that plants of this kind occur in formations older than those in which
 we first find land-plants, and that they have continued to inhabit the
 sea down to the present time. It is also true that the oldest of these
-Algæ closely resemble in form plants of this kind still existing; and,
+Alge closely resemble in form plants of this kind still existing; and,
 since their simple cellular structures and soft tissues are scarcely
 ever preserved, their general forms are all that we can know, so that
 their exact resemblance to or difference from modern types can rarely
@@ -771,7 +771,7 @@ The author of this work has given much attention to these remains, and
 has not been disposed to claim for the vegetable kingdom so many of them
 as some of his contemporaries.[P] The considerations which seem most
 important in making such distinctions are the following: 1. The presence
-or absence of carbonaceous matter. True Algæ not infrequently present at
+or absence of carbonaceous matter. True Alge not infrequently present at
 least a thin film of carbon representing their organic matter, and this
 is the more likely to occur in their case, as organic matters buried in
 marine deposits and not exposed to atmospheric oxidation are very likely
@@ -780,13 +780,13 @@ the containing rock, the disappearance or deoxidation of its ferruginous
 colouring matter, or the presence of iron pyrite may indicate the removal
 of organic matter by decay. 3. When organic matter and indications of it
 are altogether absent, and form alone remains, we have to distinguish
-from Algæ, trails and burrows similar to those of aquatic animals, casts
+from Alge, trails and burrows similar to those of aquatic animals, casts
 of shrinkage-cracks, water-marks, and rill-marks widely diffused over the
 surfaces of beds. 4. Markings depressed on the upper surfaces of beds,
 and filled with the material of the succeeding layer, are usually mere
 impressions. The cases of possible exceptions to this are very rare. On
 the contrary, there are not infrequently forms in relief on the surfaces
-of rocks which are not Algæ, but may be shallow burrows arched upward on
+of rocks which are not Alge, but may be shallow burrows arched upward on
 top, or castings of worms thrown up upon the surface. Sometimes, however,
 they may have been left by denudation of the surrounding material, just
 as footprints on dry snow remain in relief after the surrounding loose
@@ -800,7 +800,7 @@ Science," 1873.
 imitations of plants sometimes named _Bilobites_.]
 
 [Illustration: Fig. 6.--Trail of Carboniferous crustacean (_Rusichnites
-Acadicus_), Nova Scotia, to illustrate supposed Algæ.]
+Acadicus_), Nova Scotia, to illustrate supposed Alge.]
 
 The footprints from the Potsdam sandstone in Canada, for which the name
 _Protichnites_ was proposed by Owen, and which were by him referred to
@@ -823,7 +823,7 @@ I subsequently applied the same explanation to several other ancient
 forms now known under the general name _Bilobites_ (Figs. 6 and 7).[R]
 
 [R] The name Bilobites was originally proposed by De Kay for a bivalve
-shell (Conocardium). Its application to supposed Algæ was an error, but
+shell (Conocardium). Its application to supposed Alge was an error, but
 this is of the less consequence, as these are not true plants but only
 animal trails.
 
@@ -835,12 +835,12 @@ The tuberculated impressions known as _Phymatoderma_ and _Caulerpites_
 may, as Zeiller has shown, be made by the burrowing of the mole-cricket,
 and fine examples occurring in the Clinton formation of Canada are
 probably the work of Crustacea. It is probable, however, that some of
-the later forms referred to these genera are really Algæ related to
+the later forms referred to these genera are really Alge related to
 _Caulerpa_, or even branches of Conifers of the genus _Brachyphyllum_.
 
 _Nereites_ and _Planulites_ are tracks and burrows of worms, with
-or without marks of setæ, and some of the markings referred to
-_Palæochorda_, _Palæophycus_, and _Scolithus_ have their places here.
+or without marks of sete, and some of the markings referred to
+_Paleochorda_, _Paleophycus_, and _Scolithus_ have their places here.
 Many examples highly illustrative of the manner of formation of the
 impressions are afforded by Canadian rocks (Fig. 8).
 
@@ -854,7 +854,7 @@ is uncertain (Fig. 9).
 
 [S] Supplement to "Acadian Geology."
 
-[Illustration: Fig. 8.--_Palæophycus Beverlyensis_ (Billings), a supposed
+[Illustration: Fig. 8.--_Paleophycus Beverlyensis_ (Billings), a supposed
 Cambrian Fucoid, but probably an animal trail.]
 
 _Rhabdichnites_ and _Eophyton_ belong to impressions explicable by the
@@ -904,14 +904,14 @@ _Hymenocaris_. These marks may, however, indicate the existence of some
 free-swimming animals of the Primordial seas as yet unknown to us.
 
 Three other suggestions merit consideration in this connection. One
-is that Algæ and also land-plants, drifting with tides or currents,
+is that Alge and also land-plants, drifting with tides or currents,
 often make the most remarkable and fantastic trails. A marking of this
 kind has been observed by Dr. G. M. Dawson to be produced by a drifted
-Laminaria, and in complexity it resembled the extraordinary _Ænigmichnus
+Laminaria, and in complexity it resembled the extraordinary _enigmichnus
 multiformis_ of Hitchcock from the Connecticut sandstones. Much more
 simple markings of this kind would suffice to give species of _Eophyton_.
 Another is furnished by a fact stated to the author by Prof. Morse,
-namely, that Lingulæ, when dislodged from their burrows, trail themselves
+namely, that Lingule, when dislodged from their burrows, trail themselves
 over the bottom like worms, by means of their cirri. Colonies of these
 creatures, so abundant in the Primordial, may, when obliged to remove,
 have covered the surfaces of beds of mud with vermicular markings. The
@@ -933,7 +933,7 @@ Dyer, from the Lower Silurian.
 Rill-marks occur in very old rocks,[W] but are perhaps most beautifully
 preserved in the Carboniferous shales and argillaceous sandstones, and
 even more elaborately on the modern mud-banks of the Bay of Fundy.[X]
-Some of these simulate ferns and fronds of Laminariæ, and others resemble
+Some of these simulate ferns and fronds of Laminarie, and others resemble
 roots, fucoids allied to _Buthotrephis_, or the radiating worm-burrows
 already referred to (Fig. 10).
 
@@ -942,7 +942,7 @@ already referred to (Fig. 10).
 [X] "Acadian Geology," 2d ed., p. 26.
 
 [Illustration: Fig. 10.--Carboniferous rill-mark (Nova Scotia), reduced,
-to illustrate pretended Algæ.]
+to illustrate pretended Alge.]
 
 _Shrinkage-cracks_ are also abundant in some of the Carboniferous beds,
 and are sometimes accompanied with impressions of rain-drops. When finely
@@ -952,7 +952,7 @@ precisely resemble the _Dictyolites_ of Hall from the Medina sandstone
 (Fig. 11).
 
 [Illustration: Fig. 11.--Cast of shrinkage cracks (Carboniferous, Nova
-Scotia), illustrating pretended Algæ.]
+Scotia), illustrating pretended Alge.]
 
 An entirely different kind of shrinkage-crack is that which occurs in
 certain carbonised and flattened plants, and which sometimes communicates
@@ -1010,7 +1010,7 @@ perfect and beautiful form of this kind from the coal-formation of Nova
 Scotia, which is described in "Acadian Geology"[AA] (Fig. 12).
 
 I have referred to these facts here because they are relatively more
-important in that older period, which may be named the age of Algæ, and
+important in that older period, which may be named the age of Alge, and
 because their settlement now will enable us to dispense with discussions
 of this kind further on. The able memoirs of Nathorst and Williamson
 should be studied by those who desire further information.
@@ -1018,15 +1018,15 @@ should be studied by those who desire further information.
 [AA] Appendix, p. 676, edition of 1878.
 
 [Illustration: Fig. 12.--Cone-in-cone concretion (Carboniferous, Nova
-Scotia), illustrating pretended Algæ.]
+Scotia), illustrating pretended Alge.]
 
-But it may be asked, "Are there no real examples of fossil Algæ?" I
+But it may be asked, "Are there no real examples of fossil Alge?" I
 believe there are many such, but the difficulty is to distinguish them.
 Confining ourselves to the older rocks, the following may be noted:
 
 The genus _Buthotrephis_ of Hall, which is characterised as having
 stems, sub-cylindric or compressed, with numerous branches, which are
-divaricating and sometimes leaf-like, contains some true Algæ. Hall's
+divaricating and sometimes leaf-like, contains some true Alge. Hall's
 _B. gracilis_, from the Siluro-Cambrian, is one of these. Similar
 plants, referred to the same species, occur in the Clinton and Niagara
 formations, and a beautiful species, collected by Col. Grant, of
@@ -1035,7 +1035,7 @@ and more frondose type of distinctly carbonaceous character. It may be
 described as follows:
 
 _Buthotrephis Grantii_, S. N. (Fig. 13).--Stems and fronds smooth and
-slightly striate longitudinally, with curved and interrupted striæ.
+slightly striate longitudinally, with curved and interrupted strie.
 Stem thick, bifurcating, the divisions terminating in irregularly
 pinnate fronds, apparently truncate at the extremities. The quantity
 of carbonaceous matter present would indicate thick, though perhaps
@@ -1055,15 +1055,15 @@ _Sphenothallus angustifolius_, is also a plant. Fine specimens, in the
 collection of the Geological Survey of Canada, show distinct evidence of
 the organic character of the wedge-shaped fronds. It is from the Utica
 shale, and elsewhere in the Siluro-Cambrian. It is just possible, as
-suggested by Hall, that this plant may be of higher rank than the Algæ.
+suggested by Hall, that this plant may be of higher rank than the Alge.
 
-The genus _Palæophycus_ of Hall includes a great variety of uncertain
-objects, of which only a few are probably true Algæ. I have specimens of
+The genus _Paleophycus_ of Hall includes a great variety of uncertain
+objects, of which only a few are probably true Alge. I have specimens of
 fragments similar to his _P. virgatus_, which show distinct carbonaceous
 films, and others from the Quebec group, which seem to be cylindrical
 tubes now flattened, and which have contained spindle-shaped sporangia
 of large size. Tortuous and curved flattened stems, or fronds, from the
-Upper Silurian limestone of Gaspé, also show organic matter.
+Upper Silurian limestone of Gaspe, also show organic matter.
 
 Respecting the forms referred to _Licrophycus_ by Billings, containing
 stems or semi-cylindrical markings springing from a common base, I have
@@ -1072,35 +1072,35 @@ organic matter, and am inclined to think that most of them, if not the
 whole, are casts of worm-burrows, with trails radiating from them.
 
 Though I have confined myself in this notice to plants, or supposed
-plants, of the Lower Palæozoic, it may be well to mention the remarkable
+plants, of the Lower Paleozoic, it may be well to mention the remarkable
 Cauda-Galli fucoids, referred by Hall to the genus _Spirophyton_, and
 which are characteristic of the oldest Erian beds. The specimens which
-I have seen from New York, from Gaspé, and from Brazil, leave no doubt
+I have seen from New York, from Gaspe, and from Brazil, leave no doubt
 in my mind that these were really marine plants, and that the form of a
 spiral frond, assigned to them by Hall, is perfectly correct. They must
 have been very abundant and very graceful plants of the early Erian,
 immediately after the close of the Silurian period.
 
-We come now to notice certain organisms referred to Algæ, and which are
+We come now to notice certain organisms referred to Alge, and which are
 either of animal origin, or are of higher grade than the sea-weeds.
 We have already discussed the questions relating to _Prototaxites_.
 _Drepanophycus_, of Goeppert,[AB] I suspect, is only a badly preserved
 branch or stem of the Erian land-plant known as Arthrostigma. In like
 manner, _Haliserites Dechenianus_,[AC] of Goeppert, is evidently
-the land-plant known as _Psilophyton_. _Sphærococcites dentatus_
+the land-plant known as _Psilophyton_. _Spherococcites dentatus_
 and _S. serra_--the _Fucoides dentatus_ and _serra_ of Brongniart,
 from Quebec--are graptolites of two species quite common there.[AD]
 _Dictyophyton_ and _Uphantenia_, as described by Hall and the author, are
-now known to be sponges. They have become _Dictyospongiæ_. The curious
+now known to be sponges. They have become _Dictyospongie_. The curious
 and very ancient; fossils referred by Forbes to the genus _Oldhamia_ are
 perhaps still subject to doubt, but are usually regarded as Zoöphytes,
 though it is quite possible they may be plants. Though I have not seen
 the specimens, I have no doubt whatever that the plants, or the greater
-part of them, from the Silurian of Bohemia, described by Stur as Algæ
-and Characeæ,[AE] are really land-plants, some of them of the genus
+part of them, from the Silurian of Bohemia, described by Stur as Alge
+and Characee,[AE] are really land-plants, some of them of the genus
 _Psilophyton_. I may say in this connection that specimens of flattened
 _Psilophyton_ and _Arthrostigma_, in the Upper Silurian and Erian of
-Gaspé, would probably have been referred to Algæ, but for the fact that
+Gaspe, would probably have been referred to Alge, but for the fact that
 in some of them the axis of barred vessels is preserved.
 
 [AB] "Fossile Flora," 1852, p. 92, Table xli.
@@ -1115,18 +1115,18 @@ include _Arthrostigma_, and perhaps leafy branches of _Berwynia_. These
 curious plants should be re-examined.
 
 It is not surprising that great difficulties have occurred in the
-determination of fossil Algæ. Enough, however, remains certain to prove
+determination of fossil Alge. Enough, however, remains certain to prove
 that the old Cambrian and Silurian seas were tenanted with sea-weeds
 not very dissimilar from those of the present time. It is further
 probable that some of the graphitic, carbonaceous, and bituminous
 shales and limestones of the Silurian owe their carbonaceous matters
-to the decomposition of Algæ, though possibly some of it may have been
+to the decomposition of Alge, though possibly some of it may have been
 derived from Graptolites and other corneous Zoöphytes. In any case,
 such microscopic examinations of these shales as I have made, have not
 produced any evidence of the existence of plants of higher grade, while
 those of the Erian and Carboniferous periods, similar to the naked eye,
 abound in such evidence. It is also to be observed that, on the surfaces
-of beds of sandstone in the Upper Cambrian, carbonaceous _débris_, which
+of beds of sandstone in the Upper Cambrian, carbonaceous debris, which
 seems to be the remains of either aquatic or land plants, is locally not
 infrequent.
 
@@ -1140,7 +1140,7 @@ filled with aquatic or amphibious Rhizocarpean plants, vast meadows or
 brakes of the delicate _Psilophyton_ and the starry _Protannularia_ and
 some tall trees, perhaps looking like gigantic club-mosses, or possibly
 with broad, flabby leaves, mostly cellular in texture, and resembling
-Algæ transferred to the air. Imagination can, however, scarcely realise
+Alge transferred to the air. Imagination can, however, scarcely realise
 this strange and grotesque vegetation, which, though possibly copious and
 luxuriant, must have been simple and monotonous in aspect, and, though it
 must have produced spores and seeds and even fruits, these were probably
@@ -1229,7 +1229,7 @@ structure,[AG]
 [AG] On these points I would reserve the considerations: 1. That there
 must have been some relation between the mode of growth of these great
 stems and their concentric rings; and, 2. That the evidence of a bark is
-as strong as in the case of any Palæozoic tree in which the bark is, as
+as strong as in the case of any Paleozoic tree in which the bark is, as
 usual, carbonised.
 
 "3. An intimate relation exists between the large tubular cells and the
@@ -1250,7 +1250,7 @@ is no plant of modern type with which it is comparable. Nevertheless, the
 loose character of the entire structure; the interminable cells; their
 interlacing; and, finally, their branching into a secondary series of
 smaller filaments, point with considerable force to the true relationship
-of the stem as being with Algæ or other Thallophytes rather than with
+of the stem as being with Alge or other Thallophytes rather than with
 Grymnosperms. A more recent examination of a laminated resinous
 substance found associated with the plant shows that it is wholly
 amorphous, and, as indicated by distinct lines of flow, that it must
@@ -1266,7 +1266,7 @@ that it had great roots, and gave off large branches; that it was
 an aërial plant, probably flourishing in the same swampy flats with
 _Psilophyton_, _Arthrostigma_, and _Leptophleum_; that the peculiar
 bodies known as Pachytheca were not unlikely its fruit--we have evidence
-that there were, in the early Palæozoic period, plants scarcely dreamt
+that there were, in the early Paleozoic period, plants scarcely dreamt
 of by modern botany. Only when the appendages of these plants are more
 fully known can we hope to understand them. In the mean time, I may state
 that there were probably different species of these trees, indicated
@@ -1300,10 +1300,10 @@ satisfactory respecting the older floras we have just discussed.
 
 In Goeppert's memoir on the flora of the Silurian, Devonian, and Lower
 Carboniferous rocks, published in 1860,[AI] he enumerates twenty species
-as Silurian, but these are all admitted to be Algæ, and several of them
+as Silurian, but these are all admitted to be Alge, and several of them
 are remains which may be fairly claimed by the zoologists as zoophytes,
 or trails of worms and mollusks. In the Lower Devonian he knows but six
-species, five of which are Algæ, and the remaining one a _Sigillaria_,
+species, five of which are Alge, and the remaining one a _Sigillaria_,
 but this is of very doubtful nature. In the Middle Devonian he gives but
 one species, a land-plant of the genus _Lepidodendron_. In the Upper
 Devonian the number rises to fifty-seven, of which all but seven are
@@ -1313,7 +1313,7 @@ in the succeeding Carboniferous system.
 [AI] Jena, 1860.
 
 Goeppert does not include in his enumeration the plants from the
-Devonian of Gaspé, described by the author in 1859,[AJ] having seen only
+Devonian of Gaspe, described by the author in 1859,[AJ] having seen only
 an abstract of the paper at the time of writing his memoir, nor does
 he appear to have any knowledge of the plants of this age described
 by Lesquereux in Roger's "Pennsylvania." These might have added ten
@@ -1325,7 +1325,7 @@ also been recognised by Peach in the Old Red Sandstone of Scotland.
 Naturalist."
 
 But from 1860 to the present time a rich harvest of specimens has
-been gathered from the Gaspé sandstones, from the shales of southern
+been gathered from the Gaspe sandstones, from the shales of southern
 New Brunswick, from the sandstones of Perry in Maine, and from the
 wide-spread Erian areas of New York, Pennsylvania, and Ohio. Nearly
 all these specimens have passed through my hands, and I am now able
@@ -1435,10 +1435,10 @@ bed containing these spores at Kettle Point was stated, in the reports
 of the "Geological Survey of Canada," to be twelve or fourteen feet
 in thickness, and besides these specimens it contained fossil plants
 referable to the species _Calamites inornatus_ and _Lepidodendron
-primævum_, and I not unnaturally supposed that the Sporangites might
+primevum_, and I not unnaturally supposed that the Sporangites might
 be the fruit of the latter plant. I also noticed their resemblance
 to the spore-cases of _L. corrugatum_ of the Lower Carboniferous (a
-Lepidodendron allied to _L. primævum_), and to those from Brazil
+Lepidodendron allied to _L. primevum_), and to those from Brazil
 described by Carruthers under the name _Flemingites_, as well as to those
 described by Huxley from certain English coals, and to those of the
 Tasmanite or white coal of Australia. The bed at Kettle Point is shown to
@@ -1479,7 +1479,7 @@ by him shook my previous belief of the lycopodiaceous character of these
 bodies, and induced me to suspect, with Prof. Orton, that they might have
 belonged to some group of aquatic plants lower than the Lycopods.
 
-Since the publication of my paper on Rhizocarps in the Palæozoic period
+Since the publication of my paper on Rhizocarps in the Paleozoic period
 above referred to, I have received two papers from Mr. Edward Wethered,
 F. G. S., in one of which he describes spores of plants found in the
 lower limestone shales of the Forest of Dean, and in the other discusses
@@ -1560,7 +1560,7 @@ edges, their ordinary diameter being from one seventy-fifth to one
 one-hundredth of an inch, though they vary considerably in size. This,
 however, I do not regard as an essential character. The edges, as seen
 in profile, are smooth, but the flat surface often presents minute dark
-spots, which at first I mistook for papillæ, but now agree with Mr.
+spots, which at first I mistook for papille, but now agree with Mr.
 Thomas in recognising them as minute pores traversing the wall of the
 disc, and similar to those which Mr. Newton has described in Tasmanite,
 and which Mr. Wethered has also recognised in the similar spores of the
@@ -1636,7 +1636,7 @@ Lycopodiaceous plants.[AO]
 in the corniferous limestone of Kelly's Island, which I have described
 in the "Canadian Naturalist" as _Saccamina Eriana_, and believe to be
 Foraminiferal tests. They have since been described by Ulrich under a
-different name (_Moellerina_: contribution to "American Palæontology,"
+different name (_Moellerina_: contribution to "American Paleontology,"
 1886). See Dr. Williamson's papers in "Transactions of Royal Society of
 London."
 
@@ -1645,7 +1645,7 @@ bituminous walls, which are punctured with minute transverse pores. In
 these respects, as already stated, they closely resemble the bodies found
 in the Australian white coal and Tasmanite. The precise geological age of
 this last material is not known with certainty, but it is believed to be
-Palæozoic.
+Paleozoic.
 
 With reference to the mode of occurrence of these bodies, we may note
 first their great abundance and wide distribution. The horizontal range
@@ -1677,13 +1677,13 @@ water-driftage, since, in the case of bodies so large and dense,
 wind-driftage to great distances would be impossible.
 
 These facts, taken in connection with the differences between these
-macrospores and those of any known land-plant of the Palæozoic, would
+macrospores and those of any known land-plant of the Paleozoic, would
 lead to the inference that they belonged to aquatic plants, and these
 vastly abundant in the waters of the Erian and Carboniferous periods.
 
 It is still further to be observed that they are not, in the Erian beds,
 accompanied with any remains of woody or scalariform tissues, such
-as might be expected in connection with the _débris_ of terrestrial
+as might be expected in connection with the debris of terrestrial
 acrogens, and that, on the other hand, we find them enclosed in cellular
 sporocarps, though in the majority of cases these have been removed by
 dehiscence or decay.
@@ -1691,7 +1691,7 @@ dehiscence or decay.
 These considerations, I think, all point to the probability which I
 have suggested in my papers on this subject referred to above, that we
 have in these objects the organs of fructification of plants belonging
-to the order _Rhizocarpeæ_, or akin to it. The comparisons which I have
+to the order _Rhizocarpee_, or akin to it. The comparisons which I have
 instituted with the sporocarps and macrospores of these plants confirm
 this suggestion. Of the modern species which I have had an opportunity
 to examine, _Salvinia natans_ of Europe perhaps presents the closest
@@ -1734,7 +1734,7 @@ the shales.
 The vegetation appertaining to the Sporangites has not been distinctly
 recognised. I have, however, found in one of the Brazilian specimens two
 sporocarps attached to what seems a fragment of a cellular frond, and
-numerous specimens of the supposed Algæ, named _Spirophyton_, are found
+numerous specimens of the supposed Alge, named _Spirophyton_, are found
 in the shales, but there is no evidence of any connection of this plant
 with the _Protosalvinia_.
 
@@ -1822,14 +1822,14 @@ as the Lower Carboniferous (Figs. 17, 18).
 Impression of plant in vernation, _b_, Branches conjecturally restored,
 _c_, Branches of _Lycopodites Milleri_, on same slab.]
 
-These organisms have been variously referred to Lycopods, to Algæ, or to
+These organisms have been variously referred to Lycopods, to Alge, or to
 Zoöphytes, but an extended comparison of American and Scottish specimens
 has led me to the belief that they were aquatic plants, more likely to
 have been allied to Rhizocarps than to any other group. Some evidence of
 this will be given in a note appended to this chapter.
 
 [Illustration: Fig. 19.--_Psilophyton princeps_, restored (Lower
-Erian, Gaspé). _a_, Fruit, natural size. _b_, stem, natural size, _c_,
+Erian, Gaspe). _a_, Fruit, natural size. _b_, stem, natural size, _c_,
 Scalariform tissue of the axis, highly magnified. In the restoration, one
 side is represented in vernation and the other in fruit.]
 
@@ -1838,9 +1838,9 @@ be regarded as a connecting link between the Rhizocarps and the Lycopods.
 It is so named from its resemblance, in some respects, to the curious
 parasitic Lycopods placed in the modern genus _Psilotum_. Several species
 have been described, and they are eminently characteristic of the Lower
-Erian, in which they were first discovered in Gaspé. The typical species,
+Erian, in which they were first discovered in Gaspe. The typical species,
 _Psilophyton princeps_, which fills many beds of shale and sandstone in
-Gaspé Bay and the head of the neighbouring Bay des Chaleurs with its
+Gaspe Bay and the head of the neighbouring Bay des Chaleurs with its
 slender stems and creeping, cord-like rhizomes, may be thus described:
 
 [AT] "Journal of the Geological Society," vols, xv., xviii., and xix.,
@@ -1862,7 +1862,7 @@ curved pedicels, either lateral or terminal.
 Brunswick). See pp. 61, 67.]
 
 This species was fully described by me in the papers referred to above,
-from specimens obtained from the rich exposures at Gaspé Bay, and which
+from specimens obtained from the rich exposures at Gaspe Bay, and which
 enabled me to illustrate its parts more fully, perhaps, than those of any
 other species of so great antiquity. In the specimens I had obtained I
 was able to recognise the forms of the rhizomata, stems, branches, and
@@ -1884,8 +1884,8 @@ _Psilophyton_ a very distinct generic character. These naked spore-cases
 may be compared to those of such lycopodiaceous plants as _Psilotum_,
 in which the scales are rudimentary. They also bear some resemblance,
 though on a much larger scale, to the spore-cases of some Erian ferns
-(_Archæopteris_), to be mentioned in the sequel. On the whole, however,
-they seem most nearly related to the sporocarps of the Rhizocarpeæ.
+(_Archeopteris_), to be mentioned in the sequel. On the whole, however,
+they seem most nearly related to the sporocarps of the Rhizocarpee.
 
 [Illustration: Fig. 21.--_Lepidodendron_ and _Psilophyton_ (Erian, New
 Brunswick). A, _Lepidodendron Gaspianum_. B, C, _Psilophyton elegans_.]
@@ -1916,13 +1916,13 @@ might have belonged to plants of the type of _Pilularia_. It is quite
 possible, also, that such plants as _Psilophyton glabrum_ and _Cordaites
 angustifolia_, of which the fructification is quite unknown, may have
 been allied to Rhizocarps. With regard to the verticillate type, we are
-at once reminded of _Sphenophyllum_ (Fig. 20), which many palæobotanists
-have referred to the _Marsiliacæ_, though, like other Palæozoic Acrogens,
+at once reminded of _Sphenophyllum_ (Fig. 20), which many paleobotanists
+have referred to the _Marsiliace_, though, like other Paleozoic Acrogens,
 it presents complexities not seen in its modern representatives. _S.
-primævum_ of Lesquereux is found in the Hudson River group, and my
+primevum_ of Lesquereux is found in the Hudson River group, and my
 _S. antiquum_ in the Middle Erian. Besides these, there are in the
 Silurian and Erian beds plants with verticillate leaves which have
-been placed with the Annulariæ, but which may have differed from them
+been placed with the Annularie, but which may have differed from them
 in fructification. _Annularia laxa_, of the Erian, and _Protannularia
 Harknessii_, of the Siluro-Cambrian, may be given as examples, and must
 have been aquatic plants, probably allied to Rhizocarps. It is deserving
@@ -1930,7 +1930,7 @@ of notice, also, that the two best-known species of _Psilophyton_
 (_P. princeps_ and _P. robustius_), while allied to Lycopods by the
 structure of the stem and such rudimentary foliage as they possess, are
 also allied, by the form of their fructification, to the Rhizocarps,
-and not to ferns, as some palæobotanists have incorrectly supposed. A
+and not to ferns, as some paleobotanists have incorrectly supposed. A
 similar remark applies to _Arthrostigma_; and the beautiful pinnately
 leaved _Ptilophyton_ may be taken to represent that type of foliage as
 seen in modern Rhizocarps, while the allied forms of the Carboniferous
@@ -1949,7 +1949,7 @@ filled the waters and have given off the vast multitudes of macrospores
 which, drifted by currents, have settled in the mud of the black shales.
 We have thus a remarkable example of a group of plants reduced in modern
 times to a few insignificant forms, but which played a great role in the
-ancient Palæozoic world.
+ancient Paleozoic world.
 
 Leaving the Rhizocarps, we may now turn to certain other families of
 Erian plants. The first to attract our attention in this age would
@@ -2009,7 +2009,7 @@ admirably illustrated by Dr. Williamson, of Manchester. His papers, it
 is true, refer to these plants as existing in the Carboniferous age, but
 there is every reason to believe that they were of the same character
 in the Erian. The plan is the same with that now seen in the stems of
-exogenous phænogams, and which has long ceased to be used in those of the
+exogenous phenogams, and which has long ceased to be used in those of the
 Lycopods. In this way, however, large and graceful lycopodiaceous trees
 were constructed in the Erian period, and constituted the staple of its
 forests.
@@ -2054,12 +2054,12 @@ species have been found (Figs. 22 to 24).[AW] I have myself recorded
 more than thirty species from the Middle Erian of Canada, and these
 belong to several of the genera found in the Carboniferous, though
 some are peculiar to the Erian. Of the latter, the best known are
-perhaps those of the genus _Archæopteris_ (Fig. 24), so abundant in the
+perhaps those of the genus _Archeopteris_ (Fig. 24), so abundant in the
 plant-beds of Kiltorcan in Ireland, as well as in North America. In this
 genus the fronds are large and luxuriant, with broad obovate pinnules
 decurrent, on the leaf-stalk, and with simple sac-like spore-cases
-borne on modified pinnæ. Another very beautiful fern found with
-_Archæopteris_ is that which I have named _Platyphyllum_, and which grew
+borne on modified pinne. Another very beautiful fern found with
+_Archeopteris_ is that which I have named _Platyphyllum_, and which grew
 on a creeping stem or parasitically on stems of other plants, and had
 marginal fructification.[AX] Another very remarkable fern, which some
 botanists have supposed may belong to a higher group than the ferns, is
@@ -2077,7 +2077,7 @@ _Hymenophyllites Gersdorffii_, and portion enlarged. I, _Alethopteris
 discrepans_, K, _Pecopteris serrulata_, L, _Pecopteris preciosa_. M,
 _Alethopteris Perleyi_.]
 
-[Illustration: Fig. 24.--_Archæopteris Jacksoni_, Dawson (Maine). An
+[Illustration: Fig. 24.--_Archeopteris Jacksoni_, Dawson (Maine). An
 Upper Erian fern, _a_, _b_, Pinnules showing venation.]
 
 [Illustration: Fig. 25.--An Erian tree-fern. _Caulopteris Lockwoodi_,
@@ -2120,7 +2120,7 @@ cryptogams.
 [BA] "Journal of the Geological Society," London, 1881.
 
 [BB] "Sphenopteris Refracta," Goeppert; "Flora des Uebergangsgebirges."
-"Cladoxylon Mirabile," Unger; "Palæontologie des Thuringer Waldes."
+"Cladoxylon Mirabile," Unger; "Paleontologie des Thuringer Waldes."
 
 [Illustration: Fig. 27.--_Calamites radiatus_ (Erian, New Brunswick).]
 
@@ -2135,16 +2135,16 @@ Asterophyllites latifolia. B, Do., apex of stem (?) fruit, C,
 C^1, _A. scutigera_. D, _A. latifolia_, larger whorl of leaves. D^1,
 Leaf.]
 
-The family of the _Equisetaceæ_, or mare's-tails, was also represented
+The family of the _Equisetacee_, or mare's-tails, was also represented
 by large species of _Calamites_ and by _Asterophyllites_ in the Erian;
 but, as its headquarters are in the Carboniferous, we may defer its
 consideration till the next chapter. (Figs. 27, 28.)
 
 Passing over these for the present, we find that the flowering plants are
 represented in the Erian forests by at least two types of Gymnosperms,
-that of _Taxineæ_ or yews, and an extinct family, that of the _Cordaites_
+that of _Taxinee_ or yews, and an extinct family, that of the _Cordaites_
 (Figs. 30, 31). The yew-trees are closely allied to the pines and
-spruces, and are often included with them in the family of _Coniferæ_.
+spruces, and are often included with them in the family of _Conifere_.
 They differ, however, in the habit of producing berries or drupe-like
 fruits instead of cones, and there is some reason to believe that this
 was the habit of the Erian trees of this group, though their wood in
@@ -2186,7 +2186,7 @@ to the genus _Cardiocarpum_ may have been produced by them. Various
 names have been given to these trees. I have preferred that given by
 Unger, _Dadoxylon_, as being more non-committal as to affinities than the
 others.[BC] Many of these trees had very long internal pith-cylinders,
-with curious transverse tubulæ, and which, when preserved separately,
+with curious transverse tubule, and which, when preserved separately,
 have been named _Sternbergia_.
 
 [BC] _Araucarites_, Goeppert; _Araucarioxylon_, Kraus.
@@ -2244,7 +2244,7 @@ We may merely remark here on the fact that, in these forests of the
 Devonian and in the marshes on their margins, we find a wonderful
 expansion of the now modest groups of Rhizocarps and Lycopods, and that
 the flora as a whole belongs to the highest group of Cryptogams and the
-lowest of Phænogams, so that it has about it a remarkable aspect of
+lowest of Phenogams, so that it has about it a remarkable aspect of
 mediocrity. Further, while there is evidence of some variety of station,
 there is also evidence of much equality of climate, and of a condition
 of things more resembling that of the insular climates of the temperate
@@ -2258,7 +2258,7 @@ well as insects existed in the Silurian, it is probable that these also
 occurred in the Erian, though their remains have not yet been discovered.
 All the known insects of the Erian woods are allies of the shad-flies and
 grasshoppers (_Neuroptera_ and _Orthoptera_), or intermediate between
-the two. It is probable that the larvæ of most of them lived in water
+the two. It is probable that the larve of most of them lived in water
 and fed upon the abundant vegetable matter there, or on the numerous
 minute crustaceans and worms. There were no land vertebrates, so far as
 known, but there were fishes (_Dipterus_, etc.), allied to the modern
@@ -2283,7 +2283,7 @@ called by me _Sporangites_, under the supposition that they were
 Sporangia rather than spores, this name has so far been vindicated by the
 discovery of the spore-cases belonging to them, so that I think it may
 still be retained as a provisional name; but I would designate the whole
-as _Protosalviniæ_, meaning thereby plants with rhizocarpean affinities,
+as _Protosalvinie_, meaning thereby plants with rhizocarpean affinities,
 though possibly when better understood belonging to different genera. We
 may under these names speak of their detached discs as macrospores and of
 their cellular envelopes as sporocarps. The following may be recognized
@@ -2386,7 +2386,7 @@ Plants," Part I., page 35, _L. plumula_ of "Report on Lower Carboniferous
 Plants," page 24, Plate I., Figs. 7, 8, 9.) In the reports above referred
 to, these remarkable pinnate, frond-like objects were referred to the
 genus _Lycopodites_, as had been done by Goeppert in his description
-of the European species _Lycopodites pennæformis_, which is very near
+of the European species _Lycopodites penneformis_, which is very near
 to the American Erian form. Since 1871, however, there have been many
 new specimens obtained, and very various opinions expressed as to their
 affinities. While Hall has named some of them _Plumalina_, and has
@@ -2399,7 +2399,7 @@ on "Scottish Devonian Plants"[BE] separated this group from the genus
 _Lycopodites_, and formed for it the genus _Ptilophyton_, in allusion
 to the feather-like aspect of the species. My reasons for this, and my
 present information as to the nature of these plants, may be stated
-as follows: Schimper, in his "Palæontologie Vegetale" (possibly from
+as follows: Schimper, in his "Paleontologie Vegetale" (possibly from
 inattention to the descriptions or want of access to specimens), doubts
 the lycopodiaceous character of species of _Lycopodites_ described in my
 published papers on plants of the Devonian of America and in my Report of
@@ -2407,7 +2407,7 @@ published papers on plants of the Devonian of America and in my Report of
 near to the modern genus _Lycopodium_. _L. Vanuxemii_ is, I admit, more
 problematical; but Schimper could scarcely have supposed it to be a fern
 or a fucoid allied to _Caulerpa_ had he observed that both in my species
-and the allied _L. pennæformis_ of Goeppert, which he does not appear to
+and the allied _L. penneformis_ of Goeppert, which he does not appear to
 notice, the pinnules are articulated upon the stem, and leave scars where
 they have fallen off. When in Belfast in 1870, my attention was again
 directed to the affinities of these plants by finding in Prof. Thomson's
@@ -2431,7 +2431,7 @@ upon the curved extremities of the branches, are long, narrow, linear
 leaves placed in a crowded manner. The specimen is thus not a spike of
 fructification, but a young stem or branch in vernation, and which when
 unrolled would be of the form of those peculiar pinnate _Lycopodites_
-of which _L. Vanuxemii_ of the American Devonian and _L. pennæformis_ of
+of which _L. Vanuxemii_ of the American Devonian and _L. penneformis_ of
 the European Lower Carboniferous are the types, and it shows, what might
 have been anticipated from other specimens, that they were low, tufted
 plants, circinate in vernation. The short stem of this plant is simply
@@ -2448,7 +2448,7 @@ we must regard as the provisional genus _Lycopodites_. On the one hand,
 they are not unlike the slender twigs of _Taxodium_ and similar Conifers,
 and the highly carbonaceous character of the stems gives some colour to
 the supposition that they may have been woody plants. On the other hand,
-they might, so far as form is concerned, be placed with Algæ of the type
+they might, so far as form is concerned, be placed with Alge of the type
 of Brongniart's _Chondrites obtusus_, or the modern _Caulerpa plumaria_.
 Again, in a plant of this type from the Devonian of Caithness to which
 I have referred in a former memoir, the vernation seems to have been
@@ -2470,7 +2470,7 @@ of the leaves or on modified branches with shorter leaves."
 
 The Scottish specimen above referred to was named _Pt. Thomsoni_, and was
 characterised by its densely tufted form and thick branches. The other
-species known are: _Pt. pennæformis_, Goeppert, L. Carboniferous; _Pt.
+species known are: _Pt. penneformis_, Goeppert, L. Carboniferous; _Pt.
 Vanuxemii_, Dawson, Devonian; _Pt. plumula_, Dawson, L. Carboniferous.
 
 Shumard's _Filicites gracilis_, from the Devonian of Ohio, and Stur's
@@ -2498,7 +2498,7 @@ following facts: (1) The plants are not continuous fronds, but slender
 stems or petioles, with narrow, linear leaflets attached in a pinnate
 manner. (2) The pinnules are so articulated that they break off, leaving
 delicate transverse scars, and the lower parts of the stems are often
-thus denuded of pinnæ for the length of one or more inches. (3) The
+thus denuded of pinne for the length of one or more inches. (3) The
 stems curve in such a manner as to indicate a circinate vernation. (4)
 In a few instances the fronds were observed to divide dichotomously
 toward the top; but this is rare. (5) There are no indications of cells
@@ -2535,7 +2535,7 @@ Devonian _Ptilophyton_, which are readily explained if it is supposed to
 be an aquatic plant, attaching itself to the stems of submerged vegetable
 remains and standing erect in the water by virtue of its hollow leaves.
 It may well, however, have been a plant of higher organisation than the
-Algæ, though no doubt cryptogamous.
+Alge, though no doubt cryptogamous.
 
 The species of _Ptilophyton_ will thus constitute a peculiar group
 of aquatic plants, belonging to the Devonian and Lower Carboniferous
@@ -2611,7 +2611,7 @@ diameter, rugose longitudinally. Leaf-scars broad, rounded above, and
 radiatingly rugose, with an irregular scar below, arranged spirally in
 about five ranks; vascular bundles not distinctly preserved. Petioles
 slender, much expanded at the base, dividing at first in a pinnate
-manner, and afterwards dichotomously. Ultimate pinnæ with remains of
+manner, and afterwards dichotomously. Ultimate pinne with remains of
 numerous, apparently narrow pinnules.
 
 This stem is probably the upper part of one or other of the species
@@ -2639,7 +2639,7 @@ petioles will be seen from Fig. 24, _supra_.
 The petioles are broken off within a few inches of the stem; but other
 fragments found in the same beds appear to show their continuation, and
 some remains of their foliage. One specimen shows a series of processes
-at the sides, which seem to be the remains of small pinnæ, or possibly
+at the sides, which seem to be the remains of small pinne, or possibly
 of spines on the margin of the petiole. Other fragments show the
 division of the frond, at first in a pinnate manner, and subsequently by
 bifurcation; and some fragments show remains of pinnules, possibly of
@@ -2648,10 +2648,10 @@ the plant approached, in the form of its fronds and the arrangement of
 its fructification, to the Cyclopterids of the sub-genus _Aneimites_,
 one of which (_Aneimites Acadica_), from the Lower Carboniferous of Nova
 Scotia, I have elsewhere described as probably a tree-fern,[BH] The
-fronds were evidently different from those of _Archæopteris_[BI] a genus
+fronds were evidently different from those of _Archeopteris_[BI] a genus
 characteristic of the same beds, but of very different habit of growth.
 This accords with the fact that there is in Prof. Hall's collection a
-mass of fronds of _Cyclopteris_ (_Archæopteris_) Jacksoni, so arranged
+mass of fronds of _Cyclopteris_ (_Archeopteris_) Jacksoni, so arranged
 as to make it probable that the plant was an herbaceous fern, producing
 tufts of fronds on short stems in the ordinary way. The obscurity of
 the leaf-scars may render it doubtful whether the plant above described
@@ -2661,16 +2661,13 @@ of course, a provisional one; but I have thought it only justice to the
 diligent labours of Mr. Lockwood to name this curious and interesting
 fossil _Caulopteris Lockwoodi_.
 
-[BH] "Quarterly Journal of the Geological Society," 1860.
 
-[BI] The genus to which the well-known _Cyclopteris_ (_Adiantites_)
-_Hibernicus_ of the Devonian of Ireland belongs.
 
 I have elsewhere remarked on the fact that trunks, and petioles, and
 pinnules of ferns are curiously dissociated in the Devonian beds--an
 effect of water-sorting, characteristic of a period in which the
 conditions of deposition were so varied. Another example of this is,
-that in the sandstones of Gaspé Bay, which have not as yet afforded
+that in the sandstones of Gaspe Bay, which have not as yet afforded
 any example of fronds of ferns, there are compressed trunks, which Mr.
 Lockwood's specimens allow me at least to conjecture may have belonged
 to tree-ferns, although none of them are sufficiently perfect for
@@ -2778,7 +2775,7 @@ apparently by pressure, at one end.
 
 This stem is evidently that of a small tree-fern of a type, so far as
 known to me, not before described,[BK] and constituting a very complex
-and symmetrical form of the group of Palæozoic ferns allied to the
+and symmetrical form of the group of Paleozoic ferns allied to the
 genus _Zygopteris_ of Schimper. The central axis alone has a curious
 resemblance to the peculiar stem described by Unger ("Devonian Flora
 of Thuringia") under the name of _Cladoxylon mirabile_; and it is just
@@ -2792,7 +2789,7 @@ agrees with me that it is new.
 The specimen is from the collection of Berlin H. Wright, Esq., of Penn
 Yan, New York, and was found in the Portage group (Upper Erian) of Milo,
 New York, where it was associated with large petioles of ferns and trunks
-of _Lepidodendra_, probably _L. Chemungense_ and _L. primævum_.
+of _Lepidodendra_, probably _L. Chemungense_ and _L. primevum_.
 
 The occurrence of this and other stems of tree-ferns in marine beds
 has recently been illustrated by the observation of Prof. A. Agassiz
@@ -2808,7 +2805,7 @@ In connection with this I may refer to the remarkable facts recently
 stated by Williamson[BL] respecting the stems known as Heterangium and
 _Lyginodendron_. It would seem that these, while having strong exogenous
 peculiarities, are really stems of tree-ferns, thus placing this family
-in the same position of advancement with the Lycopods and Equisetaceæ of
+in the same position of advancement with the Lycopods and Equisetacee of
 the Coal period.
 
 [BL] "Proceedings of the Royal Society," January 6, 1887.
@@ -2846,7 +2843,7 @@ group of the former State. These woods proved to be specifically distinct
 from that of St. John, and were named by me _D. Halli_, _D. Newberryi_,
 and _Ormoxylon Erianum_. The three species of _Dadoxylon_ agreed in
 having composite medullary rays, and would thus belong to the group
-_Palæoxylon_ of Brongniart. In the case of _Ormoxylon_ this character
+_Paleoxylon_ of Brongniart. In the case of _Ormoxylon_ this character
 could not be very distinctly ascertained, but the medullary rays appeared
 to be simple.
 
@@ -2940,7 +2937,7 @@ from Salter's species, and possibly belonging to _L. Gaspianum_.[BS]
 
 [BQ] "Report on Devonian Plants of Canada," 1871.
 
-[BR] "Observations sur quelques Plantes Fossiles des dépôts Devoniens."
+[BR] "Observations sur quelques Plantes Fossiles des depôts Devoniens."
 
 [BS] "Proceedings of the Geological Society of London," March, 1871.
 
@@ -2959,11 +2956,11 @@ woody rootlets, though incorrect, is in one respect creditable to the
 acumen of Salter, as in almost any state of preservation an experienced
 eye can readily perceive that branchlets of _Psilophyton_ must have been
 woody rather than herbaceous, and their appearance is quite different
-from that of any true Algæ.
+from that of any true Alge.
 
 The type of _Psilophyton_ is my _P. princeps_, of which the whole of the
 parts and structures are well known, the entire plant being furnished in
-abundance and in situ in the rich plant-beds of Gaspé. A second species,
+abundance and in situ in the rich plant-beds of Gaspe. A second species,
 _P. robustius_, has also afforded well-characterised fructification. _P.
 elegans_, whose fruit appears as "oval scales," no doubt bore sac-like
 spore-cases resembling those of the other species, but in a different
@@ -3051,7 +3048,7 @@ genus _Ptilophyton_, as stated above under Section II., page 86 _et seq._
 Mr. Salter described, in 1857,[BU] fragments of fossil wood from the
 Scottish Devonian, having the structure of Dadoxylon, though very
 imperfectly preserved; and Prof. McNab has proposed[BV] the generic name
-_Palæopitys_ for another specimen of coniferous wood collected by Hugh
+_Paleopitys_ for another specimen of coniferous wood collected by Hugh
 Miller, and referred to by him in the "Testimony of the Rocks." From
 Prof. McNab's description, I should infer that this wood may, after all,
 be generically identical with the woods usually referred to Dadoxylon
@@ -3073,8 +3070,8 @@ Messrs. Jack and Etheridge have given an excellent summary of our present
 knowledge of the Devonian flora of Scotland, in the Journal of the
 London Geological Society (1877). From this it would appear that species
 referable to the genera _Calamities_, _Lepidodendron_, _Lycopodites_,
-_Psilophyton_, _Arthrostigma_, _Archæopteris_, _Caulopteris_,
-_Palæopitys_, _Araucarioxylon_, and _Stigmaria_ have been recognised.
+_Psilophyton_, _Arthrostigma_, _Archeopteris_, _Caulopteris_,
+_Paleopitys_, _Araucarioxylon_, and _Stigmaria_ have been recognised.
 
 The plants described by these gentlemen from the Old Red Sandstone of
 Callender, I should suppose, from their figures and descriptions, to
@@ -3086,7 +3083,7 @@ of the Devonian. The stems with delicate "horizontal processes" to which
 they refer may belong to _Ptilophyton_ or to _Pinnularia_.
 
 In conclusion, I need scarcely say that I do not share in the doubts
-expressed by some British palæontologists as to the distinctness of
+expressed by some British paleontologists as to the distinctness of
 the Devonian and Carboniferous floras. In eastern America, where these
 formations are mutually unconformable, there is, of course, less room
 for doubt than in Ireland and in western America, where they are
@@ -3115,14 +3112,14 @@ facts, properly understood, do not invalidate the evidence of fossil
 plants as to geological age, though errors arising from the neglect of
 them are still current.
 
-[BX] Andrews, "Palæontology of Ohio," vol. ii.; Meek, "Fossil Plants from
+[BX] Andrews, "Paleontology of Ohio," vol. ii.; Meek, "Fossil Plants from
 Western Virginia," Philosophical Society, Washington, 1875.
 
 
 VI.--Geological Relations of some Plant-bearing Beds of Eastern Canada.
 ("Report on Erian Plants," 1871.)
 
-The Gaspé sandstones have been fully described by Sir W. E. Logan,
+The Gaspe sandstones have been fully described by Sir W. E. Logan,
 in his "Report on the Geology of Canada," 1863. He there assigns to
 them a thickness of seven thousand and thirty-six feet, and shows that
 they rest conformably on the Upper Silurian limestones of the Lower
@@ -3132,7 +3129,7 @@ New Brunswick. I shall add here merely a few remarks on points in their
 physical character connected with the occurrence of plants in them.
 
 _Prototaxites_ (_Nematophyton_) _Logani_ and other characteristic Lower
-Erian plants occur in the base of the sandstones at Little Gaspé. This
+Erian plants occur in the base of the sandstones at Little Gaspe. This
 fact, along with the occurrence, as stated in my paper of 1863, of
 rhizomes of _Psilophyton_ preserving their scalariform structure, in
 the upper part of the marine Upper Silurian limestones,[BY] proves the
@@ -3140,12 +3137,12 @@ flora of the Devonian rocks to have had its beginning at least in the
 previous geological period, and to characterise the lower as well as the
 upper beds of the Devonian series. In this connection I may state that,
 from their marine fossils, as well as their stratigraphical arrangement,
-Sir W. E. Logan and Mr. Billings regard the lower portions of the Gaspé
+Sir W. E. Logan and Mr. Billings regard the lower portions of the Gaspe
 sandstones as the equivalents of the Oriskany sandstone of New York.
 On the other hand, the great thickness of this formation, the absence
 of Lower Devonian fossils from its upper part, and the resemblance of
 the upper beds to those of the newer members of the Devonian elsewhere,
-render it probable that the Gaspé sandstones, though deficient in the
+render it probable that the Gaspe sandstones, though deficient in the
 calcareous members of the system, seen farther to the westward, represent
 the whole of the Devonian period.
 
@@ -3154,7 +3151,7 @@ Billings. They are Upper Silurian, with an intermixture of Lower Devonian
 in the upper part. Fragments of _Nematophyton_ occur in beds of the same
 age in the Bay des Chaleurs, at Cape Bon Ami.
 
-The Gaspé sandstones, as their name imports, are predominantly
+The Gaspe sandstones, as their name imports, are predominantly
 arenaceous, and often coarsely so, the sandstones being frequently
 composed of large grains and studded with quartz-pebbles. Grey and buff
 are prevalent colours, but red beds also occur, more especially in the
@@ -3171,7 +3168,7 @@ shales, much resembling those of the ordinary coal formation. The
 coal is shining and laminated, and both its roof and floor consist of
 laminated bituminous shale with fragments of _Psilophyton_. It has no
 true under-clay, and has been, I believe, a peaty mass of rhizomes of
-_Psilophyton_. It occurs near Tar Point, on the south side of Gaspé Bay,
+_Psilophyton_. It occurs near Tar Point, on the south side of Gaspe Bay,
 a place so named from the occurrence of a thick dyke of trap holding
 petroleum in its cavities. The coal is of considerable horizontal extent,
 as in its line of strike a similar bed has been discovered on the Douglas
@@ -3219,15 +3216,15 @@ ice; such masses are often moved in this way on the borders of modern
 swamps on the sea-coast.
 
 The only remaining point connected with local geology to which I shall
-allude is the admirable facilities afforded by the Gaspé coast both for
+allude is the admirable facilities afforded by the Gaspe coast both for
 ascertaining the true geological relations of the beds, and for studying
 the Devonian plants, as distinctly exposed on large surfaces of rock.
 On the coast of the river St. Lawrence, at Cape Rozier and its vicinity,
 the Lower Silurian rocks of the Quebec group are well exposed, and are
 overlaid unconformably by the massive Upper Silurian limestones of Cape
-Gaspé, which rise into cliffs six hundred feet in height, and can be
+Gaspe, which rise into cliffs six hundred feet in height, and can be
 seen filled with their characteristic fossils on both sides of the cape.
-Resting upon these, and dipping at high angles toward Gaspé Bay, are the
+Resting upon these, and dipping at high angles toward Gaspe Bay, are the
 Devonian sandstones, which are exposed in rugged cliffs slightly oblique
 to their line of strike, along a coast-line of ten miles in length, to
 the head of the bay. On the opposite side of the bay they reappear; and,
@@ -3245,7 +3242,7 @@ of fishes of the genera _Cephalaspis_, _Coccosteus_, _Ctenacanthus_,
 and _Homacanthus_, and also fragments of _Pterygotus_. The shales
 and sandstones abound in remains of _Psilophyton_, with which are
 _Nematophyton_, _Arthrostigma_, and _Leptophleum_ of the same species
-found in the Lower Devonian of Gaspé Bay. These beds near Campbellton dip
+found in the Lower Devonian of Gaspe Bay. These beds near Campbellton dip
 to the northward, and the Restigouche River here occupies a synclinal,
 for on the opposite side, at Bordeaux Quarry, there are thick beds of
 grey sandstone dipping to the southward, and containing large silicified
@@ -3276,10 +3273,10 @@ period, is marine, and affords scarcely any plants, we may, as is usually
 done for like purposes in the Carboniferous, group it with the Oriskany
 under the name Lower Erian. The Hamilton rocks will then be Middle Erian,
 and the Chemung group Upper Erian. In the present state of our knowledge,
-the series may be co-ordinated with the rocks of Gaspé, New Brunswick,
+the series may be co-ordinated with the rocks of Gaspe, New Brunswick,
 and Maine, as in the following table:
 
-                |    New York    |   Gaspé      |  Southern    |  Coast
+                |    New York    |   Gaspe      |  Southern    |  Coast
   Subdivisions. |      and       | and Bay des  |    New       |   of
                 | Western Canada.|  Chaleurs.   |  Brunswick.  |  Maine.
   --------------+----------------+--------------+--------------+-----------
@@ -3291,7 +3288,7 @@ and Maine, as in the following table:
                 |                |              |              |
       Middle    |   Hamilton     |   Middle     |  Little R.   |
    Devonian or  |    Group.      | Sandstones.  |    Group     |
-      Erian.    |                | Bois Brulé,  |  (including  |
+      Erian.    |                | Bois Brule,  |  (including  |
                 |                | Cape Oiseau, |   Cordaite   |
                 |                |     &c.      |  Shales and  |
                 |                |              |   Dadoxylon  |
@@ -3299,8 +3296,8 @@ and Maine, as in the following table:
                 |                |              |              |
      Lower      |  Corniferous   |    Lower     |    Lower     |
    Devonian or  |      and       |  Sandstones. |Conglomerates,|
-     Erian.     |    Oriskany    | Gaspé Basin, |      &c.     |
-                |    groups.     | Little Gaspé,|              |
+     Erian.     |    Oriskany    | Gaspe Basin, |      &c.     |
+                |    groups.     | Little Gaspe,|              |
                 |                |      &c.     |              |
                 |                | Campbellton  |              |
                 |                |     Beds.    |              |
@@ -3341,7 +3338,7 @@ portion of the geological scale in the Devonian of western Europe.
 
 
 VII.--On the Relations of the so-called "Ursa Stage" of Bear Island with
-the Palæozoic Flora of North America.
+the Paleozoic Flora of North America.
 
 The following note is a verbatim copy of that published by me in
 1873, and the accuracy of which has now been vindicated by the recent
@@ -3407,7 +3404,7 @@ CHAPTER IV.
 
 Ascending from the Erian to the Carboniferous system, so called because
 it contains the greatest deposits of anthracite and bituminous coal, we
-are still within the limits of the Palæozoic period. We are still within
+are still within the limits of the Paleozoic period. We are still within
 the reign of the gigantic club-mosses, cordaites, and taxine pines. At
 the close of the Erian there had been over the whole northern hemisphere
 great changes of level, accompanied by active volcanic phenomena, and
@@ -3424,12 +3421,7 @@ coal-formation proper, in which the great tribes of the lycopods and
 cordaites attained their maxima, and the ferns were continued as before,
 though under new generic and specific forms.
 
-[Illustration: Fig. 32.--Foliage from the coal-formation, _a_,
-_Alethopteris lonchitica_, fern (Moose River). _b_, _Sphenophyllum
-Schlotheimii_ (Pietou). _c_, _Lepidodendron binerve_ (Sydney), _d_,
-_Asterophyllites foliosa_ (_?_) (Sydney). _e_, _Cordaites_ (Joggins).
-_f_, _Neuropteris rarinervis_, fern (Sydney). _g_, _Odontopteris
-subcuneata_, fern (Sydney).]
+
 
 There is something very striking in this succession of a new plant
 world without any material advance. It is like passing in the modern
@@ -3460,23 +3452,10 @@ scorpions, and with batrachian reptiles large and small, among which we
 look in vain for representatives of the birds and beasts of the present
 day.
 
-[Illustration: Fig. 33.--_Sigillariæ_, restored. A, _Sigillaria Brownii_.
-B, _Sigillaria elegans_.]
 
-[Illustration: Fig. 34.--_Sigillaria Lorwayana_, Dawson. _a_, Zones of
-fruit-scars. _b_, Leaf-scar enlarged, _c_, Fruit-scar enlarged. See
-appended note.]
-
-[Illustration: Fig. 35.--Stem of _Sigillaria Brownii_. reduced. Natural
-size.]
-
-[Illustration: Fig. 36.--Two ribs of _Sigillaria Brownii_.]
-
-[Illustration: Fig. 37.--Portion of lower part of stem of _S. Brownii_.
-Natural size.]
 
 Prominent among the more gigantic trees of these swampy forests are
-those known to us as _Sigillariæ_ (Fig. 33). They have tall, pillar-like
+those known to us as _Sigillarie_ (Fig. 33). They have tall, pillar-like
 trunks, often several feet in diameter, ribbed like fluted columns, but
 in the reverse way, and spreading at the top into a few thick branches,
 which are clothed with long, grass-like leaves. They resemble in some
@@ -3500,7 +3479,7 @@ long distance, and evidently intended to anchor the plant firmly in a
 soft and oozy soil. They were furnished with long, cylindrical rootlets
 placed regularly in a spiral manner, and so articulated that when they
 dropped off they left regular rounded scars. They are, in short, the
-_Stigmariæ_, which we have already met with in the Erian (Figs. 38, 39).
+_Stigmarie_, which we have already met with in the Erian (Figs. 38, 39).
 In Fig. 33 I have endeavoured to restore these strange trees. It is not
 wonderful that such plants have caused much botanical controversy. It was
 long before botanists could be convinced that their roots are properly
@@ -3514,25 +3493,25 @@ in the mean time Dr. Williamson, of Manchester, and Renault and other
 botanists in France, have been amassing and studying stores of specimens,
 and it is still uncertain who may finally be the fortunate discoverer
 to set all controversies at rest. My present belief is, that the true
-solution consists in the fact that there are many kinds of _Sigillariæ_.
+solution consists in the fact that there are many kinds of _Sigillarie_.
 While in the modern forests of America and Europe the species of any of
 our ordinary trees, as oaks, birches, or maples, may almost be counted
-on one's fingers, Schimper in his vegetable palæontology enumerates
-about eighty species of Carboniferous _Sigillariæ_; and while on the one
+on one's fingers, Schimper in his vegetable paleontology enumerates
+about eighty species of Carboniferous _Sigillarie_; and while on the one
 hand many of these are so imperfectly known that they may be regarded
 as uncertain, on the other hand many species must yet remain to be
 discovered.[CA] Now, in so vast a number of species there must be a
 great range of organisation, and, indeed, it has already been attempted
 to subdivide them into several generic groups. The present state of the
-question appears to me to be this, that in these _Sigillariæ_ we have
+question appears to me to be this, that in these _Sigillarie_ we have
 a group divisible into several forms, some of which will eventually be
 classed with the Lepidodendra as lycopods, while others will be found
-to be naked-seeded phænogams, allied to the pines and cycads, and to a
+to be naked-seeded phenogams, allied to the pines and cycads, and to a
 remarkable group of trees known as _Cordaites_, which we must shortly
 notice.
 
 [CA] In a recent memoir (Berlin, 1887) Stur has raised the number of
-species in one subdivision of the _Sigillariæ_ (the _Favulariæ_) to
+species in one subdivision of the _Sigillarie_ (the _Favularie_) to
 forty-seven!
 
 [Illustration: Fig. 38.--_Stigmaria_ root, seen from above, showing its
@@ -3543,7 +3522,7 @@ attachment of rootlets.]
 
 Before considering other forms of Carboniferous vegetation, let us
 glance at the accumulation of coal, and the agency of the forests of
-_Sigillariæ_ therein. Let us imagine, in the first instance, such trees
+_Sigillarie_ therein. Let us imagine, in the first instance, such trees
 as those represented in the figures, growing thickly together over vast
 swampy flats, with quantities of undergrowth of ferns and other plants
 beneath their shade, and accumulating from age to age in a moist soil
@@ -3556,13 +3535,13 @@ of the _Stigmaria_, already referred to as the root of _Sigillaria_. This
 discovery has since been extended to all the coal-fields of Europe and
 America, and it is a perfectly conclusive fact as regards the origin of
 coal. Each of these "under-clays," as they are called, must, in fact,
-have been a soil on which grew, in the first instance, Sigillariæ and
+have been a soil on which grew, in the first instance, Sigillarie and
 other trees having stigmaria-roots. Thus, the growth of a forest of
-_Sigillariæ_ was the first step toward the accumulation of a bed of
+_Sigillarie_ was the first step toward the accumulation of a bed of
 coal. More than this, in some of the coarser and more impure coals,
 where there has been sufficient earthy matter to separate and preserve
 impressions of vegetable forms, we can see that the mass of the coal is
-made up of flattened _Sigillariæ_, mixed with vegetable _débris_ of all
+made up of flattened _Sigillarie_, mixed with vegetable debris of all
 kinds, including sometimes vast quantities of lepidodendroid spores,
 and the microscopic study of the coal gives similar results (Fig. 40).
 Further, on the surfaces of many coals, and penetrating the shales or
@@ -3625,28 +3604,7 @@ and fruit of these plants have strong points of resemblance to those of
 _Sphenophyllum_, and the leaves are broad, and not narrow and angular
 like those of the true _Calamites_ (Fig. 45).
 
-[Illustration: Fig. 42.--Erect _Sigillaria_, standing on a coal-seam (S.
-Joggins, Nova Scotia).]
 
-[Illustration: Fig. 43.--_Lepidodendron corrugatum_, Dawson, a tree
-characteristic of the Lower Carboniferous, A, Restoration. B, Leaf,
-natural size, C, Cone and branch, D, Branch and leaves, E. Various forms
-of leaf-areoles. F, _Sporangium_, I, L, M, Bark, with leaf-scars, N,
-Bark, with leaf-scars of old stem, O, Decorticated stem (_Knorria_).]
-
-[Illustration: Fig. 44.--_Lepidophloios Acadianus_, Dawson, a
-lepidodendroid tree of the coal-formation, A, Restoration. B, Portion
-of bark (two thirds natural size), C, Ligneous surface of the same, F,
-Cone (two thirds natural size). G, Leaf (natural, size), K, Portion of
-woody cylinder, showing outer and inner series of vessels magnified, L,
-Scalariform vessels (highly magnified), M, Various forms of leaf-scars
-and leaf-bases (natural size).]
-
-[Illustration: Fig. 45.--_Asterophyllites_, _Sphenophyllum_, and
-_Annularia_. A, _Asterophyllites trinerne_. A^1, Leaf enlarged, B,
-_Annularia sphenophylloides_. B^1, Leaf enlarged, C, _Sphenophyllum
-erosum_. C^1, Leaflet enlarged. C^2, Scalariform vessel of
-_Sphenophyllum_. D, _Pinnularia ramosissima_, probably a root.]
 
 No one has done more than my friend Dr. Williamson, of Manchester, to
 illustrate the structure of Calamites, and he has shown that these
@@ -3656,7 +3614,7 @@ the stem is, indeed, so complex, and differs so much in different
 stages of growth, and different states of preservation, that we are
 in danger of falling into the greatest confusion in classifying these
 plants. Sometimes what we call a Calamite is a mere cast of its pith
-showing longitudinal striæ and constrictions at the nodes. Sometimes
+showing longitudinal strie and constrictions at the nodes. Sometimes
 we have the form of the outer surface of the woody cylinder, showing
 longitudinal ribs, nodes, and marks of the emission of the branchlets.
 Sometimes we have the outer surface of the plant covered with a smooth
@@ -3668,14 +3626,7 @@ at different levels, as the mud or sand accumulated about their stems,
 and in some species there were creeping rhizomata or root-stocks (Figs.
 46 to 49).
 
-[Illustration: Fig. 46.--_Calamites_. A, _C. Suckovii_. B, _C. Cistii_.
-(From "Acadian Geology.")]
 
-[Illustration: Fig. 47.--Erect _Calamites_, with roots attached (Nova
-Scotia).]
-
-[Illustration: Fig. 48.--Node of _C. Cistii_, with long leaves (Nova
-Scotia).]
 
 But all Calamites were not alike in structure. In a recent paper[CC]
 Dr. Williamson describes three distinct structural types. What he
@@ -3723,9 +3674,7 @@ has been constantly extending, and a sufficient amount of information
 has been obtained to enable us to say something as to their probable
 relationships. (Figs. 51 to 55.)
 
-[Illustration: Fig. 50.--Stems of _Calamodendron_ and tissues magnified
-(Nova Scotia), _a_, _b_, Casts of axis in sandstone, with woody envelope
-(reduced). _c_, _d_, Woody tissue (highly magnified).]
+
 
 The families into which modern ferns are divided are, it must be
 confessed, somewhat artificial, and in the case of fossil ferns, in
@@ -3733,45 +3682,22 @@ which the fructification is for the most part wanting, it is still more
 so, depending in great part on the form and venation of the divisions
 of the fronds. Of about eight families into which modern ferns are
 divided, seven are found in a fossil state, and of these, four at least,
-the _Cyathaceæ_, the _Ophioglosseæ_, the _Hymenophyllaceæ_, and the
-_Marattiaceæ_, go back to the coal-formation.[CD]
+the _Cyathacee_, the _Ophioglossee_, the _Hymenophyllacee_, and the
+_Marattiacee_, go back to the coal-formation.[CD]
 
 [CD] Mr. R. Kidston has recently described very interesting forms of fern
 fructification from the coal-formation of Great Britain, and much has
-been done by European palæobotanists, and also by Lesquereux and Fontaine
+been done by European paleobotanists, and also by Lesquereux and Fontaine
 in America.
 
-[Illustration: Fig. 51.--Group of coal-formation ferns, A, _Odontopteris
-subcuneata_ (Bunbury), B, _Neuropteris cordata_ (Brongniart). C,
-_Alethopteris lonchitica_ (Brongniart). D, _Dictyopteris obliqua_
-(Bunbury). E, _Phyllopteris antiqua_ (Dawson), magnified; E^1, Natural
-size, F, _Neuropteris cyclopteroides_ (Dawson).]
 
-[Illustration: Fig. 52.--_Alethopteris grandis_ (Dawson). Middle
-coal-formation of Nova Scotia.]
-
-[Illustration: Fig. 53.--_Cyclopteris_ (_Aneimites_) _Acadica_ (Dawson),
-a tree-fern of the Lower Carboniferous. _a_, Pinnules. _b_, Fragment of
-petiole. _c_, Remains of fertile pinnules.]
-
-[Illustration: Fig. 54.--_Sphenopteris latior_, Dawson. Coal-formation,
-_a_, Pinnule magnified, with traces of fructification.]
-
-[Illustration: Fig. 55.--Fructification of Palæozoic ferns, _a_, Thecæ of
-_Archæopteris_ (Erian). _b_, Theca of _Senftenbergia_ (Carboniferous).
-_c_, Thecæ of _Asterotheca_ (Carboniferous).]
-
-[Illustration: Fig. 56.--Tree-ferns of the Carboniferous. A, _Megaphyton
-magnificum_, Dawson, restored. B, Leaf-scar of the same, two thirds
-natural size. B^1, Row of leaf-scars, reduced. C, _Palæopteris Harttii_,
-scars half natural size. D, _Acadica_, scars half natural size.]
 
 Some of these ferns have the more complex kind of spore-case, with a
 jointed, elastic ring. It is to be observed, however, that those forms
 which have a simple spore-case, either netted or membranous, and without
 annulus, are most common in the Devonian and lowest Carboniferous.
 Some of the forms in these old rocks are somewhat difficult to place
-in the system. Of these, the species of _Archæopteris_, of the Upper
+in the system. Of these, the species of _Archeopteris_, of the Upper
 and Middle Erian, are eminent as examples. This type, however, scarcely
 extends as high as the coal-formation.[CE] Some of the tree-ferns of the
 Carboniferous present very remarkable features. One of these, of the
@@ -3806,7 +3732,7 @@ been described, both in Europe and America. We sometimes, though
 rarely, find their stems showing structure. In this case we have a
 large cellular pith, often divided by horizontal partitions into flat
 chambers, and constituting the objects which, when detached, are called
-_Sternbergiæ_ (Fig. 62). These Sternbergia piths, however, occur in true
+_Sternbergie_ (Fig. 62). These Sternbergia piths, however, occur in true
 conifers as well, as they do in the modern world in some trees, like our
 common butternut, of higher type; and I showed many years ago that the
 Sternbergia type may be detected in the young twigs of the balsam-fir
@@ -3820,17 +3746,7 @@ many important points resembles that of cycads, and also approaches to
 the structure of Sigillaria, while in its more highly developed forms it
 approximates to that of the conifers.
 
-[Illustration: Fig. 58.--_Cordaites_ (_Dorycordaites_), Grand d'Eury,
-reduced.]
 
-[Illustration: Fig. 59.--Fruits of _Cordaites_ and Taxine Conifers
-(coal-formation. Nova Scotia.) A, _Antholithes squamosus_ (two thirds).
-B, _A. rhabdocarpi_. (two thirds). B^1, Carpel restored. C, _A. spinosus_
-(natural size). D, _Trigonocarpum intermedium_. E, _T. Noeggerathii_.
-F, _T. avellanum_. G, _Rhabdocarpus insignis_, reduced. H, _Antholithes
-pygmæus_. I, _Cardiocarpum fluitans_. K, _Cardiocarpum bisectum_. L,
-_Sporangites papillata_, lycopodiaceous macrospores (natural size and
-magnified).]
 
 On the stems so constructed were placed long and often broad many-nerved
 leaves, with rows of stomata or breathing-pores, and attached by somewhat
@@ -3848,33 +3764,33 @@ power, since they produced numerous seeds, not singly or a few together,
 as in modern yews, but in long spikes or catkins bearing many seeds (Fig.
 59).
 
-It is to be observed that the Cordaites, or the _Cordaitinæ_, as
+It is to be observed that the Cordaites, or the _Cordaitine_, as
 they have been called, as a family,[CF] constitute another of those
 intermediate groups with which we have already become familiar. On
 the one hand they approach closely to the broader-leaved yews like
 Gingko, Phyllocladus, and Podocarpus, and, on the other hand, they
-have affinities with Cycadaceæ, and even with Sigillariæ. They were
+have affinities with Cycadacee, and even with Sigillarie. They were
 beautiful and symmetrical trees, adding something to the variety of the
-rather monotonous Palæozoic forests. They contributed also somewhat to
+rather monotonous Paleozoic forests. They contributed also somewhat to
 the accumulation of coal. I have found that some thin beds are almost
 entirely composed of their leaves, and the tissues of their wood are not
 infrequent in the mineral charcoal of the larger coal-seams. There is
 no evidence that their roots were of the stigmaroid type, though they
-evidently grew in the same swampy flats with the Sigillariæ and Calamites.
+evidently grew in the same swampy flats with the Sigillarie and Calamites.
 
-[CF] Engler; Cordaitées of Renault.
+[CF] Engler; Cordaitees of Renault.
 
 It may, perhaps, be well to say here that I believe there was a
-considerably wide range of organisation in the Cordaitinæ as well as in
-the Calamites and Sigillariæ, and that it will eventually be found that
+considerably wide range of organisation in the Cordaitine as well as in
+the Calamites and Sigillarie, and that it will eventually be found that
 there were three lines of connection between the higher cryptogams and
-the phænogams, one leading from the lycopods by the Sigillariæ, another
+the phenogams, one leading from the lycopods by the Sigillarie, another
 leading by the Cordaites, and the third leading from the Equisetums by
 the Calamites. Still further back the characters afterward separated in
 the club-mosses, mare's-tails, and ferns, were united in the Rhizocarps,
 or, as some now, but I think somewhat unreasonably, prefer to call
-them, the "heterosporous Filicinæ." In the more modern world, all the
-connecting links have become extinct and the phænogams stand widely
+them, the "heterosporous Filicine." In the more modern world, all the
+connecting links have become extinct and the phenogams stand widely
 separated from the higher cryptogams. I do not make these remarks in
 a Darwinian sense, but merely to state what appear to be the lines of
 natural affinity and the links wanting to give unity to the system of
@@ -3899,25 +3815,13 @@ to that of the yews (Fig. 61). The minute structures of their stems are
 nearer to those of the conifers of the islands of the southern hemisphere
 than to that of those in our northern climes--a correlation, no doubt, to
 the equable climate of the period. There is not much evidence that they
-grew with the Sigillariæ in the true coal-swamps, though some specimens
+grew with the Sigillarie in the true coal-swamps, though some specimens
 have been found in this association. It is more likely that they were in
 the main inland and upland trees, and that in consequence they are mostly
 known to us by drifted trunks borne by river inundations into the seas
 and estuaries.
 
-[Illustration: Fig. 60.--Coniferous wood and foliage (Carboniferous). A,
-_Araucarites gracilis_, reduced, b, _Dadoxylon Acadianum_ (radial), 90
-diams.; B^1 (tangential), 90 diams; B^2, cell showing areolation, 250
-diams. C, _Dadoxylon materiarium_ (radial), 90 diams.; C^1 (tangential),
-90 diams. C^2, cell showing areolation, 250 diams. D, _Dadoxylon
-antiquius_ (radial), 90 diams.; D^1 (tangential), 90 diams.; D^2, cell
-showing areolation, 250 diams.]
 
-[Illustration: Fig. 61.--__Trigonocarpum Hookeri_, Dawson from the
-coal-measures of Cape Breton. Probably the fruit of a Taxine tree. A,
-Broken specimen magnified twice natural size, B, Section magnified: _a_,
-the testa; _b_, the tegmen; _c_, the nucleus; _d_, the embryo, _c_,
-Portion of the surface of the inner coat more highly magnified.]
 
 A remarkable fact in connection with them, and showing also the manner in
 which the most durable vegetable structures may perish by decay, is that,
@@ -3925,24 +3829,21 @@ like the Cordaites, they had large piths with transverse partitions, a
 structure which, as I have already mentioned, appears on a minute scale
 in the twigs of the fir-tree, and that sometimes casts of these piths in
 sandstone appear in a separate form, constituting what have been named
-_Sternbergiæ_ or _Artisiæ_. As Renault well remarks with reference to
+_Sternbergie_ or _Artisie_. As Renault well remarks with reference to
 Cordaites, the existence of this chambered form of pith implies rapid
 elongation of the stem, so that the Cordaites and conifers of the
 coal-formation were probably quickly growing trees (Fig. 62).
 
-[Illustration: Fig. 62.--_Sternbergia_ pith of _Dadoxylon_. A, Specimen
-(natural size), showing remains of wood at _a_, _a_. B, Junction of
-wood and pith, magnified. C, Cells of the wood of do., _a_, _a_; _b_,
-medullary ray; _c_, areolation.]
+
 
 The same general statements may be made as to the coal-vegetation as in
 relation to that of the Erian. In the coal period we have found none of
 the higher exogens, and there are only obscure and uncertain indications
 of the presence of endogens, which we may reserve for a future chapter;
 but gymnosperms abound and are highly characteristic. On the other hand,
-we have no mosses or lichens, and very few Algæ, but a great number of
-ferns and Lycopodiaceæ or club-mosses (Fig. 63). Thus, the coal-formation
-period is botanically a meeting-place of the lower phænogams and the
+we have no mosses or lichens, and very few Alge, but a great number of
+ferns and Lycopodiacee or club-mosses (Fig. 63). Thus, the coal-formation
+period is botanically a meeting-place of the lower phenogams and the
 higher cryptogams, and presents many forms which, when imperfectly known,
 have puzzled botanists in regard to their position in one or other
 series. In the present world, the flora most akin to that of the coal
@@ -3998,7 +3899,7 @@ popular article for the "Contemporary Review," in which he extended an
 isolated and exceptional fact to all coals, and placed this supposed
 origin of coal in a light so brilliant and attractive that he has been
 followed by many recent writers. The fact is, as stated in "Acadian
-Geology," that trunks of _Sigillariæ_ and similar trees constitute a
+Geology," that trunks of _Sigillarie_ and similar trees constitute a
 great part of the denser portion of the coal, and that the cortical
 tissues of these rather than the wood remain as coal. But cortical or
 epidermal tissues in general, whether those of spore-cases or other
@@ -4053,7 +3954,7 @@ of fragments of vegetable matter belonging to various descriptions of
 plants, and including, but not usually in large quantities, sporangites.
 
 3. The more brilliant layers of the coal are seen, when separated by thin
-laminæ of clay, to have on their surfaces the markings of _Sigillariæ_
+lamine of clay, to have on their surfaces the markings of _Sigillarie_
 and other trees, of which they evidently represent flattened specimens,
 or rather the bark of such specimens. Under the microscope, when their
 structures are preserved, these layers show cortical tissues more
@@ -4064,7 +3965,7 @@ of _Cordaites_ or _Pychnophyllum_.
 
 5. The _Stigmaria_ under-clays and the stumps of _Sigillaria_ in the
 coal-roofs equally testify to the accumulation of coal by the growth of
-successive forests, more especially of _Sigillariæ_. There is, on the
+successive forests, more especially of _Sigillarie_. There is, on the
 other hand, no necessary connection of sporangite-beds with Stigmarian
 soils. Such beds are more likely to be accumulated in water, and
 consequently to constitute bituminous shales and cannels.
@@ -4099,7 +4000,7 @@ considerable portions of such vegetable accumulations as the beds of
 coal, and that when present in large proportion they should afford richly
 bituminous beds. All this agrees with the fact, apparent on examination
 of the common coal, that the greater number of its purest layers consist
-of the flattened bark of _Sigillariæ_ and similar trees, just as any
+of the flattened bark of _Sigillarie_ and similar trees, just as any
 single flattened trunk embedded in shale becomes a layer of pure coal.
 It also agrees with the fact that other layers of coal, and also the
 cannels and earthy bitumens, appear under the microscope to consist of
@@ -4145,21 +4046,6 @@ and represent cork and _Lycopodium_ as containing twenty-four equivalents
 of carbon. For comparison I give the composition of specimens of peat,
 brown coal, lignite, and bituminous coal:[CL]
 
-[CL] "Canadian Naturalist," vi., 253.
-
-Cellulose C{24}H{20}O{20}
-
-Cork C{24}H{18-2/10}O{6-7/10}
-
-Lycopodium C{24}H{19-4/10}NO{5-6/10}
-
-Peat (Vaux) C{24}H{14-4/10}O{10}
-
-Brown coal (Schröther) C{24}H{14-3/10}O{10-6/10}
-
-Lignite (Vaux) C{24}H{11-3/10}O{6-4/10}
-
-Bituminous coal (Regnault) C{24}H{10}O{3-3/10}
 
 "It will be seen from this comparison that, in ultimate composition, cork
 and _Lycopodium_ are nearer to lignite than to woody fibre, and may be
@@ -4177,7 +4063,7 @@ spore-cases would be most suitable material for the production of
 bituminous coal. But this suitableness they share with the epidermal
 tissue of the scales of strobiles, and of the stems and leaves of ferns
 and lycopods, and, above all, with the thick, corky envelope of the
-stems of _Sigillariæ_ and similar trees, which, as I have elsewhere
+stems of _Sigillarie_ and similar trees, which, as I have elsewhere
 shown,[CM] from its condition in the prostrate and erect trunks contained
 in the beds associated with coal, must have been highly carbonaceous
 and extremely enduring and impermeable to water. In short, if, instead
@@ -4222,7 +4108,7 @@ been given.
 
 The great forests of the coal period, while purifying the atmosphere of
 its excess of unwholesome carbonic acid, were storing up the light and
-heat of Palæozoic summers in a form in which they could be recovered in
+heat of Paleozoic summers in a form in which they could be recovered in
 our human age, so that, independently of their uses to the animals which
 were their contemporaries, they are indispensable to the existence of
 civilised man.
@@ -4233,7 +4119,7 @@ insufficient for the supply of our wants, and though we are beginning
 to apply water-power to the production of electricity, and though some
 promising plans have been devised for the utilisation of the direct heat
 and light of the sun, we are still quite as dependent as any of our
-predecessors on what has been done for us in the Palæozoic age.
+predecessors on what has been done for us in the Paleozoic age.
 
 In the previous pages I have said little respecting the physical
 geography of the Carboniferous age; but, as may be inferred from the
@@ -4266,14 +4152,14 @@ like manner distinguished Devonian and Carboniferous forms in Brazil
 akin to those of the northern hemisphere. Thus the southern hemisphere
 would seem to have kept pace with the northern, and according to Blanford
 there is evidence there of cold conditions in the Permian, separating
-the Palæozoic flora from that of the Mesozoic, in the same manner that
+the Paleozoic flora from that of the Mesozoic, in the same manner that
 Ramsay has supposed a similar period of cold to have done north of the
 equator. This would imply a very great change of climate, since we have
 evidence of the extension of the Lower Carboniferous flora at least as
 far north as Spitzbergen. The upper coal-formation we cannot, however,
 trace nearly so far north; so that a gradual refrigeration may have been
 going on before the Permian. Thus in both hemispheres there was a general
-similarity in the later Palæozoic flora, and perhaps similar conditions
+similarity in the later Paleozoic flora, and perhaps similar conditions
 leading to its extinction and to its replacement by that to be described
 in the next chapter.
 
@@ -4285,10 +4171,10 @@ in the next chapter.
 
 NOTES TO CHAPTER IV.
 
-I. Characters and Classification of Palæozoic Plants.
+I. Characters and Classification of Paleozoic Plants.
 
 In the space available in this work it would be impossible to enter fully
-into the classification of Palæozoic plants; but it may be well to notice
+into the classification of Paleozoic plants; but it may be well to notice
 some important points for the guidance of those who may desire to collect
 specimens; more especially as much uncertainty exists as to affinities
 and very contradictory statements are made. The statements below may
@@ -4296,9 +4182,9 @@ be regarded as the results of actual observation and of the study of
 specimens _in situ_ in the rocks, as well as in the cabinet and under the
 microscope.
 
-Gymnospermeæ.
+Gymnospermee.
 
-_Family_ Coniferæ; _Genus_ Dadoxylon, Endlicher; Araucarites, Goeppert;
+_Family_ Conifere; _Genus_ Dadoxylon, Endlicher; Araucarites, Goeppert;
 Araucarioxylon, Kraus.
 
 The trunks of this genus occur from the Middle Devonian to the Permian
@@ -4316,13 +4202,13 @@ The following are North American species:
   _Dadoxylon Ouangondianum_, Dn.       M. Erian          Report, 1871.[CP]
   _D. Halli_, Dn.                          "                   "
   _D. Newberryi_, Dn.                      "                   "
-  _D. Clarkii_, Dn. (Cordæoxylon ?)        "             Report, 1882.
+  _D. Clarkii_, Dn. (Cordeoxylon ?)        "             Report, 1882.
   _D. Acadianum_, Dn.                  Coal-formation    Acadian Geology.
                                          and millstone
                                          grit.
   _D. Materiarum_, Dn.                 Do. and Permo-          "
                                          Carb.
-  _D._ (_Palæoxylon_) _antiquius_, Dn. L. Carboniferous.       "
+  _D._ (_Paleoxylon_) _antiquius_, Dn. L. Carboniferous.       "
   _D. annulatum_, Dn.                  Coal-formation.         "
   _Ormoxylon Erianum_, Dn.             Erian             Report, 1871.
 
@@ -4343,7 +4229,7 @@ microscopic examination of a very large number of trunks from different
 parts of North America. The three Erian species of _Dadoxylon_ and _D.
 antiquius_ from the Lower Carboniferous have two or more rows of cells
 in the medullary rays. The last named has several rows, and is a true
-_Palæoxylon_ allied to _D. Withami_ of Great Britain. _D. materiarium_
+_Paleoxylon_ allied to _D. Withami_ of Great Britain. _D. materiarium_
 is specially characteristic of the upper coal-formation and Permian,
 and to it must belong one or both of the species of foliage indicated
 above. _D. Clarkii_ has very short, simple medullary rays of only a few
@@ -4361,14 +4247,14 @@ restricting Araucarites to foliage, etc., of Araucaria-like trees, gave
 the name _Dadoxylon_ to the wood; and this, through Unger's "Genera and
 Species," has gained somewhat general acceptance. Endlicher also gave the
 name _Pissadendron_ to the species which Witham had called _Pitus_; but
-Brongniart proposed the name _Palæoxylon_ to include all the species with
+Brongniart proposed the name _Paleoxylon_ to include all the species with
 thick and complex medullary rays, whatever the arrangement of the discs.
 In Schimper's new work Kraus substitutes _Araucarioxylon_ for Endlicher's
 _Dadoxylon_, and includes under _Pissadendron_ all the species placed by
-Brongniart in _Palæoxylon_.
+Brongniart in _Paleoxylon_.
 
 To understand all this confusion, it may be observed that the characters
-available in the determination of Palæozoic coniferous wood are chiefly
+available in the determination of Paleozoic coniferous wood are chiefly
 the form and arrangement of the wood-cells, the character of the bordered
 pores or discs of their walls, and the form and composition of the
 medullary rays.
@@ -4385,11 +4271,11 @@ of _Dadoxylon_. The true character for subdividing those species which
 are especially characteristic of the Carboniferous, is the composite
 structure of the medullary rays, which are thick and composed of several
 radial piles of cells placed side by side. This was the character
-employed by Brongniart in separating the genus _Palæoxylon_, though he
+employed by Brongniart in separating the genus _Paleoxylon_, though he
 might with convenience have retained Witham's name, merely transferring
 to the genus the species of Witham's _Pinites_ which have complex
 medullary rays. The Erian rocks present the greatest variety of types,
-and _Palæoxylon_ is especially characteristic of the Lower Carboniferous,
+and _Paleoxylon_ is especially characteristic of the Lower Carboniferous,
 while species of _Dadoxylon_ with two rows of bordered pores and simple
 medullary rays are especially plentiful in the upper coal-formation and
 Permo-Carboniferous.
@@ -4398,7 +4284,7 @@ The following table will clearly show the distinctive characters and
 relations of the genera in question, as held by the several authors above
 referred to:
 
-_Wood of Palæozoic Conifers._
+_Wood of Paleozoic Conifers._
 
       Woody    |  Medullary rays    |       Generic       |   Geological
       fibres.  |    and pith.       |        names.       |      age.
@@ -4408,7 +4294,7 @@ _Wood of Palæozoic Conifers._
   -------------+--------------------+---------------------+---------------
                | Complex, or of two | { _Pitus_,          |
                |  or more series of | {  Witham.          | Middle and
-               |  or more series of | { _Palæoxylon_,     |  Lower
+               |  or more series of | { _Paleoxylon_,     |  Lower
                |  cells.            | {   Brongniart.     |  Carboniferous
                | Pith Sternbergian. | { _Pissadendron_,   |  and Devonian.
                |                    | {   Endlicher.      |
@@ -4425,7 +4311,7 @@ _Wood of Palæozoic Conifers._
                +--------------------+---------------------+---------------
                | Medullary sheath   |                     | Devonian.
                |  scalariform.      | _Dadoxylon_         |
-               | Medullary rays     |   (Cordæoxylon),[CR] |
+               | Medullary rays     |   (Cordeoxylon),[CR] |
                |  frequent, simple, |   Dn.               |
                |  short.            |                     |
   -------------+--------------------+---------------------+---------------
@@ -4482,7 +4368,7 @@ chambered pith cavity, the cast of which shows transverse furrows. The
 young twigs of the modern _Abies balsamifera_ present a similar structure
 on a minute scale. I have ascertained and described such pith-cylinders
 in large stems of _Dadoxylon Ouangondianum_, and _D. materiarium_. They
-occur also in the stems of _Cordaites_ and probably of _Sigillariæ_. I
+occur also in the stems of _Cordaites_ and probably of _Sigillarie_. I
 have discussed these curious fossils at length in "Acadian Geology" and
 in the "Journal of the Geological Society of London," 1860. The following
 summary is from the last-mentioned paper:
@@ -4498,12 +4384,12 @@ _c._ Other examples show a true scalariform tissue, comparable with that
 of _Lepidodendron_ or _Sigillaria_, but of finer texture. Corda has shown
 that plants of the type of the former genus (his _Lomatophloios_) had
 _Sternbergia_ piths. Some plants of this group are by external characters
-loosely reckoned by botanists as ribless _Sigillariæ_ (_Clathraria_); but
+loosely reckoned by botanists as ribless _Sigillarie_ (_Clathraria_); but
 I believe that they are not related even ordinally to that genus.
 
-_d._ Many Carboniferous _Sternbergiæ_ show structures identical with
+_d._ Many Carboniferous _Sternbergie_ show structures identical with
 those described above as occurring in _Cordaites_, and also in some of
-the trees ordinarily reckoned as _Sigillariæ_.
+the trees ordinarily reckoned as _Sigillarie_.
 
 _Genus_ Cardiocarpum.
 
@@ -4517,7 +4403,7 @@ of which they also resemble in the outline of the margin, except that the
 wings of samaras are usually veiny. The character of the nucleus, and the
 occasional appearance in it of marks possibly representing cotyledons or
 embryos, forbids the supposition that they are spore-cases. They must
-have been fruits of phænogams. Whether they were winged fruits or seeds,
+have been fruits of phenogams. Whether they were winged fruits or seeds,
 or fruits with a pulpy envelope like those of cycads and some conifers,
 may be considered less certain. The not infrequent distortion of the
 margin is an argument in favour of the latter view, though this may also
@@ -4538,7 +4424,7 @@ it still appears likely that they were winged.
 
 The _Cardiocarpa_ were borne in racemes or groups, and it seems certain
 that some of them at least are the seeds of _Cordaites_. The association
-of some of them and of those of the next genus with _Sigillariæ_ is so
+of some of them and of those of the next genus with _Sigillarie_ is so
 constant that I cannot doubt that some of them belong to plants of that
 genus, or possibly to taxine conifers. The great number of distinct
 species of these seeds, as compared with that of known trees which could
@@ -4547,7 +4433,7 @@ have produced them, is very remarkable.
 _Genus_ Trigonocarpum.
 
 These are large angled nuts contained in a thick envelope, and showing
-internal structures resembling those of the seeds of modern _Taxineæ_.
+internal structures resembling those of the seeds of modern _Taxinee_.
 There are numerous species, as well as allied seeds referred to the
 provisional genera _Rhabdocarpus_ and _Carpolithes_. In _Trigonocarpum
 Hookeri_ I have described the internal structure of one of those seeds,
@@ -4559,14 +4445,14 @@ _Genus_ Antholithes.
 
 This is also a provisional genus, to include spikes of floral organs,
 some of which are known to have belonged to _Cordaites_, others probably
-to _Sigillariæ_.
+to _Sigillarie_.
 
 
 Of Uncertain Affinities.
 
-_Family_ Sigillariaceæ.
+_Family_ Sigillariacee.
 
-Under this name palæobotanists have included a great number of trees
+Under this name paleobotanists have included a great number of trees
 of the Carboniferous system, all of which are characterised by broad
 leaf-sears, with three vascular scars, and usually arranged in
 vertical rows, and by elongated three-nerved leaves, and roots of the
@@ -4575,26 +4461,26 @@ rootlets spirally arranged. These trees, however, collected in the
 genus Sigillaria by arbitrary characters, which pass into those of
 the Lepidodendroid trees, have been involved in almost inextricable
 confusion, to disentangle which it will be necessary to consider: 1. The
-external characters of _Sigillariæ_, and trees confounded with them. 2.
-Subdivision of _Sigillariæ_ by external markings. 3. The microscopic
+external characters of _Sigillarie_, and trees confounded with them. 2.
+Subdivision of _Sigillarie_ by external markings. 3. The microscopic
 character of their stems. 4. What is known of their foliage and fruit.
 
 1. _Characters of Sigillaroid and Lepidodendroid Trunks_.
 
 It may be premised that the modes of determination in fossil botany
 are necessarily different from those employed in recent botany. The
-palæobotanist must have recourse to characters derived from the leaves,
+paleobotanist must have recourse to characters derived from the leaves,
 the scars left by their fall, and the internal structures of the stem.
 These parts, held in little esteem by botanists in describing modern
 plants, and much neglected by them, must hold the first place in the
 regard of the fossil botanist, whereas the fructification, seldom
 preserved, and generally obscure, is of comparatively little service. It
 is to be remarked also that in such generalised plants as those of the
-Palæozoic, remarkable rather for the development of the vegetative than
+Paleozoic, remarkable rather for the development of the vegetative than
 of the reproductive organs, the former rise in importance as compared
 with their value in the study of modern plants.
 
-In _Sigillariæ_, _Lepidodendra_, &c., the following surfaces of the stem
+In _Sigillarie_, _Lepidodendra_, &c., the following surfaces of the stem
 may be presented to our inspection:
 
 1. The outer surface of the epidermis without its leaves, but with
@@ -4653,9 +4539,9 @@ Calamites.
 
 5. In some cases the cast of the medullary cylinder or pith may alone
 be preserved. This may be nearly smooch or slightly marked by vertical
-striæ, but more usually presents a transverse striation, and not
+strie, but more usually presents a transverse striation, and not
 infrequently the transverse constrictions and septa characteristic of the
-genus Sternbergia. Loose _Sternbergiæ_ afford little means of connecting
+genus Sternbergia. Loose _Sternbergie_ afford little means of connecting
 them with the species to which they belong, except by the microscopic
 examination of the shreds of the ligneous cylinder which often cling to
 them.[CS]
@@ -4663,16 +4549,16 @@ them.[CS]
 [CS] See my paper, "Journal of Geological Society," vol. xxvii.
 
 These facts being premised, the following general statements may be made
-respecting some of the more common Palæozoic genera, referring, however,
+respecting some of the more common Paleozoic genera, referring, however,
 principally to the perfect markings as seen on the epidermis:
 
 _Sigillaria._--Leaf-bases hexagonal or elongated, or confluent on a
 vertical ridge. Leaf-scars hexagonal or shield-shaped. Vascular scars
 three, the two lateral larger than the central. This last character
 is constant, depending on the fact that the leaves of Sigillaria have
-two or more vascular bundles. All so-called _Sigillariæ_ having the
+two or more vascular bundles. All so-called _Sigillarie_ having the
 central vascular scar largest, or only one vascular bundle, should be
-rejected from this genus. In young branches of branching _Sigillariæ_ the
+rejected from this genus. In young branches of branching _Sigillarie_ the
 leaf-scars sometimes appear to be spiral, but in the older stems they
 form vertical rows; interrupted, however, by transverse rows or bands
 of _fruit-scars_, each with a single large central vascular scar, and
@@ -4741,17 +4627,17 @@ In tree-ferns the leaf-bases are large and usually without a distinct
 articulating surface. The vascular bundles are numerous. Protopteris
 has rounded leaf-scars with a large horseshoe-shaped bundle of vessels
 above and small bundles below. Caulopteris has large elliptic or oval
-leaf-scars with vascular scars disposed concentrically. Palæopteris,[CT]
+leaf-scars with vascular scars disposed concentrically. Paleopteris,[CT]
 of Geinitz, has the leaf-scars transversely oval and the vascular bundles
 confluent in a transverse band with an appendage or outlying bundle
 below. Stemmatopteris has leaf-scars similar to those of Caulopteris, but
 the vascular bundles united into a horseshoe-shaped band.
 
 [CT] This name, preoccupied by Geinitz, has been inadvertently misapplied
-to the Devonian ferns of the genus _Archæopteris_.
+to the Devonian ferns of the genus _Archeopteris_.
 
 
-2. _Subdivision of Sigillariæ in Accordance with their Markings_.
+2. _Subdivision of Sigillarie in Accordance with their Markings_.
 
 The following groups may be defined in this way; but, being based on one
 character only, they are of course in all probability far from natural:
@@ -4796,11 +4682,11 @@ _Lepidophloios_.
 3. _Internal Structures of Sigillaria-Stems_.
 
 I long ago pointed out, on the evidence of the external markings and
-mode of growth, that the stems of _Sigillariæ_ must have been exogenous,
+mode of growth, that the stems of _Sigillarie_ must have been exogenous,
 and this conclusion has now been fully confirmed by the microscopic
-researches of Williamson, not only in the case of _Sigillariæ_, but
+researches of Williamson, not only in the case of _Sigillarie_, but
 of _Lepidodendra_ and _Calamodendra_ as well. Confining myself to my
-own observations, three types of _Sigillariæ_ are known to me by their
+own observations, three types of _Sigillarie_ are known to me by their
 internal structures, though I cannot certainly correlate all of these
 with the external markings referred to above.
 
@@ -4871,7 +4757,7 @@ inscribed in hexagonal areoles in the manner of Dadoxylon. This woody
 cylinder is traversed by medullary rays, which are short, and composed
 of few rows of cells superimposed. It is also traversed by oblique
 radiating bundles of pseudo-scalariform tissue proceeding to the leaves.
-In some _Sigillariæ_ this outer cylinder was itself in part composed of
+In some _Sigillarie_ this outer cylinder was itself in part composed of
 pseudo-scalariform tissue, as in Brongniart's specimen of _S. elegans_;
 and in others its place may have been taken by multiporous tissue, as in
 a case above referred to; but I have no reason to believe that either of
@@ -4908,7 +4794,7 @@ hand scarcely advanced beyond those of Calamopitus, as described by
 Williamson, and on the other approach to those of _Cordaites_, as seen in
 specimens presented to me by Renault.
 
-Finally, as to the fruit of _Sigillariæ_, I have no new facts to offer.
+Finally, as to the fruit of _Sigillarie_, I have no new facts to offer.
 The strobiles or spikes associated with these trees have been variously
 described as gymnospermous (Renault) or cryptogamous (Groldenberg and
 Williamson). 1 have never seen them in place. Two considerations,
@@ -4920,7 +4806,7 @@ are homologous with leaf-scars, not with branches, and therefore should
 have borne single carpels and not cones or spikes of inflorescence. These
 are merely suggestions, but I have no doubt they will be vindicated
 by future discoveries, which will, I have no doubt, show that in the
-family _Sigillariaceæ_ we have really two families, one possibly of
+family _Sigillariacee_ we have really two families, one possibly of
 gymnospermous rank, or at least approaching to this, the other allied to
 the Lepidodendra.
 
@@ -4929,7 +4815,7 @@ Cryptogamia.
 
 (_Acrogenes._)
 
-_Family_ Lepidodendreæ; _Genus_ Lepidodendron, Sternberg.
+_Family_ Lepidodendree; _Genus_ Lepidodendron, Sternberg.
 
 These are arboreal Lycopods having linear one-nerved leaves, stems
 branching dichotomously, and with ovate or rhombic leaf-bases bearing
@@ -4989,14 +4875,14 @@ In young succulent shoots the leaf-scars are contiguous and round as
 in Cyclostigma, without distinct leaf-bases. In this state it closely
 resembles _L. Olivieri_, Eichwald.[CY]
 
-[CY] Lethæa Rossica, Plate Y, Figs. 12, 13.
+[CY] Lethea Rossica, Plate Y, Figs. 12, 13.
 
 In the ordinary young branches the leaf-scars are contiguous, and closely
 resemble those of _L. elegans_, Brongt. (Fig. 43 C). As the branches
 increase in diameter the leaf-scars slightly enlarge and sometimes assume
 a verticillate appearance (Fig. 43 D). As they still further enlarge they
 become separated by gradually increasing spaces of bark, marked with many
-waving striæ or wrinkles (Fig. 43 I, N). At the base of old stems the
+waving strie or wrinkles (Fig. 43 I, N). At the base of old stems the
 bark assumes a generally wrinkled appearance without distinct scars.
 
 _Knorria or Decorticated States._--Of these there is a great variety,
@@ -5018,7 +4904,7 @@ _Leaves._--These are narrow, one-nerved, curving somewhat rapidly outward
 
 _Roots._--I have not seen these actually attached, but they occur very
 abundantly in the under-clays of some erect forests of these plants at
-Horton Bluff, and are of the character of Stigmariæ (Figs. 30, 31). In
+Horton Bluff, and are of the character of Stigmarie (Figs. 30, 31). In
 some of the under-clays the long, flattened rootlets are excessively
 abundant, and show the mark of a central vascular bundle.
 
@@ -5134,10 +5020,10 @@ scales covering small globular spore-cases. This species is closely
 allied to _Ulodendron majus_ and _Lepidophloios laricinus_, and presents
 numerous varieties of marking. Coal-formation, Nova Scotia.
 
-_Family_ Calamiteæ; _Genus_ Calamites, Suckow.
+_Family_ Calamitee; _Genus_ Calamites, Suckow.
 
 The plants of this genus are unquestionably allied to the modern
-_Equisetaceæ_, but excel these so much in variety of form and structure,
+_Equisetacee_, but excel these so much in variety of form and structure,
 and are so capricious in their states of preservation, and so liable to
 be mistaken for parts of plants generically different, that they have
 given rise to much controversy. The following considerations will enable
@@ -5159,7 +5045,7 @@ showing merely longitudinal ribbing and transverse nodal constrictions.
 In studying these plants _in situ_ in the erect Calamite brakes of
 the coal-formation of Nova Scotia, one soon becomes familiar with
 these appearances, but they are evidently unknown to the majority of
-palæobotanists, though described in detail more than twenty years ago.
+paleobotanists, though described in detail more than twenty years ago.
 
 When the outer surface is preserved it is sometimes seen to bear
 verticils of long needle-like leaves (_C. Cistii_), or of branchlets with
@@ -5281,7 +5167,7 @@ my paper on the subject, "Journal of the Geological Society," vol. xxvii,
 p. 54, I may remark:
 
 1. That the aërial stems of ordinary Calamites had a thin cortical layer,
-with lacunæ and fibrous bundles and multiporous vessels--the whole not
+with lacune and fibrous bundles and multiporous vessels--the whole not
 differing much from the structure of modern Equiseta.
 
 2. Certain arborescent forms, perhaps allied to the true Calamites,
@@ -5311,7 +5197,7 @@ from those of Calamites.
 be found for establishing species of this genus, and these species are of
 value as marks of geological age.
 
-_Genus_ Archæocalamites, Sternberg.
+_Genus_ Archeocalamites, Sternberg.
 
 This genus has been established to include certain Calamites of the
 Devonian and Lower Carboniferous, in which the furrows on the stem do not
@@ -5322,7 +5208,7 @@ Europe it has so far been recognised in the Lower Carboniferous only. I
 have, however, seen stems from alleged Devonian beds in Devonshire which
 may have belonged to this species.
 
-_Family_ Asterophylliteæ; _Genus_ Asterophyllites, Brongniart.
+_Family_ Asterophyllitee; _Genus_ Asterophyllites, Brongniart.
 
 Stems ribbed and jointed like the _Calamites_, but with inflated nodes
 and a stout internal woody cylinder, which has been described by
@@ -5351,11 +5237,11 @@ miniature to the roots of _Calamites_. They are always flattened, but
 seem originally to have been round, with a slender thread-like axis of
 scalariform vessels, enclosed in a soft, smooth, cellular bark.
 
-_Family_ Rhizocarpeæ; _Genus_ Sphenophyllum.
+_Family_ Rhizocarpee; _Genus_ Sphenophyllum.
 
 Leaves in whorls, wedge-shaped, with forking veins. Fructification on
 spikes, with verticils of sporocarps. These plants are by some regarded
-as allied to the _Calamiteæ_ and _Asterophylliteæ_, by others as a high
+as allied to the _Calamitee_ and _Asterophyllitee_, by others as a high
 grade of Rhizocarps of the type of Marsilia. The stem had a star-shaped
 central bundle of scalariform or reticulato-scalariform vessels.
 
@@ -5387,12 +5273,12 @@ interest, I have reproduced their descriptions in a note appended to
 Chapter III, which see.
 
 The other forms most frequently occurring in the Carboniferous are
-_Caulopteris_, _Palæopteris_, and _Megaphyton_[DE] Stems showing merely
+_Caulopteris_, _Paleopteris_, and _Megaphyton_[DE] Stems showing merely
 masses of aërial roots are known by the name _Psaronius_.
 
 [DE] See my "Acadian Geology," also below.
 
-With reference to the classification of Palæozoic ferns, this has
+With reference to the classification of Paleozoic ferns, this has
 hitherto been quite arbitrary, being based on mere form and venation of
 fronds, but much advance has recently been made in the knowledge of their
 fructification, warranting a more definite attempt at classification. The
@@ -5461,7 +5347,7 @@ parallel to the edge of the frond.
 Sphenopteris, but divided at the margin into one-nerved lobes, in the
 manner of the modern genus _Hymenophyllum_.
 
-12. _Palæopteris_, Geinitz.--This is a genus formed to include certain
+12. _Paleopteris_, Geinitz.--This is a genus formed to include certain
 trunks of tree-ferns with oval transverse scars of leaves.
 
 13. _Caulopteris_, Lindley and Hutton.--Is another genus of fossil trunks
@@ -5504,9 +5390,9 @@ of fronds were borne at one time at the top of the stem; and, if these
 were broad and spreading, it would be a very graceful plant. To what
 extent plants of this type contributed to the accumulation of coal I have
 no means of ascertaining, their tissues in the state of coal not being
-distinguishable from those of ferns and _Lycopodiaceæ_."
+distinguishable from those of ferns and _Lycopodiacee_."
 
-16. For descriptions of the genus _Archæopteris_ and other Erian ferns,
+16. For descriptions of the genus _Archeopteris_ and other Erian ferns,
 see Chapter III.
 
 
@@ -5543,7 +5429,7 @@ still remain, though they have been temporarily modified by subsequent
 subsidences and re-elevations.
 
 Along with this a great change was in progress in vegetable and animal
-life. The flora and fauna of the Palæozoic gradually die out in the
+life. The flora and fauna of the Paleozoic gradually die out in the
 Permian and are replaced in the succeeding Trias by those of the Mesozoic
 time. Throughout the Permian, however, the remains of the coal-formation
 flora continue to exist, and some forms, as the _Calamites_, even seem
@@ -5590,13 +5476,13 @@ the earlier Mesozoic.
 
 Passing over for the present the cryptogamous plants already familiar
 in older deposits, we may notice the new features of gymnospermous and
-phænogamous life, as they present themselves in this earlier part of the
+phenogamous life, as they present themselves in this earlier part of the
 great reptilian age, and as they extended themselves with remarkable
 uniformity in this period over all parts of the world. For it is a
 remarkable fact that, if we place together in our collections fossil
 plants of this period from Australia, India, China, Siberia, Europe,
 or even from Greenland, we find wonderfully little difference in their
-aspect. This uniformity we have already seen prevailed in the Palæozoic
+aspect. This uniformity we have already seen prevailed in the Paleozoic
 flora; and it is perhaps equally marked in that of the Mesozoic. Still we
 must bear in mind that some of the plants of these periods, as the ferns
 and pines, for example, are still world-wide in their distribution; but
@@ -5623,7 +5509,7 @@ disc-bearing fibres of the pines.
 Though the cycads have a considerable range of organisation and of
 fructification, and though some points in reference to the latter might
 assign them a higher place, on the whole they seem to occupy a lower
-position than the conifers or the cordaiteæ of the Carboniferous.
+position than the conifers or the cordaitee of the Carboniferous.
 In the Carboniferous some of the fern-like leaves assigned to the
 genus _Noeggerathia_ have been shown by Stur and Weiss to have been
 gymnosperms, probably allied to cycads, of which they may be regarded at
@@ -5631,7 +5517,7 @@ least as precursors. Thus the cycadean type does not really constitute an
 advance in grade of organisation in the Mesozoic, any further than that,
 in the period now in question, it becomes much more developed in number
 and variety of forms. But the conifers would seem to have had precedence
-of it for a long time in the Palæozoic, and it replaces in the Mesozoic
+of it for a long time in the Paleozoic, and it replaces in the Mesozoic
 the _Cordaites_, which in many respects excelled it in complexity.
 
 The greater part of the cycads of the Mesozoic age would seem to have had
@@ -5653,7 +5539,7 @@ botanist, had there been such a person at the time, would have found
 this to be the case everywhere from the equator to Spitzbergen, and
 probably in the southern hemisphere as well, and this throughout all
 the long periods from the Early Trias to the Middle Cretaceous. In a
-paper published in the "Linnæan Transactions" for 1868, Dr. Carruthers
+paper published in the "Linnean Transactions" for 1868, Dr. Carruthers
 enumerates twenty species of British Mesozoic cycads, and the number
 might now be considerably increased.
 
@@ -5662,7 +5548,7 @@ Cretaceous, Siberia and North America.]
 
 The pines present some features of interest. We have already seen their
 connection with the broad-leaved _Cordaites_, and in the Permian there
-are some additional types of broad-leaved coniferæ. In the Mesozoic we
+are some additional types of broad-leaved conifere. In the Mesozoic we
 have great numbers of beautiful trees, with those elegant fan-shaped
 leaves characteristic of but one living species, the Salisburia, or
 gingko-tree of China. It is curious that this tree, though now limited
@@ -5744,11 +5630,11 @@ sharply defined.
 Both of these trees have an interesting history. If we go back into the
 Tertiary, this same genus meets us with a long array of species. Two of
 these species correspond to those living at present: the _S. Langsdorfii_
-to the _S. sempervirens_, and the _S. Couttsiæ_ to the _S. gigantea_.[DH]
+to the _S. sempervirens_, and the _S. Couttsie_ to the _S. gigantea_.[DH]
 But, while the living species are confined to California, in the Tertiary
 they are spread over several quarters of the globe.
 
-[DH] _S. Couttsiæ_ has leaves like _S. gigantea_, and cones like those of
+[DH] _S. Couttsie_ has leaves like _S. gigantea_, and cones like those of
 _8. sempervirens_.
 
 Let us first consider the _Sequoia Langsdorfii_. This was first
@@ -5794,8 +5680,8 @@ similar.
 
 There are, however, in the early Tertiary six species, which fill up
 the gap between _S. sempervirens_ and _S. gigantea_. They are the _S.
-Couttsiæ_, _S. affinis_, Lesq., _S. imbricata_, Hr., _S. sibirica_, Hr.,
-_S. Heerii_, Lesq., and _S. biformis_, Lesq. Of these, _S. Couttsiæ_,
+Couttsie_, _S. affinis_, Lesq., _S. imbricata_, Hr., _S. sibirica_, Hr.,
+_S. Heerii_, Lesq., and _S. biformis_, Lesq. Of these, _S. Couttsie_,
 Hr., is the most common and most important species. It has short leaves,
 lying along the branch, like _S. gigantea_, and small, round cones, like
 _S. Langsdorfii_ and _sempervirens_. Bovey Tracey in Devonshire has
@@ -5839,7 +5725,7 @@ The connecting link between _S. Smithiana_ and _Reichenbachii_ is formed
 by _S. subulata_, Hr., and _S. rigida_, Hr., and three species (_S.
 gracilis_, Hr., _S. fastigiata_ and _S. Gardneriana_, Carr.), with leaves
 lying closely along the branch, and which come very near to the Tertiary
-species _S. Couttsiæ_. We have therefore in the Cretaceous quite an
+species _S. Couttsie_. We have therefore in the Cretaceous quite an
 array of species, which fill up the gap between the _S. sempervirens_
 and _gigantea_, and show us that the genus Sequoia had already attained
 a great development in the Cretaceous. This was still greater in
@@ -6028,7 +5914,7 @@ CHAPTER VI.
   AND KAINOZOIC.
 
 
-[Illustration: Fig. 68.--_Populus primæva_, Heer. Cretaceous, of
+[Illustration: Fig. 68.--_Populus primeva_, Heer. Cretaceous, of
 Greenland. One of the oldest known Angiosperms.]
 
 It is a remarkable fact in geological chronology that the culmination
@@ -6045,8 +5931,8 @@ I have already referred to the angiospermous wood supposed to be
 Devonian, but I fear to rest any conclusion on this isolated fact.
 Beyond this, the earliest indications of plants of this class have
 been found in the Lower Cretaceous. Many years ago Heer described and
-figured the leaves of a poplar (_Populus primæva_) from the supposed
-Lower Cretaceous of Komé, in Greenland (Fig. 68). Two species, a
+figured the leaves of a poplar (_Populus primeva_) from the supposed
+Lower Cretaceous of Kome, in Greenland (Fig. 68). Two species, a
 _Sterculia_ and a _Laurus_ or _Salix_, occur among fossils described by
 me in the upper part of the Kootanie series of the Rocky Mountains, and
 Fontaine has recently found in the Potomac group of Virginia--believed
@@ -6110,7 +5996,7 @@ Cenomanian epoch, cannot be disputed."[DL]
 [DL] "Monde des Plantes," p. 197.
 
 The leaves described by Heer, from the Middle Cretaceous of Greenland,
-are those of a poplar (_P. primæva_). Those which I have described from
+are those of a poplar (_P. primeva_). Those which I have described from
 a corresponding horizon in the Rocky Mountains are a _Sterculites_ (_S.
 vetustula_), probably allied to the mallows, and an elongated leaf,
 _Laurophyllum_ (_L. crassinerve_) (Fig. 69), which may, however, have
@@ -6207,7 +6093,7 @@ seems to be a common peculiarity of Cretaceous foliage.[DN] _Populus_
 (poplar), as already stated, appears very early in Greenland, and
 continues with increasing number of species throughout the Cretaceous and
 Tertiary. _Salix_ (willow) appears only a little later and continues. Of
-the family _Cupuliferæ_ we have _Fagus_ (beech), _Quercus_ (oak), and
+the family _Cupulifere_ we have _Fagus_ (beech), _Quercus_ (oak), and
 _Castanea_ (chestnut), which appear together in the Dakota group and
 its equivalents. Fruits of some of the species are known, and also wood
 showing structure. _Betula_ (birch) is represented by a few species,
@@ -6256,7 +6142,7 @@ been little change.
 Cretaceous, Canada.]
 
 Dr. Newberry has given, in the "Bulletin of the Torrey Botanical Club" an
-interesting _résumé_ of the history of the beautiful _Liriodendron_, or
+interesting _resume_ of the history of the beautiful _Liriodendron_, or
 tulip-tree, which may be taken as an example of a genus which has gone
 down in importance in the course of its geological history.
 
@@ -6277,7 +6163,7 @@ still more striking illustrations of solitary grandeur." (Figs. 74 and
 
 [Illustration: Fig. 74.--_Liriodendron Meekii_, Heer. (After Lesquereux.)]
 
-[Illustration: Fig. 75.--_Liriodendron primævum_, Newberry. (After
+[Illustration: Fig. 75.--_Liriodendron primevum_, Newberry. (After
 Newberry.)]
 
 "Three species of _Liriodendron_ are indicated by leaves found in the
@@ -6341,7 +6227,7 @@ vegetation of these widely separated countries in the middle and last
 half of the Cretaceous age. The botanical character of the flora of the
 Amboy clays will be seen from the following brief synopsis:
 
-"_Algæ._--A small and delicate form, allied to Chondrites.
+"_Alge._--A small and delicate form, allied to Chondrites.
 
 "_Ferns._--Twelve species, generally similar and in part identical with
 those described by Heer from the Cretaceous beds of Greenland, and
@@ -6378,7 +6264,7 @@ those of the recent tulip-tree, but were larger. Both had the peculiar
 emargination and the nervation of _Liriodendron_.
 
 "Among the most interesting plants of the collection are fine species of
-_Bauhinia_ and _Hymenæa_. Of these, the first is represented by a large
+_Bauhinia_ and _Hymenea_. Of these, the first is represented by a large
 number of leaves, some of which are six or seven inches in diameter.
 They are deeply bilobed, and have the peculiar and characteristic form
 and nervation of the leaves of this genus. _Bauhinia_ is a leguminous
@@ -6387,7 +6273,7 @@ climates in both hemispheres. Only one species occurs in the United
 States, _Bauhinia lunarioides_, Gray, found by Dr. Bigelow on the Rio
 Grande.
 
-"_Hymenæa_ is another of the leguminosæ, and inhabits tropical America. A
+"_Hymenea_ is another of the leguminose, and inhabits tropical America. A
 species of this genus has been found in the Upper Cretaceous of France,
 but quite different from the one before us, in which the leaves are much
 larger, and the leaflets are united in a common petiole, which is winged;
@@ -6395,24 +6281,24 @@ this is a modification not found in the living species, and one which
 brings it nearer to _Bauhinia_.
 
 "But the most surprising discovery yet made is that of a number of quite
-large helianthoid flowers, which I have called _Palæanthus_. These
+large helianthoid flowers, which I have called _Paleanthus_. These
 are three to four inches in diameter, and exhibit a scaly involucre,
 enclosing what much resembles a fleshy receptacle with achenia. From
 the border of this radiate a number of ray florets, one to two inches
 in length, which are persistent and must have been scarious, like
 those of _Helichrysum_. Though these flowers so much resemble those
-of the compositæ, we are not yet warranted in asserting that such is
+of the composite, we are not yet warranted in asserting that such is
 certainly their character. In the Jurassic rocks of Europe and India
 some flowers not very unlike these have been found, which have been
 named _Williamsonia_, and referred to cycads by Carruthers. A similar
 fossil has been found in the Cretaceous rocks of Greenland, and named
 by Heer _Williamsonia cretacea_, but he questions the reference of the
-genus to the Cycadeæ, and agrees with Nathorst in considering all the
+genus to the Cycadee, and agrees with Nathorst in considering all the
 species of _Williamsonia_ as parasitic flowers, allied to _Brugmansia_
 or _Rafflesia_. The Marquis of Saporta regards them as monocotyledons,
 similar to _Pandanus_. More specimens of the flowers now exhibited
 will perhaps prove--what we can now only regard as probable--that the
-Compositæ, like the _Leguminosæ_, _Magnoliaceæ_, _Celastraceæ_, and
+Composite, like the _Leguminose_, _Magnoliacee_, _Celastracee_, and
 other highly organised plants, formed part of the Cretaceous flora. No
 composite flowers have before been found in the fossil state, and, as
 these are among the most complex and specialised forms of florescence, it
@@ -6435,7 +6321,7 @@ very rich Upper Cretaceous flora, which I have noticed in detail in
 the "Transactions of the Royal Society of Canada."[DP] In these Upper
 Cretaceous beds there are fan-palms as far north at least as the latitude
 of 49°, indicating a very mild climate at this period. This inference
-is corroborated by the Upper Cretaceous flora of Atané and Patoot in
+is corroborated by the Upper Cretaceous flora of Atane and Patoot in
 Greenland, as described by Heer.
 
 [DP] Vol. ii., 1884.
@@ -6484,7 +6370,7 @@ Cretaceous to the Tertiary or Kainozoic is easy, though in many parts
 of the world, and more especially in western Europe, there is a great
 gap in the deposits between the upper Chalk and the lowest Eocene.
 With reference to fossil plants, Schimper recognises in the Kainozoic,
-beginning with the oldest, five formations--Palæocene, Eocene, Oligocene,
+beginning with the oldest, five formations--Paleocene, Eocene, Oligocene,
 Miocene, and Pliocene. Throughout these a flora, similar to that of the
 Cretaceous on the one hand and the modern on the other, though with
 important local peculiarities, extends. There is evidence, however,
@@ -6492,7 +6378,7 @@ of a gradual refrigeration, so that in the Pliocene the climates of
 the northern hemisphere were not markedly different from their present
 character.
 
-In the first instance an important error was committed by palæobotanists,
+In the first instance an important error was committed by paleobotanists,
 in referring to the Miocene many deposits really belonging to the Eocene.
 This arose from the early study of the rich plant-bearing Miocene beds of
 Switzerland, and from the similarity of the flora all the way from the
@@ -6510,7 +6396,7 @@ were deposited in fresh or brackish water, in an internal sea or group of
 lakes and swamps, when the continent was lower than at present. They have
 been studied both in the United States[DR] and Canada; and, though their
 flora was originally referred by mistake to the Miocene, it is now known
-to be Eocene or Palæocene, or even in part a transition group between
+to be Eocene or Paleocene, or even in part a transition group between
 the latter and the Cretaceous. The following remarks, taken chiefly from
 recent papers by the author,[DS] will serve to illustrate this:
 
@@ -6588,7 +6474,7 @@ as low as the Belly River series of the Cretaceous, which is believed on
 stratigraphical grounds to be considerably older than the Lower Laramie.
 
 With reference to the correlation of these beds with those of the United
-States, some difficulty has arisen from the tendency of palæobotanists
+States, some difficulty has arisen from the tendency of paleobotanists
 to refer the plants of the Upper Laramie to the Miocene age, although
 in the reports of Mr. Clarence King, the late director of the United
 States Geological Survey, these beds are classed, on the evidence of
@@ -6642,7 +6528,7 @@ live.
 
 There are also some very interesting and curious facts in connection with
 the conifers of the Laramie. One of the most common of these is a _Thuja_
-or arbor vitæ (the so-called "cedar" of Canada). The Laramie species has
+or arbor vite (the so-called "cedar" of Canada). The Laramie species has
 been named _T. interrupta_ by Newberry, but it approaches very closely
 in its foliage to _T. occidentalis_, of eastern Canada, while its fruit
 resembles that of the western species, _T. gigantea_.
@@ -6659,7 +6545,7 @@ genus _Salisburia_ or gingko--so characteristic of the Jurassic and
 Cretaceous--is still represented in America as well as in Europe in the
 early Eocene.
 
-We have no palms in the Canadian or Scottish Palæocene, though I
+We have no palms in the Canadian or Scottish Paleocene, though I
 believe they are found further south. The dicotyledonous trees are
 richly represented. Perhaps the most conspicuous were three species of
 _Platanus_, the leaves of which sometimes fill the sandstones, and one
@@ -6711,7 +6597,7 @@ a number of fresh-water mollusks are common to the Wahsatch and the
 Laramie. This finally settles the position of the Laramie so far as the
 United States geologists are concerned, and shows that the flora is to be
 regarded as Eocene if not Upper Cretaceous, in harmony with what has been
-all along maintained in Canada. An important _résumé_ of the flora has
+all along maintained in Canada. An important _resume_ of the flora has
 just been issued by Ward in the bulletins of the United States Geological
 Survey (1887).
 
@@ -6722,7 +6608,7 @@ that in these periods some allowance must be made for local differences
 of station, and also that there is a generic sameness in the flora of the
 northern hemisphere, from the Cenomanian to the modern, yet these local
 differences and general similarity are not of a nature to invalidate
-inferences as to age. No doubt, so long as palæobotanists seemed obliged,
+inferences as to age. No doubt, so long as paleobotanists seemed obliged,
 in deference to authority, and to the results of investigations limited
 to a few European localities, to group together, without distinction, all
 the floras of the later Cretaceous and earlier Tertiary, irrespective
@@ -6761,7 +6647,7 @@ and Ireland and the south of England, and we have similar differences,
 though not strongly-marked, between the Laramie of northern Canada and
 that of the United States. When all our beds of this age from the Arctic
 sea to the 49th parallel have been ransacked for plants, and when the
-palæobotanists of the United States shall have succeeded in unravelling
+paleobotanists of the United States shall have succeeded in unravelling
 the confusion which now exists between their Laramie and the Middle
 Tertiary, the geologist of the future will be able to restore with much
 certainty the distribution of the vast forests which in the early Eocene
@@ -6985,15 +6871,15 @@ Mediterranean flora, extending to North Africa: these are _Thalictrum
 minus_, L., _Thalictrum flavum_, L., _Ranunculus repens_, L., _Stellaria
 aquatica_, Scop., _Corylus avellana_, L., _Yannichellia palustris_, L.,
 and _Cladium mariscus_, Br. With a similar distribution in the Old World,
-eight species (_Bidens tripartita_, L., _Myosotis cæspitosa_, Schultz,
-_Suæda maritima_, Dum., _Ceratophyllum demersum_,, L., _Sparganium
+eight species (_Bidens tripartita_, L., _Myosotis cespitosa_, Schultz,
+_Sueda maritima_, Dum., _Ceratophyllum demersum_,, L., _Sparganium
 ramosum_, Huds., _Potamogeton pectinatus_, L., _Carex paludosa_, Good.,
 and _Osmunda regalis_, L.) are found also in North America. Of the
 remainder, ten species (_Nuphar luteum_, Sm., _Menyanthes trifoliata_,
 L., _Stachys palustris_, L., _Rumex maritimus_, L., _Rumex acetosella_,
 L., _Betula alba_, L., _Scirpus pauciflorus_, Lightf., _Taxus baccata_,
 L., and _Isoetes lacustris_, L.) extend round the north temperate
-zone, while three (_Lycopus europæus_, L., _Alisma plantago_, L., and
+zone, while three (_Lycopus europeus_, L., _Alisma plantago_, L., and
 _Phragmites communis_, Trim), having the same distribution in the north,
 are found also in Australia, and one (_Hippuris vulgaris_, L.) in the
 south of South America. The list is completed by _Ranunculus aquatilis_,
@@ -7071,7 +6957,7 @@ lower than that holding the ichthyolites, remains of land-plants are
 somewhat abundant, and, from their association with shells of _Leda
 glacialis_, seem to have been washed down from the land into deep water.
 The circumstances would seem to have been not dissimilar from those
-at present existing in the northeast arm of Gaspé Basin, where I have
+at present existing in the northeast arm of Gaspe Basin, where I have
 dredged from mud now being deposited in deep water, living specimens of
 _Leda limatula_, mixed with remains of land-plants.
 
@@ -7127,7 +7013,7 @@ species occur in nodules at Green's Creek. They may possibly belong to a
 variety of _P. hybridus_ which, together with _P. natans_, now grows in
 the river Ottawa, where it flows over the beds containing these fossils.
 
-9. _Cariceæ and Gramineæ._ Fragments in nodules from Green's Creek appear
+9. _Caricee and Graminee._ Fragments in nodules from Green's Creek appear
 to belong to plants of these groups, but I cannot venture to determine
 their species.
 
@@ -7140,7 +7026,7 @@ plentifully, branches of a moss apparently of the genus _Fontinalis_.
 
 [Illustration: Fig. 79.--Frond of _Fucus_. Pleistocene, Canada.]
 
-12. _Algæ._ With the plants above mentioned, both at Green's Creek and at
+12. _Alge._ With the plants above mentioned, both at Green's Creek and at
 Montreal, there occur remains of sea-weeds (Fig. 79). They seem to belong
 to the genera _Fucus_ and _Ulva_, but I cannot determine the species.
 A thick stem in one of the nodules would seem to indicate a large
@@ -7302,7 +7188,7 @@ fixed and settled. When we consider how much this implies of mechanical
 structure and chemical and vital property, the profound significance
 of this statement becomes apparent. The relations in these respects
 between the living cell and the soil, the atmosphere and the sunshine,
-were apparently as perfect in the early Palæozoic as in any subsequent
+were apparently as perfect in the early Paleozoic as in any subsequent
 time. The same may be said of the structures of the leaf and of the
 stem. In such old forms as Nematophyton these were, it is true, peculiar
 and rudimentary, but in the Devonian and Carboniferous the structure
@@ -7312,7 +7198,7 @@ for, so far as we know, the highest and most complex forms of flowery,
 fruits, and seeds belong to the more recent periods, and simpler forms
 were at least dominant in the older times. Yet even in this respect the
 great leading laws and structures of bisexual reproduction were perfected
-in the early Palæozoic, and the improvements introduced in the gymnosperm
+in the early Paleozoic, and the improvements introduced in the gymnosperm
 and the angiosperm of later periods have consisted mainly in additions of
 accessory parts, and in modifications and refinements suited to the wants
 of the higher and more complex types.
@@ -7339,7 +7225,7 @@ seems only recently to have dawned on the minds of geologists, and within
 the last few years it has produced a number of memoirs and addresses to
 learned societies, besides many less formal notices.[ED]
 
-[ED] Saporta, "Ancienne Végétation Polaire"; Hooker, "Presidential
+[ED] Saporta, "Ancienne Vegetation Polaire"; Hooker, "Presidential
 Address to Royal Society," 1878; Thistleton Dyer, "Lecture on Plant
 Distribution"; Mr. Starkie Gardner, "Letters in 'Nature,'" 1878, &c. The
 basis of most of these brochures is to be found in Heer's "Flora Fossilis
@@ -7352,7 +7238,7 @@ of the new facts disclosed by Heer and Lesquereux, Gray returned to
 the subject in 1872, and more fully developed this conclusion with
 reference to the Tertiary floras,[EE] and he has recently still further
 discussed these questions in an able lecture on "Forest Geography and
-Archæology."[EF] In this he puts the case so well and tersely that we may
+Archeology."[EF] In this he puts the case so well and tersely that we may
 quote the following sentences as a text for what follows:
 
 [EE] Address to American Association.
@@ -7406,7 +7292,7 @@ memoir illustrating no less than one hundred and twenty-five species of
 plants older than the great Carboniferous system, these deductions were
 stated in connection with the conclusions of Hall, Logan, and Dana, as
 to the distribution of sediment along the northeast side of the American
-continent, and the anticipation was hazarded that the oldest Palæozoic
+continent, and the anticipation was hazarded that the oldest Paleozoic
 floras would be discovered to the north of Newfoundland. Mention was also
 made of the apparent earlier and more copious birth of the Devonian flora
 in America than in Europe, a fact which is itself connected with the
@@ -7445,12 +7331,12 @@ Carboniferous floras. Lastly, from the comparative richness of the later
 Erian[EH] flora in eastern America, especially in the St. John beds, it
 might be a fair inference that the northeastern end of the Appalachian
 ridge was the original birthplace or centre of creation of what we may
-call the later Palæozoic flora, or of a large part of that flora."
+call the later Paleozoic flora, or of a large part of that flora."
 
 [EH] See pages 107 and 108.
 
 When my paper was written I had not seen the account published by
-the able Swiss palæobotanist Heer, of the remarkable Devonian flora
+the able Swiss paleobotanist Heer, of the remarkable Devonian flora
 of Bear Island, near Spitzbergen.[EI] From want of acquaintance with
 the older floras of America and western Europe, Heer fell into the
 unfortunate error of regarding the whole of Bear Island plants as
@@ -7497,13 +7383,13 @@ Passing over the comparatively poor flora of the earlier Mesozoic,
 consisting largely of cycads, pines, and ferns, and as yet little
 known in the arctic, and which may have originated in the south,
 though represented, according to Heer, by the supposed Jurassic flora
-of Siberia, we find, especially at Komé and Atané in Greenland, an
+of Siberia, we find, especially at Kome and Atane in Greenland, an
 interesting occurrence of those earliest precursors of the truly modern
 forms of plants which appear in the Cretaceous, the period of the English
 chalk and of the New Jersey greensands. There are two plant-groups of
-this age in Greenland; one, that of Komé, consists almost entirely of
+this age in Greenland; one, that of Kome, consists almost entirely of
 ferns, cycads, and pines, and is of decidedly Mesozoic aspect. This is
-called Lower Cretaceous. The other, that of Atané, holds remains of many
+called Lower Cretaceous. The other, that of Atane, holds remains of many
 modern temperate genera, as _Populus_, _Myrica_, _Ficus_, _Sassafras_,
 and _Magnolia_. This is regarded as Upper Cretaceous. Resting upon
 these Upper Cretaceous beds, without the intervention of any other
@@ -7614,7 +7500,7 @@ hemisphere and insular flora, and probably spread itself northward as
 far as Greenland, at a time when our northern continents were groups of
 islands, and when the ocean currents were carrying warm water far toward
 the arctic regions. The flora which succeeds this in the sections at
-Atané has no special affinities with the southern hemisphere, and is of
+Atane has no special affinities with the southern hemisphere, and is of
 a more temperate and continental character.[EU] It is not necessarily
 Upper Cretaceous, since it is similar to that of the Dakota group farther
 south, and this is at least Middle Cretaceous. This flora must have
@@ -7767,11 +7653,11 @@ coal-formation.
 [EV] See a memoir and map by Prof. Hall, "Reports of the Regents of New
 York," 1874-'75.
 
-[EW] It seems certain that the faunæ of the old limestones, like the
+[EW] It seems certain that the faune of the old limestones, like the
 Trenton, Niagara, Lower Helderberg, and Corniferous, belong to warm and
 sheltered sea areas, and that those rich in graptolites and trilobites,
 enclosed in muddy sediments, belong to the colder arctic waters. Such
-arctic faunæ are those of the Quebec group and of the Utica shale, and to
+arctic faune are those of the Quebec group and of the Utica shale, and to
 some extent that of the Hamilton group.
 
 Lyell's theory on this subject has, I think, in some recent publications,
@@ -7865,7 +7751,7 @@ occasioned by retardation of rotation.[FC]
 
 [FC] Croll, in "Climate and Time," and in a note read before the British
 Association in 1876, takes an opposite view; but this is clearly contrary
-to the facts of sedimentation, which show a steady movement of _débris_
+to the facts of sedimentation, which show a steady movement of debris
 toward the south and southwest.
 
 While such considerations as those above referred to tend to reduce
@@ -8013,12 +7899,12 @@ As to the origin and mode of introduction of successive floras, I am, for
 the reasons above stated, not disposed to dogmatise, or to adopt as final
 any existing theory of the development of the vegetable kingdom. Still,
 some laws regulating the progress of vegetable life may be recognised,
-and I propose to state these in connection with the Palæozoic floras, to
+and I propose to state these in connection with the Paleozoic floras, to
 which my own studies have chiefly related.
 
 Fossil plants are almost proverbially uncertain with reference to their
 accurate determination, and have been regarded as of comparatively little
-utility in the decision of general questions of palæontology. This
+utility in the decision of general questions of paleontology. This
 results principally from the fragmentary condition in which they have
 been studied, and from the fact that fragments of animal structures are
 more definite and instructive than corresponding portions of plants.
@@ -8119,7 +8005,7 @@ many modern biologists, in presence of this question, may be logically
 the same with that of the ancient alchemists with reference to the
 chemical elements, though the fallacy in the case of fossils may be of
 more difficult detection. Our business at present, in the prosecution of
-palæobotany, is to discover, if possible, what are elementary or original
+paleobotany, is to discover, if possible, what are elementary or original
 types, and, having found these, to enquire as to the law of their
 creation.
 
@@ -8137,7 +8023,7 @@ I desire, however, under this head, to affirm my conviction that,
 with reference to the Erian and Carboniferous floras of North America
 and of Europe, the doctrine of "homotaxis," as distinct from actual
 contemporaneity, has no place. The succession of formations in the
-Palæozoic period evidences a similar series of physical phenomena on the
+Paleozoic period evidences a similar series of physical phenomena on the
 grandest scale throughout the northern hemisphere. The succession of
 marine animals implies the continuity of the sea-bottoms on which they
 lived. The headquarters of the Erian flora in America and Europe must
@@ -8176,13 +8062,13 @@ cases the enlargement of the area of the land seems to be as injurious to
 terrestrial species as its diminution.
 
 9. Another point on which I have already insisted, and which has been
-found to apply to the Tertiary as well as to the Palæozoic floras, is the
+found to apply to the Tertiary as well as to the Paleozoic floras, is the
 appearance of new types within the arctic and boreal areas, and their
 migration southward. Periods in which the existence of northern land
 coincided with a general warm temperature of the northern hemisphere seem
 to have been those most favourable to the introduction of new forms of
 land-plants. Hence, there has been throughout geological time a general
-movement of new floras from the Palæarctic and Nearctic regions to the
+movement of new floras from the Palearctic and Nearctic regions to the
 southward.
 
 Applying the above considerations to the Erian and Carboniferous floras
@@ -8206,7 +8092,7 @@ each other by the great subsidences of the Corniferous limestone and the
 Lower Carboniferous limestone, and by the local but intense subterranean
 action which has altered and disturbed the Erian beds toward the close
 of that period. Still, these changes were not universal. The Corniferous
-limestone is absent in Gaspé, and probably in New Brunswick, where,
+limestone is absent in Gaspe, and probably in New Brunswick, where,
 consequently, the Erian flora could continue undisturbed during that long
 period. The Carboniferous limestone is absent from the slopes of the
 Appalachians in Pennsylvania, where a retreat may have been afforded to
@@ -8221,7 +8107,7 @@ group in a tabular form the distinct specific types recognised in the
 Erian system, indicating, at the same time, those which are represented
 by identical species in the Carboniferous, those represented by similar
 species of the same general type, and those not represented at all.
-For example, _Calamites cannæformis_ extends as a species into the
+For example, _Calamites canneformis_ extends as a species into the
 Carboniferous; _Asterophyllites latifolia_ does not so extend, but is
 represented by closely allied species of the same type; _Nematophyton_
 disappears altogether before we reach the Carboniferous.
@@ -8242,7 +8128,7 @@ _Table of Erian and Carboniferous Specific Types._
    9. Didymophyllum
   10. Calamodendron                                 *
   11. Calamites transitionis             *
-  12. C. cannæformis                     *
+  12. C. canneformis                     *
   13. Asterophyllites scutigera                     *
   14. A. latifolia
   15. Annularia laxa
@@ -8259,7 +8145,7 @@ _Table of Erian and Carboniferous Specific Types._
   26. P. robustius
   27. Cordaites Robbii                              *
   28. C. angustifolia
-  29. Archæopteris Jacksoni
+  29. Archeopteris Jacksoni
   30. Aneimites obtusa                              *
   31. Platyphyllum Brownii
   32. Cyclopteris varia                             *
@@ -8408,7 +8294,7 @@ following terms:
 
 "But when we have reached the branch representing the generic form we
 have made but little progress in the phylogenesis of _Salix_. With
-_Populus_ this genus forms a small order, Salicineæ, The two genera are
+_Populus_ this genus forms a small order, Salicinee, The two genera are
 closely allied, yet separated by well-marked characters; it is not,
 however, difficult to conceive of both having sprung from a generalised
 form. But there is no record of such a form. The two genera appear
@@ -8418,7 +8304,7 @@ it ever existed, must necessarily be much older than the period of the
 Upper Cretaceous rocks, that is, than the period to which the earliest
 known dicotyledons belong.
 
-"The Salicineæ are related to five other natural orders, in all of which
+"The Salicinee are related to five other natural orders, in all of which
 the apetalous flowers are arranged in catkins. These different though
 allied orders must be led up by small modifications to a generalised
 amentiferous type, and thereafter the various groups of apetalous
@@ -8454,7 +8340,7 @@ consist."
 APPENDIX.
 
 
-  I.--COMPARATIVE VIEW OF THE SUCCESSIVE PALÆOZOIC
+  I.--COMPARATIVE VIEW OF THE SUCCESSIVE PALeOZOIC
   FLORAS OF NORTHEASTERN AMERICA AND
   GREAT BRITAIN.
 
@@ -8462,7 +8348,7 @@ In eastern Canada there is a very complete series of fossil plants,
 extending from the Silurian to the Permian, and intermediate in its
 species between the floras of interior America and of Europe. I may
 use this succession, mainly worked out by myself,[FG] to summarise the
-various Palæozoic floras and sub-floras, in order to give a condensed
+various Paleozoic floras and sub-floras, in order to give a condensed
 view of this portion of the history of the vegetable kingdom, and to
 direct attention to the important fact, too often overlooked, that there
 is a definite succession of fossil plants as well as of animals, and
@@ -8562,9 +8448,9 @@ hundred and thirty-five species of plants; but, as several of these are
 founded on imperfect specimens, the number of actual species may be
 estimated at one hundred and twenty. Of these more than one half are
 species common to Europe and America. No less than nineteen species
-are _Sigillariæ_, and about the same number are _Lepidodendra_. About
+are _Sigillarie_, and about the same number are _Lepidodendra_. About
 fifty are ferns and thirteen are _Calamites_, _Asterophyllites_, and
-_Sphenophylla_. The great abundance and number of species of Sigillariæ,
+_Sphenophylla_. The great abundance and number of species of Sigillarie,
 Lepidodendra, and ferns are characteristic of this sub-flora; and among
 the ferns certain species of _Neuropteris_, _Pecopteris_, _Alethopteris_,
 and _Sphenopteris_ greatly preponderate.
@@ -8585,7 +8471,7 @@ are greatly diminished.[FN] Trunks of coniferous trees of the species
 _Dadoxylon Acadianum_, having wide wood-cells with three or more series
 of discs and complex medullary rays, become characteristic. _Calamites
 undulatum_ is abundant and seems to replace _C. Suckovii_, though _C.
-cannæformis_ and _C. cistii_ continue. _Sigillariæ_ become very rare,
+canneformis_ and _C. cistii_ continue. _Sigillarie_ become very rare,
 and the species of Lepidodendron are few, and mostly those with large
 leaf-bases. _Lepidophloios_ still continues, and _Cordaites_ abounds in
 some beds. The ferns are greatly reduced, though a few characteristic
@@ -8630,7 +8516,7 @@ they are similar to those of the next group. In Scotland it is richer
 in plants, but, according to Mr. Kidston, these are largely similar
 to those of the underlying beds, though with some species which extend
 upward into the Millstone Grit. In Scotland the alga named _Spirophyton_
-and _Archæocalamites radiatus_--which in America are Erian--appear in
+and _Archeocalamites radiatus_--which in America are Erian--appear in
 this formation.
 
 (5) _The Lower Carboniferous Sub-Flora_:
@@ -8639,7 +8525,7 @@ This group of plants is best seen in the shales of the Horton series,
 under the Lower Carboniferous marine limestones. It is small and
 peculiar. The most characteristic species are the following:
 
-_Dadoxylon_ (_Palæoxylon_) _antiquius_, Dn.--A species with large
+_Dadoxylon_ (_Paleoxylon_) _antiquius_, Dn.--A species with large
 medullary rays of three or more series of cells.
 
 _Lepidodendron corrugatum_, Dn.--A species closely allied to _L.
@@ -8685,7 +8571,7 @@ which, as I have explained in "Acadian Geology," in some localities take
 the place of the limestones, as they do also in the Appalachian region
 farther south.
 
-The palæobotanical and stratigraphical equivalents of this series abroad
+The paleobotanical and stratigraphical equivalents of this series abroad
 would seem to be the following:
 
 1. The Vespertine group of Rogers in Pennsylvania.
@@ -8721,14 +8607,14 @@ Canada," by Dr. G. M. Dawson, 1887.
 
 All of the above groups of rocks are characterised by the prevalence of
 _Lepidodendra_ of the type of _L. corrugatum_, _L. Veltheimianum_, and
-_L. Glincanum_; pines of the sub-genus _Pitus_ of Witham, _Palæoxylon_
+_L. Glincanum_; pines of the sub-genus _Pitus_ of Witham, _Paleoxylon_
 of Brongniart, and peculiar ferns of the genera _Cyclopteris_,
 _Cardiopteris_, _Triphyllopteris_, and _Sphenopteris_. In all the regions
 above referred to they form the natural base of the great Carboniferous
 system.
 
 In Virginia, according to Fontaine and White, types, such as
-Archæopteris, which in the north are Upper Erian, occur in this group.
+Archeopteris, which in the north are Upper Erian, occur in this group.
 Unless there have been some errors in fixing the lower limit of the
 Vespertine, this would indicate a longer continuance of old forms in the
 south.
@@ -8742,14 +8628,14 @@ to the Upper Devonian of Europe.
 
 The flora of this formation, which consists mostly of sandstones, is not
 rich. Its most distinctive species on both sides of the Atlantic seem to
-be the ferns of the genus _Archæopteris_, along with species referred to
+be the ferns of the genus _Archeopteris_, along with species referred to
 the genus _Cyclopteris_, but which, in so far as their barren fronds are
-concerned, for the most part resemble _Archæopteris_.
+concerned, for the most part resemble _Archeopteris_.
 
-The characteristic American species are _Archæopteris Jacksoni_,
+The characteristic American species are _Archeopteris Jacksoni_,
 _A. Rogersi_, and _A. Gaspiensis_. _Cyclopteris obtusa_ and _C._
 (_Platyphyllum_) _Brownii_ are also very characteristic species. In
-Europe, _Archæopteris Hibernica_ is a prevalent species.
+Europe, _Archeopteris Hibernica_ is a prevalent species.
 
 _Leptophleum rhombicum_ and fragments of _Psilophyton_ are also found in
 the Upper Erian. There is evidence of the existence of vast numbers of
@@ -8770,7 +8656,7 @@ as already stated, there is apparently some mixture in the South.
 Both in Canada and the United States that part of the great Erian system
 which may be regarded as its middle division, the Hamilton and Marcellus
 shales of New York, the Cordaites shales of St. John, New Brunswick, and
-the middle shales and sandstones of the Gaspé series, presents conditions
+the middle shales and sandstones of the Gaspe series, presents conditions
 more favourable to the abundant growth of land-plants than either the
 upper or lower member. In the St. John beds, in particular, there is a
 rich fern flora, comparable with that of the coal-formation, and numerous
@@ -8778,12 +8664,12 @@ stipes of ferns and trunks of tree-ferns have been found in the Hamilton
 and Corniferous series in the West, as well as trunks of _Dadoxylon_. It
 is, however, distinguished by a prevalence of small and delicate species,
 and by such forms as _Hymenophyllites_ and the smaller Sphenopterids, and
-also by some peculiar ferns, as _Archæopteris_ and _Megalopteris_. In
+also by some peculiar ferns, as _Archeopteris_ and _Megalopteris_. In
 addition to ferns, it has small _Lepidodendra_, of which _L. Gaspianum_
-is the chief. _Calamiteæ_ occur, _Archæocalamites radiatus_ being the
+is the chief. _Calamitee_ occur, _Archeocalamites radiatus_ being the
 dominant species. This plant, which in Europe appears to reach up into
 the Lower Carboniferous, is so far strictly Erian in northeast America.
-_Sigillariæ_ scarcely appear, but _Cordaites_ is abundant, and the
+_Sigillarie_ scarcely appear, but _Cordaites_ is abundant, and the
 earliest known species of _Dadoxylon_ appear, while the Psilophyton, so
 characteristic of the Lower Erian, still continues, and the remarkable
 aquatic plants of the genus _Ptilophyton_ are locally abundant.
@@ -8791,10 +8677,10 @@ aquatic plants of the genus _Ptilophyton_ are locally abundant.
 (3) _Lower Erian Sub-Flora_:
 
 This belongs to the Lower Devonian sandstones and shales, and is
-best seen in that formation at Gaspé and the Bay des Chaleurs. It is
+best seen in that formation at Gaspe and the Bay des Chaleurs. It is
 equivalent to the Oriskany sandstone, so far as its animal fossils and
 mineral character are concerned. It is characterised by the absence
-of true ferns, _Calamites_ and _Sigillariæ_, and by the presence
+of true ferns, _Calamites_ and _Sigillarie_, and by the presence
 of such forms as _Psilophyton_, _Arthrostigma_, _Leptophleum_, and
 _Nematophyton_. _Lepidodendron Gaspianum_ and _Leptophleum_ already
 occur, though not nearly so abundant as Psilophyton.
@@ -8865,17 +8751,17 @@ The plant-bearing beds of Greenland are as follows, in ascending order:
 
 1. Cretaceous.
 
-1. The _Komé_ series, of black shales resting on the Laurentian gneiss.
+1. The _Kome_ series, of black shales resting on the Laurentian gneiss.
 These beds are found at various other localities, but the name above
 given is that by which they are generally known. Their flora is limited
 to ferns, cycads, conifers, and a few endogens, with only _Populus
-primæva_ to represent the dicotyledons. These beds are regarded as Lower
+primeva_ to represent the dicotyledons. These beds are regarded as Lower
 Cretaceous (Urgonian), but the animal fossils would seem to give them
 a rather higher position. They may be regarded as equivalent to the
 Kootanie and Queen Charlotte beds in Canada, and the Potomac series in
 Virginia.
 
-2. The _Atané_ series. These also are black shales with dark-coloured
+2. The _Atane_ series. These also are black shales with dark-coloured
 sandstones. They are best exposed at Upernavik and Waigat. Here
 dicotyledonous leaves abound, amounting to ninety species, or more than
 half the whole number of species found. The fossil plants resemble those
@@ -8895,17 +8781,17 @@ the manner observed on the South Saskatchewan and the Mackenzie rivers.
 Their age is probably about that of the Fox-Hill group or Senonian,
 and the Upper Cretaceous of Vancouver Island, and they afford a large
 proportion of dicotyledonous leaves. The genera of dicotyledons are
-not dissimilar from those of Atané, but we now recognise _Betula_ and
+not dissimilar from those of Atane, but we now recognise _Betula_ and
 _Alnus_, _Comptonia_, _Planera_, _Sapotacites_, _Fraxinus_, _Viburnum_,
 _Cornus_, _Acer_, _Celastrus_, _Paliurus_, _Ceanothus_, _Zizyphus_, and
-_Cratægus_ as new genera of modern aspect.
+_Crategus_ as new genera of modern aspect.
 
 On the whole there have been found in all these beds 335 species,
 belonging to 60 families, of which 36 are dicotyledonous, and represent
 all the leading types of arborescent dicotyledons of the temperate
 latitudes. The flora is a warm temperate one, with some remarkable
 mixtures of sub-tropical forms, among which perhaps the most remarkable
-are _Kaidocarpum_ referred to the _Pandaneæ_, and such exogens as _Ficus_
+are _Kaidocarpum_ referred to the _Pandanee_, and such exogens as _Ficus_
 and _Cinnamomum_.
 
 2. Tertiary.
@@ -8930,7 +8816,7 @@ preservation. They are referred to the Lower Miocene, but, as explained
 in the text, the flora is more nearly akin to that of the Eocene of
 Europe and the Laramie of America. The animal fossils are chiefly
 fresh-water shells. _Onoclea sensibilis_, several conifers, as _Taxites_
-_Olriki_, _Taxodium distichum_, _Glyptostrobus Europæus_, and _Sequoia
+_Olriki_, _Taxodium distichum_, _Glyptostrobus Europeus_, and _Sequoia
 Langsdorfii_, and 42 of the dicotyledons are recognised as found also
 in American localities. Of these, a large proportion of the more common
 species occur in the Laramie of the Mackenzie River and elsewhere in
@@ -8951,7 +8837,7 @@ In the Lower Cretaceous the probable mean annual temperature in latitude
 it is estimated at 12° centigrade. Such temperatures, ranging from 71°
 to 53° of Fahrenheit, represent a marvellously warm climate for so high
 a latitude. In point of fact, however, the evidence of warm climates in
-the arctic regions, in the Palæozoic as well as in the Mesozoic and early
+the arctic regions, in the Paleozoic as well as in the Mesozoic and early
 Tertiary, should perhaps lead us to conclude that, relatively to the
 whole of geological time, the present arctic climate is unusually severe,
 and that a temperate climate in the arctic regions has throughout
@@ -9053,640 +8939,27 @@ latter in radial and tangential planes.
 
 
 
-IV.--GENERAL WORKS ON PALÆOBOTANY.
+IV.--GENERAL WORKS ON PALeOBOTANY.
 
 
 In the text frequent reference has been made to special memoirs and
 reports on the fossil plants of particular regions or formations. There
 are, however, some general books, useful to students, which may be
-mentioned here. Perhaps the most important is Schimper's "Traité de
-Paléontologie Végétale." Very useful information is also contained in
+mentioned here. Perhaps the most important is Schimper's "Traite de
+Paleontologie Vegetale." Very useful information is also contained in
 Renault's "Cours de Botanique Fossile," and in Balfour's "Introduction to
-Palæontological Botany," and Nicholson's "Palæontology." Unger's "Genera
-et Species," Brongniart's "Histoire des Végétaux Fossiles," and Lindley
+Paleontological Botany," and Nicholson's "Paleontology." Unger's "Genera
+et Species," Brongniart's "Histoire des Vegetaux Fossiles," and Lindley
 and Button's "Fossil Flora," are older though very valuable works.
 Williamson's "Memoirs," in the "Philosophical Transactions," have greatly
-advanced our knowledge of the structures of Palæozoic plants. Lastly,
-the "Palæophytology" of Schenk, now in course of publication in German
-and French, in connection with Zittel's "Palæontology," is an important
+advanced our knowledge of the structures of Paleozoic plants. Lastly,
+the "Paleophytology" of Schenk, now in course of publication in German
+and French, in connection with Zittel's "Paleontology," is an important
 addition to manuals of the subject.
 
 
 
 
-INDEX.
 
 
-  Acer, 228.
-  Acrogens, 6.
-  Agassiz, Prof., 16.
-  Alaska, Flora of, 245.
-  Algæ, real and spurious, 26, 230.
-  Amboy clays, Flora of, 203.
-  America, Cretaceous of, 190.
-  Angiosperms, 6.
-  Annularia, 122.
-  Anogens, 6.
-  Antholithes, 132.
-  Aporoxylon, 25.
-  Araucarioxylon, 148.
-  Araucarites, 134.
-  Archæocalamites, 170.
-  Archæopteris, 77, 85.
-  Arctic origin of plants, 221, 238.
-  Arthrophycus, 30.
-  Arthrostigma, 67.
-  Asterophyllites, 78, 122, 170.
-  Asteropteris, 77, 85.
-  Astropolithon, 30.
-  Atané, Plants of, 242, 281.
-  Atanekerdluk, Plants of, 283.
-  Australia, Palæozoic flora of, 147.
-    Tertiary flora of, 217.
-
-  Bauhinia, 204.
-  Bear Island, 241.
-  Betula, 198.
-  Bilobites, 28.
-  Bovey Tracey, Plants of, 226.
-  Brasenia, 207.
-  Buckland, Dr., 179.
-  Buthotrephis, 37.
-
-  Calamites, 77, 123, 166.
-  Calamodendron, 125.
-  Cambrian flora, 20.
-  Canada, Erian of, 103.
-    Carboniferous of, 110.
-    Laramie of, 209.
-    Pleistocene of, 227.
-  Carbon in Laurentian, 9.
-  Carboniferous flora, 110.
-  Carboniferous, Climate of, 138.
-    of Southern Hemisphere, 147.
-  Cardiocarpum, 82, 153.
-  Carruthers, Mr., 24, 98, 180.
-    On modifications of modern plants, 225, 269.
-  Carya, 196.
-  Cauda-galli fucoid, 105.
-  Caulerpites, 29.
-  Caulopteris, 75, 94.
-  Clarke, Prof., 51.
-  Climate, Causes of, 247.
-  Climate and plants, 216, 220, 232.
-    of Carboniferous, 138.
-    of Cretaceous and Eocene, 216.
-    of Devonian, 47.
-    of Early Mesozoic, 178.
-  Climate and plants of Laurentian, 17.
-    of Pleistocene, 227, 230.
-    of Pliocene, 223.
-  Coal, origin of, 117, 139.
-  Comparison of floras, 272.
-  Composite, 266.
-  Cone-in-cone, 36.
-  Coniferæ, Erian, 78, 96.
-  Carboniferous, 134, 148.
-    Mesozoic, etc., 181.
-  Cope, Mr., 215.
-  Cordaites, 78, 130, 151.
-  Corylus, 213.
-  Crepin, M., 99.
-  Cretaceous, Flora of, 190.
-    Climate of, 216.
-  Croll on climate, 252.
-  Cromer, Plants of, 224.
-  Cycads, Mesozoic, 178.
-  Cyclostigma, 157.
-
-  Dadoxylon, 96, 134, 148.
-  Dawson, Dr. G. M., 52, 210.
-  Delgado, Prof., 26.
-  Dendrophycus, 33.
-  Derby, Orville, 53.
-  Devonian flora, 45.
-  Devonian or Erian, 107, 279.
-    Climate of, 47.
-  Dicotyledons, Cretaceous, 192.
-    Table of, 192.
-  Dictyolites, 33.
-  Dictyospongia, 39.
-  Disco, Exotic plants at, 256.
-    Flora of, 245, 282.
-  Drepanophycus, 39.
-  Drosera, 228.
-  Dunvegan beds, 244.
-
-  Eocene, Flora of, 208, 214.
-    Climate of, 216.
-  Eophyton, 31.
-  Eopteris, 72.
-  Eozoon of Laurentian, 9.
-  Equisetum, 176, 230.
-  Erian flora, 45, 279.
-    Climate of, 47.
-  Erian or Devonian, 107.
-  Ettingshausen, Dr., 187, 215.
-  Exogens, Cretaceous, 192.
-    Tertiary, 213, 224.
-
-  Fagus, 196, 197.
-  Ferns, Erian, 72.
-    Carboniferous, 126, 171.
-    Fructification of, 128.
-    Stems of, 90, 129.
-    Tertiary, 212.
-  Filices, 72, 126, 171.
-  Flora of Cambrian, 26.
-    of Carboniferous, 110, 274.
-    of Cretaceous, 190.
-    of Early Mesozoic, 175.
-    of Erian, 45, 279.
-    of Jurassic, 177, 186.
-    of Laramie, 209.
-    of Laurentian, 8.
-    of Miocene, 220, 223.
-    of Modern, 219.
-    of Permian, 274.
-    of Pleistocene, 223, 227.
-    of Tertiary, 191, 208, 214, 219.
-  Fontaine, Prof., 130, 176.
-  Fontinalis, 230.
-  Fort Union beds, 210.
-  Fucoids, 27.
-
-  Gardner, Mr. Starkie, 212.
-  Geinitz, Dr., 174.
-  Geological formations, Table of, 4.
-  Glossopteris, 147.
-  Glyptodendron, 25.
-  Glyptostrobus, 194.
-  Goeppert, Dr., 99.
-  Grant, Col., 36.
-  Graphite from plants, 8.
-  Gray, Dr., Origin of floras, 223, 237.
-  Greenland, Climate of, 216.
-    Fossil flora of, 247.
-  Gulielmites, 35.
-  Gymnosperms, 6.
-
-  Haliserites, 39.
-  Hartt, Prof., 53.
-  Heer, Dr., 108, 181.
-  Helderberg period, Sea of, 250.
-  Heterangium, 77.
-  Hicks, Dr., 21.
-  Hunt, Dr. Sterry, 13, 143.
-  Huxley, Prof., 53.
-  Hymenæa, 204.
-
-  Insects, Erian, 83.
-
-  Juglans, 196.
-  Jurassic flora, 177.
-
-  Kainozoic flora, 191, 208, 214, 219.
-  Kidston, Mr. R., 128, 273.
-  King, Mr. Clarence, 211.
-  Komé, Plants of, 242, 281.
-
-  Laramie flora, 209, 215.
-  Laurentian plants, 8.
-  Laurentian, Climate of, 17.
-  Laurophyllum, 193.
-  Laws of introduction of plants, 237, 266.
-  Leda clay, Flora of, 232.
-  Lepidodendron, 120, 156, 162.
-  Lepidophloios, 121, 157, 165.
-  Leptophleum, 157.
-  Lesquereux, Mr. L., 169, 214.
-  Licrophycus, 30.
-  Lignitic series of America, 208.
-  Liquidambar, 197.
-  Liriodendron, 199.
-  Lower Carboniferous flora, 277.
-  Logan, Sir W., 48.
-  Lyell on climate, 249.
-
-  Magnolia, 200.
-  McConnell, Mr., 209.
-  McNab, Prof., 169.
-  Megalopteris, 76.
-  Megaphyton, 129.
-  Mesozoic flora, 175.
-    Climate of, 178.
-  Migrations of plants, 240, 245.
-  Miller, Hugh, 98.
-  Miocene flora, 220.
-  Miocene, Supposed, 242.
-  Modern flora, 219.
-  Modern plants, how modified, 269.
-  Modifications of plants, 266.
-
-  Nathorst, Dr., 26, 196.
-  Nematodendreæ, 25.
-  Nematophycus, 23.
-  Nematophyton, 21, 22, 42.
-  Newberry, Dr., 200, 203, 214.
-  Newfoundland, Fossil plants of, 242.
-  Newton, Mr., 52.
-  Nicholson, Dr. A., 20.
-  Niobrara series, 243, 246.
-  Noeggerathia, 130.
-  Northern origin of plants, 238.
-
-  Origin of plants, 237.
-  Orton, Prof., 51.
-
-  Pachytheca, 21.
-  Palæanthus, 205.
-  Palæochorda, 30.
-  Palæophycus, 30, 38.
-  Palæozoic floras compared, 273.
-  Palms, 188, 194.
-  Pandanus, 188.
-  Patoot beds, 282.
-  Peach, Mr., 98.
-  Petroleum, Origin of, 56.
-  Phymatoderma, 29.
-  Plants, Classification of, 6.
-  Platanus, 198.
-  Platyphyllum, 74.
-  Pleistocene climate, 227, 230.
-  Pleistocene flora, 223, 227.
-  Pliocene climate, 223.
-  Podozamites, 178.
-  Poles, Supposed change of, 248.
-  Populus, 191, 228.
-  Potamogeton, 229.
-  Potentilla, 228.
-  Protannularia, 21.
-  Protichnites, 27.
-  Protophyllum, 199.
-  Protosalvinia, 52.
-  Protostigma, 20.
-  Prototaxites, 21.
-  Psaronius, 93.
-  Psilophyton, 64.
-  Ptilophyton, 62, 86.
-
-  Quercus, 197.
-
-  Rhizocarps, 48.
-  Rill-marks, 33.
-  Rusichnites, 28.
-
-  Saccamina, 57.
-  Salisburia, 180.
-  Salter, Mr., 98.
-  Salvinia, 54.
-
-  Saporta, Count de, 26, 193.
-  Saportea, 57.
-  Sassafras, 199.
-  Scalariform tissue, 70.
-  Schimper, Dr., 116, 169, 208.
-  Scolithus, 30.
-  Scottish Devonian, 98.
-  Sequoia, 181.
-  Shrinkage cracks, 33.
-  Sigillaria, 71, 112, 154.
-  Southern Hemisphere, 217, 273.
-    Carboniferous in, 147.
-    Tertiary in, 217.
-  Sphenophyllum, 61, 122, 171.
-  Spirophyton, 38.
-  Spitzbergen, 241.
-  Sterculites, 193.
-  Sternbergia, 137, 152.
-  Stigmaria, 115.
-  Stur, Dr., on Sigillaria, 116.
-  Symphorocarpus, 214.
-  Syringodendron, 156.
-  Syringoxylon, 82.
-
-  Table of formations, 4.
-  Tasmania, Fossil plants of, 217, 246.
-  Tasmanite, 57.
-  Tertiary period, Flora of, 191, 208, 214, 219.
-  Tertiary of Australia, 217.
-  Thallogens, 6.
-  Thomas, Mr., 51.
-  Thuja, 213, 229.
-  Time, Geological, 5.
-  Trapa, 196.
-  Tree-ferns, 90, 129.
-  Triassic flora, 176.
-  Trigonocarpum, 136, 153.
-  Tyndall, Prof., 138.
-
-  Ulrich, Prof., 57.
-  Unartok beds, 281.
-  Ursa stage of Heer, 108, 241.
-
-  Walchia, 134, 138.
-  Ward, Mr. L. T., 192, 212, 215.
-  Wethered, Mr. E., 52.
-  White, Dr., 215.
-  Williams, Prof., 51.
-  Williamson, Dr., 26, 31, 71, 167.
-  Williamsonia, 188.
-
-
-THE END.
-
-
-                   _D. APPLETON & CO.'S PUBLICATIONS._
-   ------------------------------------------------------------------
-
-                         CHARLES DARWIN'S WORKS.
-
-   =ORIGIN OF SPECIES BY MEANS OF NATURAL SELECTION, OR THE
-       PRESERVATION OF FAVORED RACES IN THE STRUGGLE FOR LIFE.= Revised
-       edition, with Additions. 12mo. Cloth, $2.00.
-
-   =DESCENT OF MAN, AND SELECTION IN RELATION TO SEX.= With many
-       Illustrations. A new edition. 12mo. Cloth, $3.00.
-
-   =JOURNAL OF RESEARCHES INTO THE NATURAL HISTORY AND GEOLOGY OF
-       COUNTRIES VISITED DURING THE VOYAGE OF H. M. S. BEAGLE ROUND THE
-       WORLD.= New edition. 12mo. Cloth, $2.00.
-
-   =EMOTIONAL EXPRESSIONS OF MAN AND THE LOWER ANIMALS.= 12 mo. Cloth,
-       $3.50.
-
-   =THE VARIATIONS OF ANIMALS AND PLANTS UNDER DOMESTICATION.= With
-       a Preface, by Professor Asa Gray. 2 vols. Illustrated. Cloth,
-       $5.00.
-
-   =INSECTIVOROUS PLANTS.= 12mo. Cloth, $2.00.
-
-   =MOVEMENTS AND HABITS OF CLIMBING PLANTS.= With Illustrations. 12mo.
-       Cloth, $1.25.
-
-   =THE VARIOUS CONTRIVANCES BY WHICH ORCHIDS ARE FERTILIZED BY
-       INSECTS.= Revised edition, with Illustrations. 12mo. Cloth,
-       $1.75.
-
-   =THE EFFECTS OF CROSS AND SELF FERTILIZATION IN THE VEGETABLE
-       KINGDOM.= 12mo. Cloth, $2.00.
-
-   =DIFFERENT FORMS OF FLOWERS ON PLANTS OF THE SAME SPECIES.= With
-       Illustrations. 12mo. Cloth, $1.50.
-
-   =THE POWER OF MOVEMENT IN PLANTS.= By Charles Darwin, LL. D., F. R.
-       S., assisted by Francis Darwin. With Illustrations. 12mo. Cloth,
-       $2.00.
-
-   =THE FORMATION OF VEGETABLE MOULD THROUGH THE ACTION OF WORMS.= With
-       Observations on their Habits. With Illustrations. 12mo. Cloth,
-       $1.50.
-
-                         -----------------------
-
-           New York: D. APPLETON & CO., 1, 3, & 5 Bond Street.
-
-
-                   _D. APPLETON & CO.'S PUBLICATIONS._
-   ------------------------------------------------------------------
-
-
-                        THOMAS H. HUXLEY'S WORKS.
-
-   =SCIENCE AND CULTURE, AND OTHER ESSAYS.= 12mo. Cloth, $1.50.
-
-   =THE CRAYFISH:= AN INTRODUCTION TO THE STUDY OF ZOÕLOGY. With 82
-       Illustrations. 12mo. Cloth, $1.75.
-
-   =SCIENCE PRIMERS:= INTRODUCTORY. 18mo. Flexible cloth, 45 cents.
-
-   =MAN'S PLACE IN NATURE.= 12mo. Cloth, $1.25.
-
-   =ON THE ORIGIN OF SPECIES.= 12mo. Cloth, $1.00.
-
-   =MORE CRITICISMS ON DARWIN,= AND ADMINISTRATIVE NIHILISM. 12mo. Limp
-       cloth, 50 cents.
-
-   =MANUAL OF THE ANATOMY OF VERTEBRATED ANIMALS.= Illustrated. 12mo.
-       Cloth, $2.50.
-
-   =MANUAL OF THE ANATOMY OF INVERTEBRATED ANIMALS.= 12mo. Cloth, $2.50.
-
-   =LAY SERMONS, ADDRESSES, AND REVIEWS.= 12mo. Cloth, $1.75.
-
-   =CRITIQUES AND ADDRESSES.= 12mo. Cloth, $1.50.
-
-   =AMERICAN ADDRESSES;= WITH A LECTURE ON THE STUDY OF BIOLOGY. 12mo.
-       Cloth, $1.25.
-
-   =PHYSIOGRAPHY:= AN INTRODUCTION TO THE STUDY OF NATURE. With
-       Illustrations and Colored Plates. 12mo. Cloth, $2.50.
-
-   =HUXLEY AND YOUMANS'S ELEMENTS OF PHYSIOLOGY AND HYGIENE.= By T. H.
-       Huxley and W. J. Youmans. 12mo. Cloth, $1.50.
-
-                         -----------------------
-
-           New York: D. APPLETON & CO., 1, 3, & 5 Bond Street.
-
-
-                   _D. APPLETON & CO.'S PUBLICATIONS._
-   ------------------------------------------------------------------
-
-
-                          JOHN TYNDALL'S WORKS.
-
-   =ESSAYS ON THE FLOATING MATTER OF THE AIR,= in Relation to
-       Putrefaction and Infection. 12mo. Cloth, $1.50.
-
-   =ON FORMS OF WATER,= in Clouds, Rivers, Ice, and Glaciers. With 35
-       Illustrations. 12mo. Cloth, $1.50.
-
-   =HEAT AS A MODE OF MOTION.= New edition. 12mo. Cloth, $2.50.
-
-   =ON SOUND:= A Course of Eight Lectures delivered at the Royal
-       Institution of Great Britain. Illustrated. 12mo. New edition.
-       Cloth, $2.00.
-
-   =FRAGMENTS OF SCIENCE FOR UNSCIENTIFIC PEOPLE.= 12mo. New revised
-       and enlarged edition. Cloth, $2.50.
-
-   =LIGHT AND ELECTRICITY.= 12mo. Cloth, $1.25.
-
-   =LESSONS IN ELECTRICITY,= 1875-'76. 12mo. Cloth, $1.00
-
-   =HOURS OF EXERCISE IN THE ALPS.= With Illustrations. 12mo. Cloth,
-       $2.00.
-
-   =FARADAY AS A DISCOVERER.= A Memoir. 12mo. Cloth, $1.00.
-
-   =CONTRIBUTIONS TO MOLECULAR PHYSICS= in the Do main of Radiant Heat.
-       $5.00.
-
-   =SIX LECTURES ON LIGHT.= Delivered in America in 1872-'73. With an
-       Appendix and numerous Illustrations. Cloth, $1.50.
-
-   =FAREWELL BANQUET,= given to Professor Tyndall, at Delmonico's, New
-       York, February 4, 1873. Paper, 50 cents.
-
-   =ADDRESS= delivered before the British Association, assembled at
-       Belfast. Revised with Additions, by the author, since the
-       Delivery 12mo. Paper, 50 cents.
-
-                         -----------------------
-
-           New York: D. APPLETON & CO., 1, 3, & 5 Bond Street.
-
-
-                   _D. APPLETON & CO.'S PUBLICATIONS._
-   ------------------------------------------------------------------
-
-
-                         ERNST HAECKEL'S WORKS.
-
-   =THE HISTORY OF CREATION;= OR, THE DEVELOPMENT OF THE EARTH AND
-       ITS INHABITANTS BY THE ACTION OF NATURAL CAUSES. A Popular
-       Exposition of the Doctrine of Evolution in general, and of
-       that of Darwin, Goethe, and Lamarck in particular. From the
-       German of Ernst Haeckel, Professor in the University of Jena.
-       The translation revised by Professor E. Ray Lankester, M. A.,
-       F. R, S., Fellow of Exeter College, Oxford. Illustrated with
-       Lithographic Plates. In two vols., 12mo. Cloth, $5.00.
-
-   =THE EVOLUTION OF MAN,= A Popular Exposition of the Principal Points
-       of Human Ontogeny and Phylogeny. From the German of Ernst
-       Haeckel, Professor in the University of Jena, author of "The
-       History of Creation," etc. With numerous Illustrations. In two
-       vols., 12mo. Cloth. Price, $5.00.
-
-  "In this excellent translation of Professor Haeckel's work, the
-  English reader has access to the latest doctrines of the Continental
-  school of evolution, in its application to the history of man. It is
-  in Germany, beyond any other European country, that the impulse given
-  by Darwin twenty years ago to the theory of evolution has influenced
-  the whole tenor of philosophical opinion. There may be, and are,
-  differences in the degree to which the doctrine may be held capable
-  of extension into the domain of mind and morals; but there is no
-  denying, in scientific circles at least, that as regards the physical
-  history of organic nature much has been done toward making good a
-  continuous scheme of being."--_London Saturday Review_.
-
-   =FREEDOM IN SCIENCE AND TEACHING.= From the German of Ernst Haeckel.
-       With a Prefatory Note by T. H. Huxley, F. R. S. 12mo. $1.00.
-
-                         -----------------------
-
-           New York: D. APPLETON & CO., 1, 3, & 5 Bond Street.
-
-
-                   _D. APPLETON & CO.'S PUBLICATIONS._
-   ------------------------------------------------------------------
-
-
-                    SIR JOHN LUBBOCK'S (Bart.) WORKS.
-
-   =THE ORIGIN OF CIVILIZATION AND THE PRIMITIVE CONDITION OF MAN,=
-       MENTAL AND SOCIAL CONDITION OF SAVAGES. Fourth edition, with
-       numerous Additions. With Illustrations, 8vo. Cloth, $5.00.
-
-  "The first edition of this work was published in the year 1870. The
-  work has been twice revised for the press in the interval, and now
-  appears in its fourth edition _enlarged to the extent of nearly two
-  hundred pages_, including a full index."
-
-  "This interesting work--for it is intensely so in its aim, scope, and
-  the ability of its author--treats of what the scientists denominate
-  _anthropology_, or the natural history of the human species; the
-  complete science of man, body and soul, including sex, temperament,
-  race, civilization, etc."--_Providence Press_.
-
-   =PREHISTORIC TIMES,= AS ILLUSTRATED BY ANCIENT REMAINS AND THE
-       MANNERS AND CUSTOMS OF MODERN SAVAGES. Illustrated. Entirely new
-       revised edition. 8vo. Cloth, $5.00.
-
-  The book ranks among the noblest works of the interesting and
-  important class to which it belongs. As a _résumé_ of our present
-  knowledge of prehistoric man, it leaves nothing to be desired. It is
-  not only a good book of reference but the best on the subject.
-
-  "This is, perhaps, the best summary of evidence now in our possession
-  concerning the general character of prehistoric times. The Bronze
-  Age, The Stone Age, The Tumuli, The Lake Inhabitants of Switzerland,
-  The Shell Mounds, The Cave Man, and The Antiquity of Man, are the
-  titles of the most important chapters."--_Dr. C. K. Adams's Manual of
-  Historical Literature._
-
-   =ANTS, BEES, AND WASPS.= A Record of Observations on the Habits of
-       the Social Hymenoptera. With Colored Plates. 12mo. Cloth, $2.00.
-
-  "This volume contains the record of various experiments made with
-  ants, bees, and wasps during the last ten years, with a view to test
-  their menial condition and powers of sense. The principal point in
-  which Sir John's mode of experiment differs from those of Huber,
-  Forel, McCook, and others, is that he has carefully watched and
-  marked particular insects, and has had their nests under observation
-  for long periods--one of his ants' nests having been under constant
-  inspection ever since 1874 His observations are made principally
-  upon ants, because they show more power and flexibility of mind; and
-  the value of his studies is that they belong to the department of
-  original research.""
-
-  "We have no hesitation in saying that the author has presented us
-  with the most valuable series of observations on a special subject
-  that has ever been produced, charmingly written, full of logical
-  deductions, and, when we consider his multitudinous engagements,
-  a remarkable illustration of economy of time. As a contribution
-  to insect psychology, it will be long before this book finds a
-  parallel."--_London Athenæum._
-
-                         -----------------------
-
-           New York: D. APPLETON & CO., 1, 3, & 5 Bond Street.
-
-
-                   _D. APPLETON & CO.'S PUBLICATIONS._
-   ------------------------------------------------------------------
-
-
-                    Dr. H. ALLEYNE NICHOLSON'S WORKS.
-
-   =TEXT-BOOK OF ZOÖLOGY,= for Schools and Colleges. 12mo. Half roan,
-       $1.60.
-
-   =MANUAL OF ZOÖLOGY,= for the Use of Students, with a General
-       Introduction to the Principles of Zoölogy. Second edition.
-       Revised and enlarged, with 243 Woodcuts. 12mo. Cloth, $2 50.
-
-   =TEXT-BOOK OF GEOLOGY,= for Schools and Colleges. 12mo. Half roan,
-       $1.25.
-
-   =INTRODUCTION TO THE STUDY OF BIOLOGY,= Illustrated. 12mo. Cloth, 60
-       cents.
-
-   =THE ANCIENT LIFE-HISTORY OF THE EARTH.= A Comprehensive Outline of
-       the Principles and Leading Facts of Palæontological Science.
-       12mo. Cloth, $2.00.
-
-  "A work by a master in the science who understands the significance
-  of every phenomenon which he records, and knows how to make it reveal
-  its lessons. As regards its value there can scarcely exist two
-  opinions. As a text-book of the historical phase of palæontology is
-  will be indispensable to students, whether specially pursuing geology
-  or biology; and without it no man who aspires even to an outline
-  knowledge of natural science can deem his library complete."--_The
-  Quarterly Journal of Science_.
-
-  "The Professor of Natural History in the University of St. Andrews
-  has, by his previous works on zoology and paleontology, so fully
-  established his claim to be an exact thinker and a close reasoner,
-  that scarcely any recommendation of ours can add to the interest
-  with which all students in natural history will receive the present
-  volume. It is, as its second title expresses it; a comprehensive
-  outline of the principles and leading facts of palæontoiogical
-  science. Numerous woodcut illustrations very delicately executed, a
-  copious glossary, and an admirable index, add much to the value of
-  this volume."--_Athenæum_.
-
-                         -----------------------
-
-           New York: D. APPLETON & CO., 1, 3, & 5 Bond Street.
+                  

@@ -1,0 +1,1573 @@
+
+
+
+INT R ODUCT ION
+
+greater voice in the well-financed din of public discussion, as critically
+urgent as those things are, than in something vaguer and more fundamental.1 Media, I will argue, are vessels and environments, containers of
+possibility that anchor our existence and make what we are doing possible. The idea that media are message-bearing institutions such as newspapers, radio, television, and the Internet is relatively recent in intellectual history. As Jochen Hörisch notes, “Well into the nineteenth century,
+when one spoke of media, one typically meant the natural elements such
+as water and earth, fire and air.” 2 The elemental legacy of the media concept is fully relevant in a time when our most pervasive surrounding environment is technological and nature—from honeybees and dogs to corn
+and viruses, from the ocean floor to the atmosphere—is drenched with
+human manipulation. In a time when it is impossible to say whether the
+nitrogen cycle or the Internet is more crucial to the planet’s maintenance,
+I believe we can learn much from a judicious synthesis, difficult though
+it be, of media understood as both natural and cultural. If media are vehicles that carry and communicate meaning, then media theory needs to
+take nature, the backgroun d to all possible meaning, seriously.
+I hope that what follows will be of interest to both general readers concerned about the human condition in our time and scholars concerned
+with media from diverse disciplinary orientations. “Media,” understood
+as the means by which meaning is communicated, sit atop layers of even
+more fundamental media that have meaning but do not speak. A lively
+tradition of media events research, starting with Daniel Dayan and Elihu
+Katz, has shown how television constructs events such as catastrophes
+such as 9/11 or wars and ceremonies such as the Apollo moon landing or the Olympic Games, but we can push such insights even further.
+Media, understood broadly, also enter into nature, not only society—and
+into objects, not only events. The ozone layer, the arctic ice, and whale
+populations all are now what they are not only because of how they are
+covered by reporters, but because of how their being is altered by media,
+understood as infrastruct u res of data and control. Many forms of life now
+
+
+3
+
+flourish as much in silico as in vivo. The practice of medicine is increasingly a branch of informatics. The forestry industry is a data business.
+The old idea that media are environments can be flipped: environments are also media. Water, fire, sky, earth, and ether are elements—
+homey, sublime, dangerous, and wonderful—that sustain existence, and
+we still haven’t figured out how to care for them; our efforts to do so
+constitute our technical history. The taken-for-granted environment for
+a vast majority of the human population consists of artificial life-forms
+loosely coupled to natural ones, if we can even make this distinction. Our
+very existence depends on a vast array of techniques for managing nature
+and culture, most of them ignored by recent communication theory due
+to their supposedly poor qualities of meaning-making. For a world to
+exist in which seven billion people could live, more or less, many basic
+life supports had to take hold: fire control, housing, clothing, speech,
+herding, agriculture, settlement, writing, and more recent utilities, each
+of which spans matter and mind, nature and art, biology and culture. In
+the life sciences, “media” already means gels and other substances for
+growing cultures, a usage growing from the older environmental meaning of medium, and in a similar spirit we can regard media as enabling environments that provide habitats for diverse forms of life, including other
+media.3 Media are ensembles of natural element and human craft. The
+philosophy of media, once you understand media in this enlarged sense,
+takes on ample heft and urgency.
+In discussions about various aspects of this book, I have been greeted
+with both lively interest and occasional strange looks. Media, some
+friends and colleagues have told me, are about humans, and more specifically about vehicles that mark human meaning and intention. To say that
+the sea, the earth, fire, or the sky is a medium, in this view, is to dilute the
+concept beyond the limit of utility; and even more, it is to burden media
+scholars, now sent from the familiar pastures of the social sciences and
+humanities into the natural sciences and philosophy and theology, with
+3. In spring 2013 I received an ad in my inbox for 350 kinds of “dehydrated culture media,”
+including “world-class premium quality” agar, peptones, and agaroses noted for “absence of
+inhibitors, excellent transparency, high hysteresis, reliable reproductibility [sic], and extraordinary gelling power.” Not at all a bad list of media properties! Several colleagues to whom I
+forwarded this bit of Dada spam poetry decided that “dehydrated culture media” nicely described our field of inquiry.
+
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+4
+
+INT R ODUCT ION
+
+an inhuman amount of homework and impossible demands for interdisciplinary mastery. What, many have asked me, is not a medium? A few
+have even shown an interest in my mental health: Am I really implying
+that clouds talk to us?
+I do think there is meaning in nature and that it is precisely madness
+not to think so. (In the same way, it is crazy to think that our meanings
+have no ecosystem interdependencies.) But we have to rethink what we
+mean by meaning. If we mean mental content intentionally designed to
+say something to someone, of course clouds or fire don’t communicate.
+But if we mean repositories of readable data and processes that sustain
+and enable existence, then of course clouds and fire have meaning. What
+if we took not two human beings trying to share thoughts as our model
+of communication, but a population evolving in intelligent interaction
+with its environment? The classical pragmatists understood communication in this way. What if we took technologies not just as tools that chip
+away at solid materials, but as means by which nature is expressed and
+altered, at least for human beings? Heidegger and many following him
+have understood technology in this way. As I show in chapter 1, the idea
+that media theory is about environments and infrastructures as much as
+about messages and content is well rooted in a variety of intellectual traditions.
+Digital devices invite us to think of media as environmental, as part
+of the habitat, and not just as semiotic inputs into people’s heads. This
+book starts from the idea that the advent of digital media returns us to
+fundamental and perennial problems of communication and civilization.
+So-called new media do not take us into uncharted waters: they revive
+the most basic problems of conjoined living in complex societies and
+cast the oldest troubles into relief. “Civilization,” an abused and abusive
+term, I take as a syndrome of phenomena tied to the rise of cities: intensified power stratifications between some human beings and others (men
+and women, masters and slaves) and between humans and animals, division of labor, population growth, writing and documentation, increased
+risk of fire and disease, and increased opportunities for a few to pursue
+the arts and sciences. Civilization is a dangerous term—“a vague, complex name, of many degrees,” as Emerson said—because of its whiff of
+moral superiority and colonizing history, but it is also useful for thinking about the historical transitions and infrastruct u ra l materials of our
+
+
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+IN MEDIAS RES
+
+5
+
+species.4 (We could not think if we had to avoid all dangerous terms.)
+More specifically, in the work of sociologist Norbert Elias and his followers, “civilization” was understood as a triad of pressure points: human
+relations with themselves, other humans, and the natural world. Civilization consists of a varying array of regimes for controlling psychic, social,
+and biological resources, and tracing their complex interactions was, for
+Elias, the task of sociology. How to manage these three lines of tension—
+psychological, social, and environmental—is an ongoing challenge that
+human beings obviously have not solved. I follow Elias in seeing civilization as our great trouble and task, a vulnerable and power-laden ensemble of practices managing humans and natural resources.
+Media are civilizational ordering devices. Getting this insight requires
+us to see just how exceptional media were in the last century. During
+much of it, “media” such as radio, television, film, newspapers, and magazines were seen as providing information for voters, enticement for consumers, entertainment for workers, and ideology for dupes. Media were
+largely conceived, in other words, as distributors of messages and meanings designed on a human scale. They were generally taken as influential,
+to be sure, but not as infrastructural—as figure, but not as ground. In the
+past half century, as the dominant technologized form of communication
+has shifted from broadcasting and telephony to the Internet, things have
+reverted back to the historical norm of a more chaotic media world. Oneto-many communication on a mass scale is still around but is much less
+routine than in the age of “drama for a dramatized society” 5 that filled
+the airwaves for a good part of the twentieth century. We are back to the
+age-old modes of some-to-some, one-to-few, and even one-to-none—to
+a communication environment in which media have become equipment
+for living in a more fundamental way.
+What is new about new media (a term already past its prime)? There
+are many answers on the market: long-tail distribution, flash mobs, distributed research, user-generated content, viral fame, global connectivity, universal archive, big data, grassroots revolutions. In the Internet
+
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+6
+
+INT R ODUCT ION
+
+you can see an inhuman beast trafficking in porn, spam, metadata, and
+finance, and human beasts conducting their lives via devices. You can see
+state and corporate surveillance, hacking both prosocial and antisocial,
+bullying, and blackmail victims led to suicide. In some ways this is all so
+strange, and in others, all so familiar. People wasting time or socializing
+remotely, teenagers fooling around, heinous acts done behind the cloak
+of anonymity, elites using tools to monitor populations, some people
+getting hurt and a few others getting enormously rich by concentrated
+power—what else is new? Though our specific technical, political, and
+economic conditions are unprecedented, they also suggest, from a more
+distant point of view, the relative stability of the human circus.
+People have always interacted across distances of time and space, but
+digital media intensify opportunities and troubles in person-to-person
+dealings. Encountering a member of the same species is a deeply rooted
+challenge for any animal: fight or flight, dance or mate? For humans the
+complexities of an encounter in the flesh are even more acute. Is the
+coming stranger a potential enemy, lover, ally, or trading partner? Should
+I greet him or her with hostility, politeness, or neglect, or some mixture
+of the three? (We all know about hostile politeness or polite neglect.)
+And once the stranger is welcomed inside the gate, the troubles are by no
+means over. There is no site riper with danger and embarrassment than
+the presence of another person, and civilization is the long story of efforts
+to negotiate such dangers.
+So-called social media do not resolve these troubles, though one of
+their main appeals, as chapter 6 argues, lies in providing a form of social
+relations that reduces many of the dangers of face-to-face interaction—
+only for others to pop up instead. Social media invite us to think freshly
+about the communicative affordances of presence and the many mediations of the body. The body is the most basic of all media, and the richest
+with meaning, but its meanings are not principally those of language or
+signs, reaching instead into deep wells stocked with vaguer limbic fluids.
+The body is not one with itself: it is a network. Sharing the same time
+and space with another is already pregnant with meaning before a single
+word is uttered. Eons of improbable evolution have conspired to enable
+any encounter. The meaning of a face, voice, or gesture cannot be captured in a thousand sentences. Media, as things in the middle, are often
+regard ed as being of secondary importan ce to the meanings we con-
+
+
+7
+
+sciously construct, but media usually harbor the deepest and greatest of
+meanings.
+Digital media reactivate not only these old limbic fluids, but older
+forms of data use. Unlike the mass media of the twentieth century, digital media traffic less in content, programs, and opinions than in organization, power, and calculation. Digital media serve more as logistica l
+devices of tracking and orientation than in providin g unifying stories to
+the society at large. Digital media revive ancient navigational functions:
+they point us in time and space, index our data, and keep us on the grid.
+The medium of writing was first used in Mesopota mia to keep inventories of such things as bread, beer, wheat, and labor time. Lyric, epic, and
+treatise came later. Of course “content,” whatever that means, remains
+important and there is plenty of it—in 2013 an average of one hundred
+hours of video was uploaded onto YouT ube every minute—but the innovations of digital media have been more diffuse in tracking, tweeting, and
+tagging, in the structures of everyda y life and the organization of power.
+Media always concentrate power along all three civilizational axes, a
+fact that is easy to miss amid the waves of hype about silicon transcendence. The easiest axis to see is the second: tensions between people. The
+chorus and chirp of our species online can yield astonishingly detailed
+knowled ge for those with access to the right tools. Cultural authorities
+have always sought to influence how people act and think, but digital
+media are the latest step in modern population managem ent, a trend that
+dates in Europe at least to the eighteent h century and was picked up in
+the early twentieth, when advertis ers and pollsters, armed with the tools
+of survey research, learned to take small samples of mass feeling and attitude, which were of course hedged about with statistical guesswork.
+In an online world every act leaves a trace, a record of some sort, and
+such documenta tion provides potent data to those who can access
+and read it. This “enclosure” of a hitherto common space has enriched
+and empowered a class of people. 6 A boom in data, much of it proprietary, does not necessarily mean an advance in democrat ic control. The
+Internet casts light onto many things, but rarely on itself; like all media, it
+comes with a built-in cloaking device. Data trackers follow us at all hours:
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+8
+
+INT R ODUCT ION
+
+at work, at sleep, at play. Recently a critic claimed that Google possesses
+more information about every digital user than Orwell ever dreamed of
+in 1984.7 The flourishing industry in “analytics” reminds us that digital
+media are less about meaning than power and organization; one of our
+chief tasks today is to democratize tools for reading big data, to wrest the
+lever from the computer nerds.
+Digital media point to fundamental tasks of order and maintenance,
+the ways in which data ground our being, and the techniques that lie at
+the heart of human dwelling on earth. Digital media resurrect old media
+such as writing, addresses, numbers, names, calendars, timekeepers,
+maps, and money. They give new life to age-old practices such as navigating, cultivating, stargazing, weather forecasting, documenting, and
+fishing, which are more or less the topics of chapters 2 through 7 in this
+book. Those chapters review key metaphors for digital media and much
+more—sea, fire, sky, clouds, books, and God. When our environment
+is so technically saturated, when our crafts have altered the air and the
+deep—when Google, for instance, is a major ecosystem actor—we need
+to understand the intelligent contrivances, the technologies and techniques (a distinction that chapter 2 makes clear), that have made humans
+the planetary hegemon in recent millennia. New media invite the deepest and oldest questions of social theory. Ubiquitous computing invites us
+to turn from the urgency of the message to the nature of media (and the
+media of nature). This book accepts that invitation.
+Our historical moment affords us extraordinary opportunities to
+learn, and this book also takes seriously the responsibility of humanists
+to learn and profit from the natural sciences. Many agree that we need to
+think beyond the culture-nature, subject-object, and humanist-scientist
+divides. It might be giving philosophy too grand a role to say that bad
+thinking has led to environmental crisis, as there are simpler explanations for our carbon-addled ways. Nonetheless, I join in treating standard
+forms of the subject-object distinction as both ecological and metaphysical disasters. Our data media have won just as much of a planet-steering
+role as have more basic nature-en gin eerin g media such as burning, farm7. Mattias Döpfner, open letter to Eric Schmidt, 16 April 2014, http://www.faz.net/akt uell
+
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+IN MEDIAS RES
+
+9
+
+ing, herding, or building. Every medium, whether our bodies or our computers, is an ensemble of the natural and the artificial, and WikiLeaks,
+corn syrup, whale oil, squids, Facebook, jet lag, weather forecasts, and
+bipedal posture are some of the topics that belong to media theory. Some
+parts of this list will be discussed in this book, and so will parts of other
+lists.
+Indeed, lists will keep popping up in this book, both as a response
+to the stupefaction of so many things to know and as an index of our
+Googlecopia. We live, as the late Ken Cmiel argued, in a time of promiscuous knowledge, and the list is one strategy to cope with and make
+use of our temptations amid information abundance. The comically preposterous juxtapositions of lists repeatedly point to how the world escapes our concepts. There can also be a certain desperation in a list, an
+exasperation that the universe is so wide and our time is so short. I have
+acutely felt my inadequacy in writing this book. Every spot I found to dig
+in collapsed beneath my feet, revealing another cavern of unmastered
+materials. (It is a feature of fractal phenomena that the degree of complexity is preserved at every level of magnification.) Every site yields another link. I’ve tried to be accurate, but I am sure many howlers remain.
+There are so many lifetimes of knowledge I would need to have in order
+to say what should be said. In a sense, writing this book was an experiment to see whether a single person could get a view on the anthropoid
+condition. The reader will have to judge whether it is possible, but I think
+it is not, at least not for this person. I take comfort in remembering that
+books, like films, are rich in proportion to what they cut; and lists, as
+roving et ceteras, hint at realms of knowledge to be held for later exploration. It has been exhilarating to keep discovering so many new pots of
+gold, but dizzying to see so many of them mushrooming at the end of so
+many rainbows. Media theory faces a crisis of uncontainable relevance,
+and Google is its “media a priori.”
+Though we need to think beyond the aforementioned divides, there
+are stubborn reasons why we cannot. These distinctions are both unbearable and unavoidable, in ways we will see. Humans are beings who
+cannot separate and cannot help but separate subject and object. This
+point signals my reservations about recent hipster versions of media
+theory interested in bulldozin g the critical tradition of philosophy start-
+
+
+10
+
+INT R ODUCT ION
+
+ing from Kant onwards, a tradition whose aim was always to handle dialectically the simultaneous fusion and distinction of subject and object. 8
+The bears have been loosed, and the honey of the media concept is being
+smeared all over the place. I fear the exhaustion of the concept, and even
+more the evacuation of its tragedy and difficulty. Media are the sign of
+both our ingenuity and our ultimate failure at mastering the negative.
+A media philosophy of nature does not mean a free-for-all in the object store, but rather a weighing of the disasters that loom amid all our
+makings.
+Rather than comparing theoretical positions of diverse authors, this
+book treats particulars such as candles and clocks, writing systems and
+dolphin sonar. They are, I hope, of inherent interest, but are also meant
+to add up. “The work of the philosopher,” said Ludwig Wittgenstein, “is
+a marshalling of remembrances for a specific purpose.” 9 I am inspired by
+scholars such as Harold Adams Innis and Walter Benjamin, who thought
+that the collection of rich empirical detail could itself be a mode of philosophical and historical reflection; the latter hoped that every fact he collected in his unfinished study of the Paris arcades would already be theory.10 This book, despite its occasional encyclopedic leanings, hopes to go
+beyond the presentation of curiosities to locate critical bottlenecks and
+turning points. Moorings are important both nautically and intellectually, and this book seeks to offer some.
+The ship, as I argue in chapter 2, is a metaphor for how media make
+worlds that in turn reveal and conceal nature, and an example of a
+medium as an infrastructure of being. Being is a word that hovers somewhere between the profound and the pretentious. By thinking of media
+in terms of being, I want to be as basic as possible, which is always the
+aim in philosophy. Basics, contrary to popular opinion, are not the easiest but the hardest part of any field of learning. The more basic you get,
+the deeper the rabbit hole goes. Advanced topics admit of clarity and
+precision: biologists can agree on the Krebs cycle, mathematicians on
+
+
+
+
+IN M E DIA S
+
+RE S
+
+11
+
+3-manifolds, and social theorists on the difference between ideology
+and hegemony. But ask them to define life, number, or society, and the
+philosophical winds start to blow every which way. For real unsettling,
+you have to look into the lower rather than higher levels. If you go deep
+enough into being, as Hegel warned, you might find that it quickly turns
+into nothingness. In media theory, all we might be left with is clouds—
+and that might not be so bad.
+The exposition goes as follows. In the first chapter, I outline my intellectual debts and sketch the relevant landscape of media theory. In chapters 2 and 3, I examine sea and fire media, and in 4 and 5, the two main
+kinds of sky media. At first such realms as ocean, flame, and the heavens
+would seem to be unpromising realms for human creativity or technical
+handling, each being hostile to our works in its own way. But in spite of
+their resistance, or rather because of it, such elements are seedbeds of
+arts and crafts, many of them so basic that it took eco-crisis and the digital shakeup to make them obvious. Hostile environments breed art. Enmity is the mother of invention. In chapter 6 I explore the earthy media of
+body and writing, and chapter 7 tackles the would-be ethereal medium of
+Google, each medium also having its own productive difficulty. Finally, I
+offer a few concluding meditations.
+Of late it has been fashionable in media theory, as in social and cultural theory more generally, to emphasize materiality, a term that means
+many things. This book certainly partakes of that spirit in its interest in
+the small fulcrums on which large levers swing. But its analysis of media
+as ensembles of nature and artifice is, in the end, a bit contrarian. Media
+are perhaps most interesting when they reveal what defies materialization. The waves and the winds bear up or destroy ships. The flame’s greatest service is to convert matter into other forms or to make it vanish altogether. The sky has resisted almost all human artifice and yet has always
+been at the heart of human knowledge. No one has yet figured out how
+to store time or save the body from sickness and death, though efforts to
+do so constitute the history of our archival and medical techniques. The
+history of media is the history of the productive impossibility of capturing what exists. The black of night gives us our most exact science, astronomy; clouds that vanish yield some of our most beautiful paintings,
+and clouds that obscure give us some of our most precious meteorological knowled ge. Above all, media capture and fail to capture time, whose
+
+
+12
+
+INT R ODUCT ION
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+fleetingness is the most beautiful and difficult of all natural facts. We are
+at our best when, to quote a line from Joseph Conrad’s Lord Jim, we submit ourselves to the destructive element.
+It is in the elusive and recalcitrant that we find the homeland of media,
+and thus the heart of what humans have wrought. Immateriality may be
+our greatest achievement: points, zeroes, names, money, and language.
+The emphasis on materiality is a healthy counterbalance to the digital
+hype that we are moving from a world of atoms to one of bits, but we
+should not forget that immaterial (symbolic) operations lie at the heart of
+our oldest and most taken-for-granted media. Media, like human beings,
+are always in the middle between sea, earth, and sky. Media studies is
+thus a form of philosophical anthropology, a meditation on the human
+condition, which also means a meditation on the nonhuman condition.
+This book is meant as a craft to navigate the deep; I hope you enjoy the
+steering.
+
+
+
+Chapter 1
+Understanding Media
+
+“Einer Hilfe bedarf der Mensch immer.”
+(The human being always needs a help.)—F. W. J. Schelling
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+A Medium Must Not Mean But Be
+
+In his wonderfu l memoir A Tale of Love and Darkness, Amos Oz recou n t s
+how his parents in late 1930s and early 1940s Jerusalem would period ically make a long-distance call to relatives in Tel Aviv. Every three or fou r
+months the occasion would be solemnly arranged in advance by letter.
+The families on each end would meet by a pay phone at the design a t ed
+hour after a long countdown. “Then all of a sudden the phone would rin g
+in the pharmacy, and it was always such an exciting sound, such a magica l
+moment.” After all the buildup the conversation went like this: “What ’s
+new? Good. Well, so let’s speak again soon. It’s good to hear from you .
+It’s good to hear from you too. We’ll write and set a time for the next call.
+We’ll talk. Yes. Definitely. Soon. See you soon. Look after yourselves. All
+the best. You too.” And then they hung up and went back to corresp o n d ing about the next call, months away. Oz, who can be one of the funnies t
+storytellers anywhere, plays on the humor of a conversat ion that is over
+as soon as it begins. But a series of calls discussin g future calls was not
+just an absurdist cycle. Oz’s family members weren’t calling to trade news
+but to do something more primal—t o hear each other’s voices, to as-
+
+
+14
+
+CHAPT ER ON E
+
+sure themselves that they were still alive, present in real time. They were
+doing something as profound as the seventeen- yea r locusts emergin g to
+sing and breed for another cycle. Each phone call was nervously hed ging against the prospect that it might be their last, every “soon” an act
+of hope. The telephone as a lifeline was magnified by historical circu m stances: the fate of the Jews in Palestine and Europe hung by a threa d ,
+and how bad it was in Europe was just starting to be known.1
+Oz’s kin were sharing tokens of presence by means of a communications infrastructure. The import of the call was existential, not informational. The two parties had nothing to say, but everythin g to mean. Seeing communicat ion as disclosu re of being rather than clarity of signal
+frees up the notion of “medium” for greater service. The media of sea,
+fire, star, cloud, book, and Internet all anchor our being profoundly, even
+if we can’t say what they mean. The same is true for the body, as it is for
+nature generally, the ultimate infrastructu re. 2 Wittgenstein once said:
+“In der Mathematik ist alles Algoris mus , nichts Bedeutung.” 3 (In mathematics everything is algorithm, nothing is meaning.) He could have said
+the same of media. And of music. And of most things that really matter.
+A medium must not mean but be. Oz’s relatives were maintaining their
+ecosystem of relations before they were trading updates. Even among
+people, media of all kinds serve elemental roles. Once communication is understood not only as sending messages — certainly an essential
+function—but also as providin g conditions for existence, media cease to
+be only studios and stations, messages and channels, and become infrastructures and forms of life. These material, environm enta l senses inform the recent reach of the media concept beyond messages to habitats.4 Media are not only important for scholars and citizens who care
+
+
+UNDERSTANDIN G
+
+MEDIA
+
+15
+
+about culture and public opinion, but for everyon e who breathes, stands
+on two feet, or navigates the ocean of memory. Media are our infrast ru c tures of being, the habitats and materials through which we act and are.
+This gives them ecologica l, ethical, and existential import. There is litt le
+as marvelou s as the sea, the sky, or another person’s presence, but mos t
+philosophy of media has rushed past these elements too quickly. Bird s
+sing, says Charles Hartshorn e, not only because they are defendin g territory or attracting a mate, but because natural history has endowed them
+with a love of singing such that birdsong in some way participa t es in the
+striving for form and fitness that is the essence of evolution itself.5
+At some level, expression and existence merge. This chapter explains
+the intellect ual landscape for this rethinking of the media concept.
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+1964 in Jubilee
+
+Marshall McLuhan’s Understa nding Media (1964) recently celebrat ed its
+fiftieth anniversary, and this book revisits his claim that media are not
+only carriers of symbolic freight but also crafters of existence. In the heyday of the broadcast era, a time in which the few addressed the man y
+by means of mass communication, McLuhan protested that media were
+themselves the message and took media in a radically diverse way, wit h
+roads, number, housing, money, and cars figuring in his analysis alongside more typical twentieth- cent ury media candidates such as advert is ing, movies, and telephones. Both of these moves —ont ologiz in g and
+pluralizin g of media—m a ke him strikingly relevant in the digital era .
+McLuhan helped invent media studies in the spirit in which I pursue it,
+though the field both has and deserves a wider lineage. Much is madden ing about McLuhan—h is obscurity, mischievousn ess, and willingn es s
+to make up or ignore evidence—but his brillian ce covers a multit u d e
+of sins. He has become an unmissable destination for media theoris t s .
+Essential are his ideas that each mediu m has a grammar, an underlyin g
+language-like set of protocols for arranging the world and the organs of
+
+
+16
+
+CHAPT ER ON E
+
+sensation into a distinct “ratio,” and that new media can both extend and
+do violence to (“amputate” was his term) the bodies of those coupled
+with them. He had an outstanding library at his disposal and read it well.6
+But Understa nding Media was not the only key work of media theory
+from 1964. It shares a joint jubilee with the French paleoanthrop ologist André Leroi-Gourhan’s monumental two-volu m e work Le geste et la
+parole, from 1964–65, translated as Gesture and Speech. This treatise offers
+an evolutiona ry account of human anatomy and its shaping by language
+and tools. The two books have an uncanny convergence in some ways:
+Understanding Media treated technologies as extended bodily organs; Le
+geste et la parole treated bodily organs as extended technologies. 7 Some
+other books from the same year deserve a mention as well: Stanisław
+Lem’s Summa technologicae, Norbert Wiener’s God and Golem, Inc.,
+Stuart Hall and Paddy Whannel’s The Popula r Arts, Herbert Marcuse’s
+One-Dim ensional Man, Claude Lévi-Stra uss ’s Le cru et le cuit, Margaret
+Mead’s Continuities in Cultural Evolution, and Gilbert Simondon’s L’individu et sa genèse physico -biolo gique. The year 1964 was a good time to be
+thinking big thoughts about technology, culture, and society. McLuhan
+and Leroi-G ou rhan, Lévi-St ra uss and Simondon, Lem and Wiener especially saw the convergence of biologica l and technical evolution, and
+Lem and Wiener probed even the theologica l stakes of the collaborat ion
+of life and progra m m in g. 8
+Leroi-G ou rh an has been very important for continental, especia ll y
+German, media theorists because he thinks as they do—that is, morp h ologically, in terms of the stretchy bounds of possibilit y, the intertwi n in g
+of form and matter, with an acute sensitivity to the technical press u res
+exerted upon bodily shape. For Leroi-Gou rha n, the evolutiona ry hist ory
+of the human body is inseparable from language and technology. He is
+the great theorist of the essential technicity of human beings. His stamp
+
+
+UNDERSTANDIN G
+
+MEDIA
+
+17
+
+will be evident in this book, especially but not only in chapter 6, which
+treats his relevan ce for a theory of the body as a medium . Certainly not
+all of his claims hold up after five decades of ongoing archaeologica l and
+genetic research. (For that matter, many of McLuhan’s claims don’t hold
+up today, perhaps mostly because they didn’t hold up in 1964. One rea d s
+McLuhan for sparks, not scholarship.) Leroi-G ou rh an showed the coevolution of the human musculoskeleta l form with techniques such as
+walking, gathering, chewing, speaking, drawing, writing, and rem em bering. He understood that the intertwin em ent of embodied pract ice
+and technical objects went from cranium to toe. For him the human condition was defined precisely by our standing on two feet—and by ou r
+consequent impossibilit y of separating nature and culture.
+McLuhan and Leroi-G ou rh an are not my only inspirations here.
+Media studies is a many-splendored field, packed with interestin g stud ies
+and questions. Media scholars typically study print, broadcast, film, an d
+Internet institutions and practices and their larger social, political, cu ltural, and econom ic consequences. Nearly three decades ago, Elihu Kat z
+looked at this work and divided media studies, like Gaul, into three part s .
+He saw three streams conceiving media as givers of information, ideology, and organization. The first was a largely social-scient if ic tradit ion
+of empirica l research on people’s attitudes, behavior, and cognition in a
+mainstrea m political framework; the second was a family of critical ap proaches to media as battlegrou nd s of domination and resistance; an d
+the third focused more historically on how media technologies sha p e
+underlyin g psychic and social order.9
+Though much has happened since, Katz’s diagnosis helps to show the
+edge space in which this book sits, namely, the third or technologica l tradition, which is also of course empirica l and critical in its way, though it
+is much more liberal in what it admits into the object domain of med ia
+studies. If most mainstrea m media studies see media as objects or institutions, the tradition I present takes media as modes of being. Mos t
+of the recent interest in media among humanists fits in this tradition as
+well, and often ignores Katz’s other two traditions, with their interes t s
+in audiences, institutions, and political economy, which can be a regret9. See Elihu Katz, “Communicati ons Research since Lazarsfeld,” Public Opinion Quarterly 50
+(1987): S25-S45.
+
+18
+
+CHAPT ER ON E
+
+table omission; I personally want no part of a media studies that has altogether lost the ballast of empirica l investigation and common sens e. 10
+The third way would include America n writers such as Lewis Mum f ord
+and James Carey, Canadians such as Harold Innis and McLuhan, French men such as Leroi-G ou rha n and Bruno Latour, and Germans such as
+Martin Heidegger and Friedrich Kittler. These figures, not all of wh om
+recogniz e “media” as their central theme, take media less as texts to be
+analyzed, audiences to be interviewed, or industries with bottom lines
+than as the historical constituents of civilization or even of being itself .
+They see media as the strategies and tactics of culture and society, as the
+devices and crafts by which humans and things, animals and data, hold
+together in time and space. We will examine them in turn.
+
+Leverage
+
+Harold Innis was one of the first to insist that infrastructu re should be at
+the heart of media theory. As a Canadian nationalist who had an acut e
+sense of how the British, French, and American empires shaped his
+country’s economic history and culture, and as a traveler in birch- ba r k
+canoes and railroa ds along old trade routes in the Canadian wilder n es s
+during research for his classic history of the fur trade, Innis was a connoisseur of chokepoint s. Like Mumford, he thought media history had
+to be part of the history of warfare, mining, forestry, fishing, writing, and
+printing. (Mumford, a more sensuous thinker, would add loving, build ing, and making.) Like Carey, Innis thought the fact of media more im portant than what was relayed. A non-Marxist critical theorist, Innis wa s
+part of a mid-centu ry chorus. The Frankfurt School, for instance, tend ed
+to see the special power of media exercis ed through the fabrication of
+dreams that teasingly placated social discontent with too easy visions of
+a better world, but Innis saw power at work on lower rungs of the abstraction ladder. He was interested more in organization than in content .
+Innis first studied staples such as fur, fish, and timber, later reconceivin g
+
+
+UNDERSTANDIN G
+
+MEDIA
+
+19
+
+staples as media and focusing on materials for the fabrication of writ t en
+records, such as stone, clay, papyrus and paper, whose varying fortu n es
+he traced from Egypt and Babylon through Greece, Rome, and Europ e
+to twentieth-centu ry North America. Innis saw media as spinners of tim e
+and space, and the whole expanse of human history as their stage. Innis’s
+practice of media history as a mastery of detail is, as noted, inspiratio n a l
+for this work.
+Someone with Innis’s perspective never would have dreamed of usin g
+the term “old media” for the twentieth century. Impressed by digit a l
+media—s ma ller, faster, mobile, and program m a ble, scurryin g like lith e
+little mammals around the old broadcast dinosaurs —ma ny have com e
+to call the great news and entertainm ent industries of the twentieth century “old media.” They were actually “mass media,” which is someth in g
+more specific. Compared to mass media, digital media did seem like an
+enormous historical rupture. But if we place digital devices in the broa d
+history of communication practices, new media can look a lot like old
+or ancient media. Like “new media,” ancient media such as registers, indexes, the census, calendars, and catalogs have always been in the bus iness of record in g, transmitting, and processin g culture; of managing subjects, objects, and data; of organizin g time, space, and power. Media as
+large entertainm ent machines that provid e news and entertainm ent on
+tap in a constant “flow,” as Raymond Williams called it, are relatively unusual. The chief mode of communicat ion in the heart of the twent iet h
+century—a ud iovis ua l broadcastin g— is the historical exception. Digit a l
+media return us to the norm of data-processin g devices of diverse size,
+shape, and format in which many people take part and polished “content” is rare. Media offer utilities of many flavors, of which mass narra t ive
+is only one.11 Innis is one of many who gave us a notion of media as ves s els
+of storage, transmission, or processin g. This definition is of great historical span, fitting both the hard drive and the abacus.
+Media are not exclusively modern; in different shapes and sizes med ia
+have contribut ed to the history of life on earth and perhaps elsewh e r e.
+They are fundamental constituents of organization. They compose cities
+and beehives, archives and asterisms. There have been human med ia
+since the great pyramids and biblical scrolls, since the Persian postal sys11. My essay in Mitchell and Hansen, Critical Terms, develops these themes.
+
+
+20
+
+C H APT ER ON E
+
+tem and Roman census, since Venetian counting houses and med ie va l
+cathedrals, since the emperor Qin Shihuang standardized Chinese cha racters, weights, and measures, began work on the Great Wall, and bu rn ed
+the books, thus unifying the Middle Kingdom for better or worse. Bef ore
+civilization, humans had media such as graves, baskets, stars, families ,
+and fire. We should never talk as if media did not exist before 1900 or
+1800 (even though the ability to talk about media in this transhistori ca l
+way only emerged in the mid-twentiet h century). All complex societ ies
+have media inasmuch as they use materials to manage time, space, an d
+power. Kittler’s point, that culture was always already a procedu re of data
+processin g, follows confidently in Innis’s path. Kittler’s word was Kultur,
+a term that can mean both “culture” and “civilization” —a nd, never sh y
+about grand claims, he certainly meant to include both.
+Innis always returned to the principle of leverage. By levera ge I mea n
+straightforwa rd ly using a point to concentrate force over people and
+nature. Kingcraft, writing, control over irrigation, and calendrica l prognostication were ancient techniques for funneling power to elites. Patriarchy, the concentration of power in the phallus, likewis e exploits a small
+lever capable of large political and economic effects, and has been the
+rule since the beginnin gs of civilization , which can be understood as a
+systematic favoring of paterial over material powers. Civilization exploit s
+fulcrums of all kinds: give me a point at which to stand, said Arch im edes, and I will move the earth. (Hunter-gath erer societies never had such
+dreams or means of grandeur, and indeed most people on earth still live
+without access to the massive power that accrues to brokers, secretar i es ,
+and others who preside at switch points.)
+One such fulcrum is documentation, discussed more in chapters 6
+and 7. Quod non est in actis, non est in mundo: what is not in the docum en t s
+is not in the world. Philip II, king of Spain during its seaborne empire’s
+apex in the sixteenth century, liked to repeat this saying to justify the
+heaps of paper his mapping and information - gath erin g bureaus gen erated to administer his far-flung operations. So do recent media theoris t s .
+The saying’s pithy expression of the ways in which data can both pict u re
+and manage the world has made it a favorite topos in work by Germ a n
+media scholars fascinated with process es that repres ent by interve n in g
+and interven e by representin g, thus breakin g down the old binary of map
+
+
+
+UNDERSTANDIN G
+
+MEDIA
+
+21
+
+and territory. 12 Like entrepren eu rs, hackers, and revolut iona ries, med ia
+theorists think in the ablative case: “by means of which.” 13 Media are not
+only about the world; in ways it is our task to specify in these pages, they
+are the world. For most of my undergra du at e students, a lost mobile
+phone means a lost limb or brain. Their lives are much more than their
+phones, but they live by means of them. These devices are the narrow gat e
+through which their mental and social metabolis m passes.
+Philip’s dictum also nicely evokes Innis’s sense for the ways in wh ich
+brokers and intermed ia ries —t h os e who control the files, stand at th e
+switch, or speak two languages —a re the ones who earn fortunes an d
+make and break empires. One of Innis’s key insights was that each n ew
+medium breeds a cadre of specialists who figure out how to manipu la t e
+and program its special carrying capacities and standards. For Innis, th e
+history of media was also an occupational history, the history of craft s people who master medium-s p ecif ic tactical skills and guard access t o
+them—in a “monopoly of knowled ge” as he called it—and then leverage that advantage to their gain. Egyptian hieroglyph- writ in g priests an d
+medieval guilds provided him with vivid examples. The vast power an d
+wealth of high-tech entrepren eu rs is a more recent case. Media prop erties and quirks, when mastered, reveal fresh possibilities of control.
+(Media typically have narrow pass-through points. The same is true f or
+living organis ms.) For Innis, the task of the media historian was to und erstand the mischievous ratios of time, space, and power, and the blin d
+spots and bottlenecks of infrastructu res that earlier operators had figu red
+out how to leverage.
+Media have a world-levera gin g power. Lenin was thinking ablativel y
+when he saw that the key position in the Soviet Communist Party wa s
+that of secretary, since all documents passed the secretary’s way, and he
+used it (supplement ed by a wide range of other forms of ruthlessn es s )
+to gain control of the party, leading to the peculia rit y that subsequ en t
+Soviet leaders were general secretaries rather than presidents. (He also
+
+
+
+22
+
+C H APT ER ON E
+
+thought the secretary had more workin g- class street cred.) Lenin understood the power of record in g and transmission, how traffic in docum en t s
+passes for traffic in things. His successor Stalin understood someth in g
+similar: the power of the editor’s pencil to alter history. Stalin’s pencil
+was one of the most lethal weapons ever, and the number of deaths that
+flowed from it will probably remain unknown.14
+In media the sign is often the thing. The news media not only rep ort
+the news: they make the news. Did William Randolph Hearst’s New York
+Journal report the outbrea k of the Spanish-Am erica n War or cause it?
+In journalism the breakin g of a story is often the story itself. The head line declarin g that one candidate has won the political debate not only
+reports events; it shapes them. Google and Facebook partake of a similar possibilit y-f ix in g power. My undergra du at e students say that their
+romantic lives are not real until they are certified on Facebook. In rea l
+estate the title is not the house, but they who own the title also own the
+house. You still exist without identification papers in a foreign country,
+but in many practical ways you do not. Channel characteristics are not
+just trivialities; they are levers of abundant interest in their own right. For
+want of a nail, the kingdom was lost. Options traders buy and sell contracts, not tulips, wheat, or sides of beef. They traffic in dates and deals ,
+not in goods. But hold onto the option too long, and you may end up wit h
+a vast shipment of wheat on your doorstep. 15 Sports are similarly unsen timental: it matters not what you are capable of, but what you do wh en
+it “counts” (i.e., when the public gaze of documentation is watching; we
+call athletic achievem ents “records.”) The superpos itionin g of data over
+commod ities, documents over values, and record s over events lies at the
+heart not only of modern capitalism but of media operation s in genera l. 1 6
+Wherever data and world are managed, we find media.
+
+
+
+Peters, John Durham. 2015. The Marvelous Clouds : Toward a Philosophy of Elemental Media. Chicago, IL: University of
+Chicago Press. Accessed August 24, 2017. ProQuest Ebook Central.
+Created from yale-ebooks on 2017-08-24 12:54:03.
+
+UNDERSTANDIN G
+
+MEDIA
+
+23
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+Technik and Civiliz ation
+
+So-called new media have pushed the logistica l role of media back to
+center stage. We live in a palimpsest of new and old. Despite occasion a l
+prophecies of decline, the most fundamental media are still with us.
+Body, voice, and face remain at the heart of all our interactions , as writ ing does at the heart of all our transactions. For that matter, the mas s
+media of radio, television, film, and journalism soldier on, often pres s ed
+into new shapes. Old media rarely die; they just recede into the background and become more ontologica l. The exception might be West ern
+Union ceasing to send telegra m s in 2006, but one might also say that the
+telegrap h did not die: it was just absorbed into the internet.
+All media raise perennial problems of life in civilization. “These marvels (like all marvels) are mere repetitions of the ages,” said Melvill e. 1 7
+Digital media have rendered a historical and imaginative service: their
+endless tagging, tracking, and tracing of our doings reminds us that data
+management for power, profit, and prayer is both ancient and mod ern .
+Collection of useful indicia from populations is as basic a task for com munication systems as the offering of drama and news. Computat ion ,
+broadly speaking, runs from ancient priests watching the stars to mod ern ones mining “the cloud.” Some administrations can take data management to baroqu e extrem es, as in the case of Renaissan ce Europe, but
+states have always in some sense been information states.18 The hist ory
+of new media is old.19 “Out of old fields,” said Chaucer, “comes all this
+new corn.”
+Much new corn in media studies has been brought forth in the German language. This book is not the place to sketch the story and increa s ingly varied (domesticat ed) strains of so-called German media theory or
+the life and thought of its foremost and most controvers ia l practition er,
+Friedrich Kittler (1943–2011), though it takes its bearings from this rich
+body of work. Here I want to underscore the infrastru ctu ra l sensibilit y
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+24
+
+CHAPT ER ON E
+
+and metadisciplina ry ambitions of German media theory, focusing on
+Kittler for the sake of convenien ce. 20 (Note that each term in Germ a n
+media theory is troubles om e.)
+Kittler loves to swerve away from whatever seems most obviously of
+humane interest and to instead focus on the structures behind it. Content is always an epiphenomen on. The book that made him famous and
+caused a major crisis in the academic establishment of German litera t u re
+(Germa nistik) was Aufschreibesysteme 1800/1900 (1985), translated into
+English as Discourse Networks. 21 For Kittler, Aufsch reibesystem e (literally,
+inscription or writing-d own systems) were mixes of wetwa re, softwa re,
+and hardware. They consisted of embodied agents such as mothers or
+doctors, cultural processin g algorith ms such as educationa l policies and
+psychiatry, and technical media such as writing or phonographs . As a research method, the hunt for discours e networks paired up unsuspect in g
+synchronic bedfellows and saw literature, human beings, and mind as
+effects of such networks. Kittler sometim es had a chip on his shou ld er
+and was a sarcastic controvers ia lis t in battling all forms of what he took
+to be academic nonsense. (Fortunately for the would-be pugilist, there is
+a never- en din g supply.) Much could be said about his crotchets, errors ,
+and genius: his disdain for social history, his love of war technology, his
+curious gender politics, and the ways in which his reflections about the
+media of knowled ge making were partly reconnaissan ce missions for a
+remarka bly successfu l military campaign on behalf of media studies in
+Germany. But how creatively the man could think, and how stimula t in g
+he always was to read, listen to, or talk to!
+In any case, Kittler clearly launched the next evolutiona ry step in
+media studies.22 Useful here is his notion that media form a needle’s
+eye for novel historical and existential possibilit ies, a notion that spans
+his middle work on hardware and his last phase on Greek cultural tech20. For the best single introduction, see Geoffrey Winthrop-Young, Kittler and the Media
+(Cambridge: Polity, 2011).
+
+
+U N D ER STANDING MEDIA
+
+25
+
+niques. Writing was the “Engpass,” or strait and narrow gate, throu gh
+which all meaning had to pass before the analog media of the late nineteenth century (sound record in g and cinema) broke onto the scene. Th e
+phonograph and the camera recorded temporal process, including whit e
+noise, thus breakin g the monopoly of the signifier. Time axis manip u lation broke the regim e of real time—and this brilliant point is centra l
+to this book, especially chapter 6. Optical, acoustic, and alphabetic data
+flows created distinct technical and experiential regim es. On the rad io
+we were dumb and blind, but our ears stretched over great distances of
+space; on the telephone we were blind but our voices and ears could span
+the same distances; with the phonograph we could hear into the past.
+Quite like McLuhan, Kittler saw how each medium extended and handicapped the human sensoriu m. 23
+In his last, incomplet e work on music and mathematics, eccentric and
+rare in almost every way, Kittler treated the Greek alphabet as the checkpoint through which Hellas had to pass. As if to defy centuries of European opinion, he did not think the great thing about ancient Greece wa s
+its drama, ethics, or politics: it was its media system, consisting of com bined letters, numbers, and tones. For Kittler, the world-h ist orica l brea kthrough of ancient Greece was not the philosophy of Plato or the tragedies of Euripides, which he, followin g Nietzsche, vigorous ly disdain ed :
+it was rather the invention of an alphabet with vowel notation that cou ld
+act as a processin g mediu m for poetry, mathematics, and music all at
+once, like a universa l computer before the fact. Here he built on Heidegger by making media keys to nothing less than the history of bein g
+(Seinsgeschichte). Media for Kittler are world- ena blin g infrastructu r es ;
+not passive vessels for content, but ontological shifters. Inconspicu ou s
+vehicula r transformat ions can have gigantic historical effects. History’s
+passage does not restrict itself to humans: being, after all, is large and
+contains multitud es.
+Kittler reserves a special spot in paradise for what we might call the
+engineers of being, from Archytas to Albert i to Alan Turing. In each cas e
+he treats program m ers rather than philosophers as history’s most im23. See Kittler’s introduction to Gram opho n Film Typewriter (Berlin: Brinkmann und Bos e,
+
+
+26
+
+CHAPT ER ON E
+
+portant actors. Archytas was Plato’s contempora ry and probably his acquaintance: whereas the latter’s enormous legacy, in Kittler’s opinion ,
+was almost entirely destructive, Archytas first defined the quadriv iu m
+(the cluster of ancient mathematica l arts), was the first engineer, and invented acoustics and percussion as a musical form. Western educa t ion
+fixed on the wrong man: Plato loosed “ideas” on the world, but Archyt a s
+showed us how to study sound, build catapults and rattles, and play the
+Pythagorean music of the spheres. Albert i, the fifteenth-cen tu ry Floren tine humanist, mixed theory and practice in architectu re, perspect i v e
+painting, and cryptograp hy, and thus exemplif ies one of Kittler’s recu rrent themes: that the Italian Renaissance, retrospect ively so celebr a t ed
+for its humanism, was great actually because its artists were engineers . 2 4
+Alan Turing, one of Kittler’s enduring heroes, is the arch-progra m m e r,
+the great mathematica l and code-brea kin g genius who stands for the
+computational inventions that have remade the ways in which we process and access the world. For Kittler, Turing was the key figure of ou r
+epoch: ours was the Turing- zeit, the era of Turing.
+Late in life, Kittler sometim es expressed doubts about the concept of
+media. For my part, I think there is plenty of sugar left in the old beet .
+Part of Kittler’s complaint was that Medienw issenschaft had been institu tionalized as one academic field among many. He thought media studies
+should consider the media of study in general. For him, as for McLuha n ,
+media studies was not just one more field to stir into the interdisciplin a r y
+mix, but the field of fields, one either “post” or “meta” that could reorga nize and engulf all the others. Of course, media studies is known for ambitious statements about itself and many other things. (McLuhan had his
+share of such statements.) In his most famous or notoriou s utteran ce,
+Kittler wrote: “Media determin e our situation.” Another was his decla ration of what he called information-th eoret ic materialis m, an update of
+Philip II: “Nur was schaltbar ist, ist überhaupt.” Schaltba r is hard to trans late, suggesting being plugged into an integrated circuit, but the gist of
+the statement is: Only that which is networka ble or switchable exists at
+
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+U N D ER STANDING MEDIA
+
+27
+
+all.25 If Google can’t find you, you don’t exist. Wiring preced es being. Beyond the network there is only the Ding-a n-sich. Grids and circuit boa rd s
+are ontologica l in their effects. At its most ambitious, media studies sees
+itself as a successor discipline to metaphysics, as the study of all that is.
+For Kittler, both philosophy and the humanities in general refused to
+think about techniques, and the enormou s price was blindness to the history of being. 26 In Kittler’s most radical view, media studies was a privileged form of seeing being as mediated. It was a way-of-seein g field, not
+an object field. Kittler saw a postdisciplina ry kind of media studies that
+did not tarry at the well-tilled crossroa ds of humanities and social sciences, but went to the natural sciences, mathematics, engineerin g, med icine, and military strategy. His late criticis m of media studies turned on
+his productively arrogant claim that knowled ge is knowled ge, that there
+is no such thing as special field knowled ge of any sort, whether Medi e n wissenschaft or any other. He was ever the rebel against specializat i on ,
+with all the risks such rebellion entails. In roving broadly into man y
+fields, Kittler made plenty of amateur errors, something that I am certainly in no position to criticize. Another of his dicta deserves more fa m e
+than it has received: “Simple knowled ge will do.” 27
+The idea that media studies could include what recent academic jargon calls the STEM fields is clearly salutary.28 Indeed, media studies is
+one confluence of knowled ge that defies the old split of Geist and Natu r.
+More than three decades ago we were told that the innovative exchan ges
+were happening between the social sciences and the humanities, 2 9 but
+today humanists have rediscovered the natural sciences with fresh force.
+And with good reason. Nature turns out to be profoundly historical. Evolutionary biology has shown just how remarka bly plastic species are, as
+populations adapt quickly to environ m enta l exigencies across genera25. Friedrich Kittler, “Real Time Analysis: Time Axis Manipulation,” Draculas Vermächtn i s:
+Technische Schriften (Leipzig: Reclam, 1993), 182–207, at 182.
+
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+28
+
+C H APT ER ON E
+
+tions. The life sciences are historical sciences, and life itself is interp retive, even rhetorical, as it adapts to the available means and looks to seiz e
+the kairos. All natural sciences have a hermen eut ic element, but the sciences of natural history, such as cosmology, geology, evolutiona ry biology, paleovirology, and climatology, do so profoundly. Kittler alwa ys
+read works of literature and music as sources of truth, and there is som ething inspiring about his insistence that the humanities never give up on
+their cognitive claim: their task is not just the education of sensibilit y, but
+the orderin g of knowled ge, of which there is only one kind (with endles s
+variants). The true humanist would also be a naturalist, one who produces knowled ge about things that are, were, and are to come.
+The humanities , seen broadly, are the homeland of technē. There is
+no humanity without arts, starting with the art of walking upright on
+two feet. We are already technical in mind and body, as Leroi- G ou r h a n
+insists. Not only do the natural sciences depend on instrumentat ion . 3 0
+Humanists rely on pen, paper, computer, slide, classroom, file, voice,
+book, chair, glasses, and archive (library or Google). Whatever else they
+may be, the humanities are disciplines for the storing, transmission, and
+interpret ation of culture (and maybe nature too). They have materia l
+conditions and media as much as any other form of inquiry. Kittler puts
+it polemica lly: “For the humanities there is nothing nontechnical to teach
+and research.” 3 1 Poetry, music, dance all involve counting; without the
+primord ia l technology of writing, no humanities would exist at all. Sin ce
+Rousseau, many have told the story of how our authentic humanness is
+violated by technology, a story still weakly resonating in some quarters . 3 2
+The bigger sadness of this story is the divorce of the humanities from the
+infrastructu res of being. Apparatus is the basis, not the corruption, of
+the world. Our beauties have counting and measure at their core. Music,
+the greatest of all arts humans enjoy, is mathematica l and technical. For
+all his crankiness, Kittler saw (or heard) a sublime truth here.
+The object domain of media studies is nicely captured in the title of
+
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+U N D ER STANDING MEDIA
+
+29
+
+Lewis Mumford’s classic book Technics and Civiliza tion (1934). Tech ni c s
+was his translation of the German term Technik, much as we would trans late Politik as politics or Physik as physics. This term deserves a revival in
+English. Mumford’s polymathic ambitions set a course for media studies
+since: you should use the entire library as your source. To study media ,
+you cannot just study media: on this point Innis and McLuhan, Carey
+and Kittler all agree, being scholars with an eye for preposterous analogies and miscellan eou s learning. (Douglas Coupland called McLuhan an
+“information leaf blower.”) 3 3 “In writing the history of media,” says David
+Hendy, “we are, in effect, writing the history of everyth in g else.” 34 To
+understand media we need to understand fire, aqueducts, power grid s ,
+seeds, sewage systems, DNA, mathematics , sex, music, daydreams, and
+insulation; this book tackles a small subset of this roster. Technologica ll y
+oriented media theorists love to unfurl a hitherto unsuspected object as
+a medium absolutely central to life as we know it (e.g., McLuhan on ligh t
+bulbs and bicycles, clothing and weaponry). The creative vigor in German media studies since Kittler owes as much to archival mania as to
+theoretical innovation, the constant discovery of new materials hithert o
+untapped. 35 I confess to being moved by this spirit in this book’s interes t
+in ships, fire, night, towers, books, Google, and clouds. What we migh t
+call weird media theory has a bounty of objects, but that is both a bles s ing and a burden.
+There is a danger, of course, of losing one’s grip on what media are.
+“If everyon e’s somebody, then no one’s anybody” (Gilbert and Sulliva n ) ,
+and what’s true of prestige is also true of concepts: they must always stop
+short of complete universalit y. Because media are in the middle, their
+definition is a matter of position, such that the status of something as
+a medium can fade once its position shifts. A tendency in the philos ophy of technology, especially object-orient ed ontology, is to be so ambitious in celebrat in g quirky lists of things in all their varied wonder that
+the sometim es brutally hierarchica l and unequal character of things dis33. Douglas Coupland, MarshallMcLuhan:YouKnow Nothing of My Work! (New York: Atlas,
+2010), 200.
+
+
+30
+
+CHAPT ER ON E
+
+appears from view. Bruno Latour, to whom I owe a lot, has polemica ll y
+called for a “flat ontology,” but in the works of some of his acolytes that
+can sound like a refusal to make critical judgments about the great inequality of things. Anyone interested in infrastructu re, lookouts, and
+turning points needs old-fashion ed sociology about how recalcit ra n t ,
+not just how cool, “things” are. Ontology is not flat; it is wrinkly, cloud y,
+and bunched. Often, like the sea, it is stormy and harsh. I am only willin g
+to go part of the way with a full philosophy of immanence. In a beaut ifully styled book Quentin Meillassoux has criticiz ed what he calls “corrélationism e,” the doctrine that meaning depends on a superint en d in g
+human mind of some sort. 36 I fully endorse separating meaning from
+mind, but cannot abandon the critical project stemming from the post Kantian critical legacy that he (like his less temperat e followers) attacks .
+We need Urteilskraft, the capacity of judgment, more now than ever. Th e
+task is to find grounds for critique without a misguided subject-obj e ct
+distinction, an aim whose philosophica l roots run from German idea lism to the critical theory of the Frankfurt School, and in pragmatis m and
+phenomen ology as well.
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+Infrastr uctur alis m
+
+Infrastructure has come into prominen ce as a scholarly topic in the past
+two decades, reflectin g wider political and economic changes as the Cold
+War waned, its large technical systems aged, and the tangle of networks
+known as the Internet was built. Infrastructure was first a military term .
+In World War II the British found Iceland’s landing strip inadequate for
+their needs. As they were building a new airport in Reykjavik, they asked
+the Icelanders for financial support. Sorry, no, the Icelandic officia ls
+supposedly said—but feel free to take the airport with you when you
+leave. (The British did not, and it is still used for domestic flights.) Infra structures are generally thought to be bulky and boring systems that are
+hard to carry, such as airports, highways, electrical grids, or aquedu ct s .
+Since the early nineteenth century the world has seen unpreced e n t ed
+develop m ent of infrastructu re: railways, telegraphs, transoceanic cables,
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+UNDERSTANDIN G
+
+MEDIA
+
+31
+
+time zones, telecom m un ications networks, hydroelect ric dams, power
+plants, weather forecastin g systems, highways, and space program s. Th e
+Internet—“th e new iconic infrastru ct u re of our age,” as Hillary Clint on
+put it—continu es to motivate such questions. 37 Whatever else modern it y
+is, it is a proliferation of infrastructu res. “To be modern means to live
+within and by means of infrastructures.” 38
+Infrastructures can be defined as “large, force-am p lif yin g systems that
+connect people and institutions across large scales of space and time” or
+“big, durable, well-funct ion in g systems and services.” 39 Often they are
+backed by states or public-privat e partnerships that alone possess the
+capital, legal, or political force and megaloman ia to push them throu gh .
+From Cheops to Stalin, infrastru ct u res have been the playthings of dictators and tyrants; the Internet might seem a departure because of its
+apparent lack of centraliz ed control, but there is plenty of state and market power shaping its develop m ent. Because of their vast technical com plexity and costs, infrastru ctu res are often cloaked from public scrutin y,
+their enormous risks and unintended consequences shielded from open
+debate. Traditional infrastruct ures are generally thought to be—or actively designed to be—im m un e to democrat ic governan ce, but rem a in
+open to sabotage if otherwis e full of inertia (resistance to change).40 Th ey
+are almost always vulnera ble to hijacking. Every tower invites topplin g.
+“Once in place, infrastru ctu res generate possibilities for their own corruption and parasitism.” 41 Something there is that doesn’t love a wall.
+Though large in structure, infrastruct u res can be small in interf a ce,
+appearing as water faucets, gas pumps, electrical outlets, computer terminals, cell phones, or airport security, all of them gates to bigger and
+submerged systems. Infrastructures are designed to reduce risk in under37. “Remarks on Internet Freedom,” http://www.s tat e.gov/s ecretary /r m/2010/01/135519. ht m
+(accessed 25 September 2013).
+
+
+32
+
+CHAPT ER ON E
+
+lying elemen ts, but often produce new risks in doing so. Building sys tems means managing their side effects—a n d the side effects of the management itself. Electrical power lines, for instance, increase the risks of
+childhood leukemia . 42 The bigger the infrastructu re, the more likely it is
+to drift out of awareness and the bigger the potential catastrophe. Th ere
+were no train crashes before the railroad was built, and no potato fam ines before the monocult u ral overin vest m ent in that crop in Irela n d .
+Levera ge means vulnerabilit y.
+There are hard and soft infrastructu res . Dams and websites, high wa ys
+and protocols are equally infrastructu ral. There can be lightweight an d
+portable as well as heavy and fixed infrastructu res —a point made repea t edly by Innis. Compared with the concrete opera of Roman cities, road s ,
+and aqueducts, the mathematics and history, philosophy and ethics ,
+music and holidays of the Greeks and Jews are much more alive today.
+Indeed, what remains of Rome is its cultural engineerin g in religion, language, law, and the idea of Europe itself. Cultural continuity is often a
+greater achievem ent than continually functioning water or road system s :
+of all extant cultures, only the Chinese, Greeks, Indians, and Jews ha ve
+managed to maintain their ethnic identity over multiple millennia (not
+without constant reinvention, of course). Software often outlasts hard ware. In geologic time, all infrastru ct u res suffer an Ozymandian fate. A s
+Hegel noted of ancient Egypt, “The palaces of the kings and priests ha ve
+been transform ed into heaps of rubble, while their graves have def ied
+time.” 43 None are designed to outlast the typical life span of any civiliz a tion. The exception might be calendars, which in theory can be spun ou t
+on scales far vaster than any possible human maintenance, although an y
+chance of keeping them closely synchroniz ed with the sky will not las t
+more than a few thousand years, thanks to the variabilit y of the earth ’s
+motion. (Our calendar, as chapter 4 shows, requires updates much m ore
+often than that.) Civilization seems to have a limit of durability fixed in
+
+33
+
+millennia, and maintenance of long-term systems of communicat ion requires vast expense and expertis e. 44
+Infrastructures tend to change incrementally, and have the inertia of
+previou s innovations to build upon. They are improved upon modula rly,
+and clearly illustrate the principle of path-depen d ence. 45 They dem a n d
+labor and upkeep. They are infrastru ctu res only to the degree that they
+are normalized into taken-for-grant eds; they have social as well as tech nical components. 46 Retention of archaic functions and structures is as
+relevant in our media as in our tissues. Both bodily organs and technica l
+ὄργαν α (organa; “tools” in ancient Greek) are a hodgepodge of differen t
+environ m ents layered upon each other. DNA is an archive of new and
+old. The same is true of any natural language (one reason why the hist ory
+of words can be a great source of accumulated insight). We can call this
+the QWert Y principle: suboptima l patterns persist long past their initia l
+conditions due to path-depend en ce. 47
+I am loath to introduce yet another “ism” into the scrimma ge of academic brands, but if I were to do so, it would be the doctrine of infrast r u c turalism. After structuralis m , with its ambition to explain the princip les
+of thought, primitive or modern, by way of a combinatorics of meanin g,
+and post-structu ralis m, with its love of gaps, aporias, and impossibilit i es ,
+its celebrat ion of breakdown, yearning, and failure, its relish for prep os terous categories of all kinds and love of breathles s syntax—perh aps it
+is time for infrastructuralis m. Its fascination is for the basic, the borin g,
+the mundane, and all the mischievous work done behind the scenes. It
+is a doctrine of environm ent s and small differences, of strait gates and
+the needle’s eye, of things not understood that stand under our world s .
+Hence the quiet pun in the title of this chapter: infrastruct u ra l media are
+media that stand under.
+
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+34
+
+C H APT ER ON E
+
+Infrastructure in most cases is demure. Withdrawa l is its modus op erandi, something that seems a more general propert y of media, which sacrifice their own visibilit y in the act of making something else appea r. 4 8
+Marx was a theorist of infrastru ct u re not only in his fascination for indu s trial apparatus, but also in his analysis of how power relations are cam ou flaged. The greatest thinkers of infrastruct u re were never interested on ly
+in the gear; they always wanted to know why awareness of essential thin gs
+so quickly fades into “beaten paths of impercipien ce.” 4 9 (This is a vers ion
+of the old moral mystery of why the quest to find bedrock principles of
+right action never finds any bedrock more certain than the ongoing ques t
+itself.) Freud made vivid use of infrastruct u ra l metaphors, viewin g th e
+psyche in terms of cities, sewers, ruins, filing systems, and postal cen s orship; but he was also an analyst of clouded awareness, of our dist ort ed
+communicat ion with ourselves. Every memory trace for him was a crim e
+scene investigation to show off his considera ble forensic skills.
+Perhaps the most explicit effort to understand how the funda m en tals reced e into the backgroun d was that of Freud’s contemp o r a ry
+Edmund Husserl, who develop ed philosophical phenomenology. Ma rx ,
+Freud, Husserl and their contempora ries all lived through terrific infra structural transformat ions and thought that boredom and obviou s n es s
+were ruses by which consciousn es s hides the marvelous, often deviou s
+workin gs that make it possible. The same is true with such nineteen t h century figures as Charles Darwin, W. E. B. Du Bois, Émile Durkh ei m ,
+Charlotte Perkins Gilman, Ferdinand de Saussure, and Max Weber, wit h
+their analyses of the infrastruct u res of life, race, society, gender, and lan guage. For thinkers born in the nineteenth century, it was madness not
+to observe the nexus, as they lived through the triumph of steam, coa l,
+electricit y, barbed wire, standard sizes, and standard time. All of th em
+believed in the power of reason to either get to the bottom of things or
+make a greater mess of them. Freud’s famous dictum, “Wo es war, soll
+ich werden” (Where it was, I should be), might be understood as the im-
+
+
+35
+
+perative to make all infrastruct u res clear. There is a deep infrastruct u r a l
+ethic in modern thought.
+One of the key books that launched much of the recent interest in
+infrastructu re, Sorting Things Out (1999) by Geoffrey Bowker and the late
+Leigh Star, brought a strong phenomen ologica l heritage to infrast ru c ture studies. Infrastructu re was pushed beyond large, heavy systems to
+be a question of how basic categories and standards are formed, and how
+they are formed as ordinary. How the taken-for- grant ed gets constru ct ed
+in the first place is a classic phenomen ologica l question: how did the
+water ever becom e invisible to the fish? Bowker and Star see our world s
+as bristlin g with standards and forgotten rules that produce everyd a y
+things in their everyda yn es s and are sustained by the ghostly cumu lu s
+of bodies at work. Ordinary objects such as compact disks and pencils
+conceal “decades of negotiation.” As Bowker and Star quip, “There is a
+lot of hard labor in effortless ease.” 50 To break through the crust, they
+offer the concept of “infrastru ctu ral inversion,” a cousin to what Harold
+Garfinkel called “breachin g” —th e intentional violation of a social norm
+to bring the backgroun d out into the open. Somethin g similar happen s
+with accidents and breakd own s: infrastruct u re comes out of the wood work. Glitches can be as fruitful intellectu ally as they are frustrating practically.51 Essence, intoned Heidegger (channeling Aristotle), is revea l ed
+in accident. 52
+Infrastructure is often as hard to see as a light rain through the win dow. Not only is it invisible by nature, but it can be camouflaged by design in what Lisa Parks calls “infrastru ct u ra l concealment.” 53 Some infra structures (water, sewers, electrica l and cable lines) are literally bu ried
+in the ground (or underwat er) and others are designed to blend in wit h
+the scenery. More rarely, towers or hydroelectric dams are intentional
+50. Geoffrey C. Bowker and Susan Leigh Star, Sorting Things Out: Classification and its Conse quences (Cambridge: MIT, 1999); the quote from 9.35 has a useful definition of infrastructure.
+51. See Peter Krapp, Noise Channels (Minneapolis: University of Minnesot a Press, 2011).
+52. “In einer Störung der Verweisung . . . wird aber die Verweisung ausdrücklich.” Martin Heidegger, Sein und Zeit (1927; Tübingen: Niemeyer, 1993), 74.
+53. Lisa Parks, “Technostr uggles and the Satellite Dish: A Populist Approac h to Infrast r uc ture,” Cultural Technologies: The Shapin g of Cultu re in Media and Society, ed. Göran Boli n
+(London: Routledge, 2012), 64–84.
+
+
+
+displays of power and modernit y, and some architectu ral fashions have
+foregroun d ed the guts of a building (as in the Centre Pompidou in Paris ,
+where extruded pipes and conduits are a flamboyant part of the design ) .
+In the twentieth century, broadcasting houses were temples of transm is sion that celebrat ed their own technicity. 54 In a similar way, as we see
+below, medieval clock towers were statements of civic wealth and em inence. Technologies are never only functional: any device always has an
+element of social display or “bling.”
+Forgetting seems a key part of the way infrastru ct u res work. Star
+notes that they are often “mundane to the point of boredom.” 55 But it all
+depends on what the structure is infra to. Infrastructure is often defin ed
+by being off the radar, below notice, or off stage. Redunda ncy may be
+boring, but the essence of robust systems is backup options. Technology,
+in contrast, is a concept biased towards newness: breathing, fire control,
+writing, or cities rarely count, even though that’s where much of the hard
+work is. We have the unhelpful habit of isolating the bright, shiny, new,
+or scary parts of our made environ m ent and calling them “technology, ”
+to the neglect of the older, seemingly duller parts. Horses were as important as tanks in both world wars, and bicycles have been as important as
+cars in recent decades. 56 There is a politics to boredom. “Mature tech nologica l systems reside in a naturalized backgroun d, as ordinary and
+unremarka ble to us as trees, daylight, and dirt,” says Paul Edwards, 57
+He is completely right, but trees, daylight, and dirt, of course, are high ly
+remarka ble: they are also mature technologica l systems. (“The inva riable mark of wisdom,” said Emerson, “is to see the miraculous in the
+common.” 58) The perception of monotony is a measure of the breadth of
+mind: nothing would be boring to the mind of God. Studying how borin g
+things got that way is actually a good way never to be bored. This book
+
+seeks to brew this elixir, wagerin g that the wonder of the basic can bea t
+its banality.
+Infrastructuralis m suggests a way of understandin g the work of med ia
+as fundamentally logistical. Logistical media have the job of orderin g fundamental terms and units. They add to the levera ge exerted by record ing media that compress time, and by transmitting media that comp res s
+space. The job of logistical media is to organize and orient, to arra n ge
+people and propert y, often into grids. They both coordinat e and subord inate, arrangin g relationships among people and things.59 Logistical med ia
+establish the zero points where the x and y axes converge. McLuhan’s slogan “The medium is the message” applies particula rly well to them. Th ey
+prepare the ground on which we can make such distinctions as natu re
+and culture. They span ocean, ground, air, outer space, and cybersp a c e.
+Chapters 4 and 5 explore logistica l media most fully, focusing on clas sic forms such as calendars, clocks, and towers. Other key examples are
+names, indexes, addresses, maps, lists (like this one), tax rolls, logs, accounts, archives, and the census. Money is surely the master logist ica l
+medium —a medium, as Karl Marx complained, that has no content in
+itself but has the power to arrange everyth in g else around it.60
+In arraying things around polar points, logistica l media set the term s
+in which everyon e must operate. The zero is the paradigm case of a logis tical medium: an apparent nothing that marks out longitude and latitude, and orders of magnitude, and thus shapes the world; it is an opera tor that arranges data and regulates processin g. (Few would complain if
+their bank accounts acquired an extra zero in the right place.) The zero is
+an Archimed ean παγκρ άτιον (pankra tion) , a lever that moves the eart h .
+(Zero never exists in the numeral system of any natural spoken langua ge,
+but is a creature of graphical practices, such as calendar making and accounting.) Brigham Young’s cane served thus when it marked out the
+
+
+38
+
+C H APT ER ON E
+
+center spot, the temple, around which the addresses of the Salt La ke
+valley ever after, like it or not, would be gridd ed . Logistical media pretend to be neutral and abstract, but they often encode a subtle and deep
+political or religious partisanship. People still debate whether our era is
+“aD” or “Ce,” and whether the day after Saturday is called “Sunday” or
+“first day” (see chapter 4). The point—as vanishing point, decimal point ,
+and printer’s spatium—is one of the most critical of all modern media . 6 1
+Though logistical media usually appear as neutral and given, their tilt and
+slant can also call forth agitation.
+Infrastructuralis m shares a classic concern of media theory: the call to
+make environm ents visible. Perhaps McLuhan’s most fundamental ethical call, against his horrified fantasies of mankind growin g into a single
+hive mind, was the call to awarenes s. 62 McLuhan saw those of us wh o
+ignored our technologica l habitats “somnambulists,” invoking the Greek
+myth of Narcissus to explain our media narcosis. Blessed are they, said
+Kittler, who could hear the circuitry in the compact disc or see it in the
+discothequ e’s light shows.63 Ontology, whatever else it is, is usually just
+forgotten infrastructure.
+
+Copyright © 2015. University of Chicago Press. All rights reserved.
+
+Being and Things
+
+The mention of ontology brings up another figure. I confess to findin g
+myself reluctantly drawn into Heidegger’s orbit. Thanks to a small arm y
+of brillian t interpret ers who’ve helped detoxify his thought, he is abs olutely indispensable if you are interested in how φύσις (physis, nature)
+and τέχνη (technē, art, technology) intermingle. Heidegger has benefit t ed
+from an offshore laundering brigade made up of highly divers e spirit s .
+To read him—the effect is enhanced by reading him in German —a kin d
+of euphoria builds as you follow step after stunning step and behold, to
+use his language, the world dawning in ways it never has before. He is
+
+39
+
+the great student of the diverse shapes and seasons that being can assume. His thinking is as full of surpris in g, strange, and brilliant moves
+as Bobby Fischer’s chess games. Heidegger is willing to sacrifice his
+queen—m od ern philosophy’s most powerfu l piece, the knowing ego—
+in favor of secondary philosophical pieces such as “being” and “thing,”
+which he then develops to devastating effect in his inexorable march
+toward checkmate. As in Fischer’s case, Heidegger’s genius did not prevent him from making disastrous judgments, but in philosophy, esp ecially its more existential kinds, theory and life seem less separable than
+in chess. The obvious point here is his unrepentant membersh ip in the
+Nazi party in the early 1930s, something whose import has been broken
+down at agonizing length by friend and foe alike; the recent publica t ion
+of his Schwarz en Hefte has added fuel to the fire, and has more clea rly
+document ed his anti-Semit is m .
+The moral mystery of great work from comprom is ed sources is perhaps properly a theological question about the productivit y of sin, and
+a proper reading of any thinker such as Heidegger has to be critical. His
+Nazi affiliation is a symptom of the defective moral and political judgment that is visible elsewh ere in his life and work. He is portentous, finds
+it hard to see nuclear war or the Holocaust as worse disasters than bad
+thinking, cannot take a joke, and is painfully, irresistibly lucid abou t
+so many subjects that matter so profoundly. His understandin g that
+technology— Tech nik —is most important not for what it does to human s
+or society, but for how it reorders nature is especia lly crucial for my arguments. What to do? The tactic of pragmatist thinkers such as Latou r
+and Richard Rorty is to rely on him heavily and mock him relentles s ly.
+Latour quips that Heidegger only expects to find Being in the Black Forest, and that his account of technology sees “no difference between an
+atomic bomb, a dam, a lie detector, and a staple.” 64 In an intemperat e moment, Rorty called Heidegger a “self-infatuat ed blowhard,” but Rort y’s
+point was to emphasize Heidegger’s lack of democratic sensibilit y. 65 Both
+Rorty and Latour, however, know clearly that it is wrong to read him as
+
+
+a cultural pessimist who laments technology as simple forgetfuln ess of
+being; he is rather a theorist of technics, not as historic downfall, but
+as essential to the human estate and its “parliam ent of things”—one of
+Latour’s notions that owes something to Heidegger. 66
+Latour is perhaps the “it” thinker of the moment in which this book is
+being written. He is ubiquitous, clever as hell, exactly the right person to
+help us worry productively about the anthropogenic manipulation of ou r
+habitat. This book’s hope to provide a vision of the human estate in term s
+of ecology, technology, and theology fits Latour’s orbit perfectly. He is
+the most prominent among many thinkers today pleading that our imagination of nature is an opportunit y to reinvent everyth in g about us and
+it. He is a fierce critic of any kind of hard nature-cu lt u re divide, which
+he thinks of as distinctive to modernit y; instead, he wants us to see just
+how stubbornly real the “imbroglios ” between humans and nonhuma n s
+can be. Ruefully, he notes the glee with which social construction is m
+is embraced by AIDS denialists, the Tobacco Institute, global warm in g
+skeptics, and others who invest heavily in public uncertainty about inconvenient scientific evidence. Latour thinks the critics of science have
+gone overboa rd in the rush “to emancipate the public from prematu r el y
+naturalized facts.” 67 Many acres of critical scholarship have been devot ed
+to exposing the political character of the supposedly natural, but it is just
+as interesting to see nature bubbling up in the midst of culture. Nigh t ,
+weather, grass, yeast all have an artifactual quality. One of the overri d in g
+messages in the genetic structure of sweet corn, poodles, or tulips is their
+coexisten ce with humans. DNA, as noted, is enormous ly responsive to
+environ m ental pressures, and thus profound ly historical. The world for
+Latour is shaped in concert by human and nonhuman actors, resultin g in
+hybrid “things” that fuse will and material, craft and element.
+Latour has radical ideas about nature and culture that confuse crit ics who read him either as a social constructionist or a realist. Neit h er
+is right: he is a philosophical pragmatist, one who recogniz es both the
+making of facts and their terrific grip on the world, both the human shap ing of nature and its recalcitra nce to our plans. Latour is not the foe of science: he is its lover, and therefore prefers to see it naked. Science is onto66. Latour, We Have Never Been Modern, 142–45.
+
+logically generative. To the question of whether microbes existed bef ore
+Pasteur, Latour insists that anyone with common sense would ans wer
+with exasperation: Of course not!68 What could he possibly mean? This
+is not just nominalis m, as if the identification of microbes brought them
+de novo into being. He means something stronger: in strict factualit y,
+knowled ge of nature has changed nature. Anthropogenic know- h o w
+has radically altered the population and being of microbes; whole n ew
+habitats have been opened up for them, such as yogurt containers, Pet ri
+dishes, and pharmaceut icals . Even more than populations, new knowledge has changed the past. After Pasteur discovered microbes, we forgot
+that they didn’t exist before. Pasteur’s feat was not only epistemolog ic a l
+but historical: the past suddenly had to accommodat e microbes wh ere
+none were before. Discovery makes ontological ripples in history itself .
+What seems like common sense—that microbes were always th ere—
+turns out to be the deepest kind of idealism about the hidden consta n cy
+of unperceived things. Let’s call this ontological reorga niz ation of the
+past by new knowled ge “the microbe effect.”
+Not only epistem ology but politics is at stake in how we conceive of
+nature. What Raymond Williams said about “culture” —that it “is on e
+of the two or three most complicat ed words in the English langua ge” —
+certainly applies to “nature” as well. 69 The nature-cu ltu re distinct ion
+was absolutely critical for twentieth-cen tu ry antiracist and femin is t
+thought.70 To take nature serious ly as a category might set off alarms f or
+critical scholars who’ve been carefully taught that concepts of natu re
+were so irrepara bly infested with power that they were best left alon e.
+There are classic sources for this idea. “Naturalization, ” said Rola n d
+Barthes, was the chief strategy of ideology. The domination of natu re,
+said Walter Benjamin, was inseparable from the domination of peop le.
+Max Horkheim er and Theodor W. Adorno went further: the domina t io n
+of nature not only exploited animals, vegetables, minerals, and ot h er
+people, but also the bourgeois self, whose inner nature was mastered in
+
+
+steely frenzies of asceticis m . (Hedonis m was a form of resistance to this
+chilly regim e, and they did their best to foreshadow the redeem ed society with wine, cigars, and fine music.) For critical theory, definitions of
+nature and humans were always linked: the subject was defined agains t
+the object, the human against the animal, the male against the female, the
+white against the black, the master against the slave. In recent decad es ,
+enormous amounts of writing around gender and sexuality, race and ethnicity have develop ed such ideas.
+Latour’s strategy is not to abandon the concept of nature but to figh t
+for it. He is not willing to let the natural sciences walk off with all th e
+goodies. Obviously there is a long line of social thought celebrat in g nature red in tooth and claw that asserts the naturalness of gender, race,
+class, the free market, and all the rest. From Herbert Spencer to Rich a rd
+Dawkins, the social application of Darwinist ideas is often a record of
+domination. But there is another biological tradition that reaches f rom
+Aristotle to Marx, Dewey and Dobzhansky, and beyond, as my collea g u e
+David Depew has shown, which makes a sustained effort to build a dem ocratic biology based on the insight that the relations of organis ms an d
+environ m ents involve the same processes of mutual adjustment and ex perimen tation as are characterist ic of a democratic society. For Dewey,
+societies evolved in the same way that organisms did, by adapting to th e
+problems that appeared before them—ex cept that societies had the advantage of self-cons cious accelerat ion of learning from mistakes (which
+he called science); he saw deliberat ion “as a form of species-s p ec if i c
+natural selection.” Both evolution and democratic deliberation were
+govern ed by the variation, selection, and retention of options, som etimes wastefully, painfully, and tragically—99 percent of all species that
+have ever existed on the earth are now extinct—but Dewey thought th e
+learning processes were analogous. Like his sources Aristotle and Hegel,
+Dewey thought that biology was the basis of politics and that politics in
+turn was rooted in biology. 7 1
+Political concepts are properly subjects of dispute, and thus it is a mis take to sell concepts of nature to the highest bidder; they are critical resources in need of vigorous struggle. To take “nature” serious ly is not to
+
+say that society as it is exists is supposed to be that way, but to recogn iz e
+that our milieux are also made by history and thus are changeable. Th e
+concept of nature contains multitudes and has plenty to welcom e peop le
+of every variety, including nonhuman ones. Democra cy, as the endles s
+work of inclusion, needs to stretch from the human to the animal and
+from the organic to the inorganic.
+
+
+Experience and Nature
+
+I have touched on some Canadian, German, and French thinkers releva n t
+to this project, but there is another tradition that, like Heidegger, takes
+up the task of considerin g what it is to dwell among friendly things. Ralp h
+Waldo Emerson knew the splendor and strangeness of being a huma n oid in this peculia r cosmos, and he was one of the greatest of all studen t s
+of anthropozoic comminglin gs. So were the many America n writers that
+followed in his wake. They saw many things like Heidegger—t h e contra s t
+between laudable techniques and dangerous technology, the way bein g
+strikes fear into you, the wonder of the most ordinary things. Thorea u
+and Heidegger resonate in many ways, as Stanley Cavell has been urgin g
+for decades: both, at first glance, look like pessimists lamenting lives lived
+in quiet desperat ion but, examined more closely, are ardent fans of pra ctice, huts, ancient Greek literature, and techniques in their fullness. Bot h
+thought that philosophica l questions could be fruitfully pursued throu gh
+detailed attention to shoes, clocks, or the thawing mud. Thoreau’s Wald en
+is a festival of cultural techniques as well as a treatise on political econ omy, on housekeep in g. Heidegger’s meditations on dwellin g always return to the equipment by which we exist.
+Many American thinkers in the transcendent alist wake unders t o od
+something like this. Herman Melville knew to watch the horizon for
+storm clouds and breaching whales from the masthead of a ship, and
+could butcher the whales and distill their oil. Emily Dickinson was a keen
+observer of the ways of plants, bees, and birds, a stitcher of an elabora t e
+herbariu m, and was very well informed about the natural history of her
+day, as was Emerson. Walt Whitman sang of being compassed about by
+strange creatures —an ima ls, native peoples, slaves to be liberat ed — a n d
+envision ed a democracy with wild multitud es in its heart. (We should in-
+
+Peters, John Durham. 2015. The Marvelous Clouds : Toward a Philosophy of Elemental Media. Chicago, IL: University of
+Chicago Press. Accessed August 24, 2017. ProQuest Ebook Central.
+Created from yale-ebooks on 2017-08-24 12:54:03.
+
+
+
+clude Mumford, the devotee of Emerson and Melville, in this linea ge.)
+Such ideas about the mixing of humans and nonhumans resonate throu gh
+the pragmatists, Willia m James and Charles Sanders Peirce in particu la r,
+both of them first-rate natural scientists in their own right who though t
+any philosophy of human existence would have to begin with the fact
+of organic evolution. Peirce saw signs as embed d ed in the sporting his tory of life, and James saw mind as one among many useful evolution a r y
+adaptions. Together with Dewey, Peirce and James understood com m u nication as the cultivation of fruitful activity in an evolving commu n it y,
+rather than as the matching of minds. Meaning was the by-prod uct of th e
+selective guesswork and self-correct ion of populations; the human com munity had the extra benefit of science to steer with. This book embra c es
+the tradition running from Emerson and Melville to James and Peirce.
+The transcendental Yankees had a certain practical healthy ch eer
+toward the ordinary realm of chatter, commerce—or “commodity,” as
+Emerson called it, or “secondness,” as Peirce did later.72 Heidegger, f or
+all his towerin g genius, possessed little feel for this realm. To be sure,
+few have matched Heidegger’s sense for the phenomen ology of tools an d
+things, but there was little civic tide in his sea. Two key requirem ents f or
+a practicin g democrat are common sense and a sense of humor, neit h er
+of which were among Heidegger’s strong suits. (As Ken Cmiel once said
+of Heidegger, quoting a martial arts film, “Beware of holy men who can’t
+dance.”) Whatever wild ideas the Americans entertain ed —a nd they did
+so in abundance—th ey always ultimately refused to forfeit simple solidarity with otherness, including the mute and simple. They were quicke r
+to make a truce with reification, with modernit y, trade, impurity and im perfection, for better or worse, most famously in James’s disastrou s l y
+felicitous notion of the “cash value” of truth.73 Patience with reifica t io n
+might be one of the first principles of understandin g both nature an d
+our fellow creatures. There is a lovable muteness to plants, animals, an d
+clouds.
+The fundamental question for America n thinkers in a transcenden-
+
+
+
+talist vein was the relation of experien ce and nature, as Dewey, the grea t
+thinker of democra cy, put it. They welcom ed a fruitful instrumenta lit y
+as the key to what makes us humans. The pragmatist lineage shares wit h
+Heidegger the intuition that being is found in everyda y practices, algorithms, and program s. Both Heidegger and the New Englanders turn to
+the basic and show what is locked up in a meadow, ship, or pair of shoes .
+Both share the infrastruct u ra l intuition that what is generally taken as
+obvious is not obvious at all. Both are interested in the astonishment of
+media, technics, and animal lives seen within a philosophica l-th eolog ic a l
+horizon —th e subject of this book. For neither Emerson nor Heideg g er,
+James nor Kittler, is there such a thing as a media-free life. Embed m en t
+in media is a handsome condition. Heidegger and the pragmatists, like
+Thoreau trying to measure the bottom of Walden Pond, know that any
+effort to fathom the fathomless will only measure our bottomles s capacity for wonder. The pragmatists at least also knew that the occasion a l
+spell of boredom was essential to replenishin g the world.
+Both traditions are also interested in experim ent s in emergency, in
+getting close to the danger in order to feel its saving power, to use one of
+Heidegger’s incantations. Both take an interest in what King Lear ca lled
+“the unaccommodat ed man,” in what to do after the protective shell of
+civilization has collapsed, when we are immers ed in soil, air, and wea t h er
+once more. (Melville’s Ahab, an explicitly Lear-like character, smas h es
+his quadrant or “heaven-gaz er” in preparation for the final showd own
+with the white whale, in which he will lose all his cargo, including his own
+person.) This concern among the Yankees not only mirrors the rapaciou s
+pioneer ethos but embodies a deeper, ethically inflected sense for the uncanny husbandry humans have for the earth. Emergen cy prepare d n es s
+was their constant theme: Thoreau called on us to “live in all respects s o
+compactly and preparedly, that, if an enemy take the town, [you] can, like
+the old philosopher, walk out the gate empty-hand ed without anxiety.” 74
+Ishmael on the Pequod and Thoreau in his cabin explored human lif e
+without its supports. They asked what happens when we leave all ou r
+materials behind. (My interest in cetaceans in the next chapter is a version of this inquiry.) What is our readiness for the catastrophe when ou r
+materials break down? When the ship crashes, what will we do then? The
+
+
+
+The concept of media, as noted, was connected to nature long before it
+was connected to technology. 76 It has roots in ancient Greece and Rom e,
+but many of its key twists and turns are medieval and modern. Medi u m
+has always meant an element, environ ment, or vehicle in the middle of
+things. One key ancient Greek source is Aristotle’s concept of τὸ περι έ χ ο ν
+(to periekho n) — m ore or less “surroundin g” or environm ent — wh ic h
+expressed “sympathy and harmony between the univers e and man.”
+This concept, says Leo Spitzer in an indispensa ble study, had “a ‘skyey’
+quality,” suggestin g atmosphere, cloud, climate, and the air.77 The con cepts of medium and milieu have long orbited each other, as twin off spring of Aristotelian material and the Latin word medius, mid d le.
+Medium comes directly from medius, while milieu is the French descen dant of medius locus or middle place; a milieu, like a medium, is a place in
+the middle. A related input is Aristotle’s theory of vision, which posited a
+transparent in-between that enabled the eyes to connect with the object .
+He obvious ly did not use the term medium, which is of Latin origin, bu t
+his concept of τὸ μεταξύ (to metaxu), the in-between, prepares the way.
+The crucial move comes in the thirteenth century with Thomas Aquin a s ,
+who, in translating Aristotle, smuggles in the term medium to account for
+
+
+the missing link in the remote action of seeing. Ever since, media have
+always stepped in to fill the environ m enta l gaps to explain contact at a
+distance.78 Spitzer quotes a Scholastic author writing in Aquinas’s wake,
+who defined the enduring role of media: “Omnis actio fit per contact u m ,
+quo fit ut nihil agit in distans nisi per aliquid medium.” 79 (All action occurs by contact, with the result that nothing acts at a distance unless by
+some kind of medium.) A mediu m, like its ancestor periekho n and siblin g
+milieu, fills in the vacuum left open between important things.80
+With Isaac Newton, medium became a more instrumental concep t ,
+“an intermediat e agent,” a condition for the transmission of entities such
+as light, gravity, magnetism , and sound. Newton’s medium was transpa rent and relatively sterile compared to other more organic concepti on s ,
+though it was still the key and divine constituent of the univers e as the sensorium dei. The ether, the later term for the universal medium posited by
+Newton, had an austere immaterial flavor compared with environm en t ’s
+sense of vital interconnectivity. One was transcendent and the other im manent, one dry and the other fluid, one fit for physics and the other for
+biology. Both senses continue to resonate today in talk about media. In
+particular, German idealism and romanticis m both explored with grea t
+creativit y the notion of medium, perhaps one deep backgrou nd for the
+warm reception of the media concept in recent German scholarship. 81
+The decisive break happened in the nineteenth century with th e
+slow turn of medium into a conveyance for specifica lly human sign a ls
+and meanings. The telegraph as a medium of communication com bin ed
+physical phenomena long observed in nature (speedy immateria l processes) with an old social practice (writing to distant corresp on d en t s ) .
+The new concept of medium blurred together signal (physics) and sym bol (semiotics), yieldin g some of the conceptual messes around “com munication” that still haunt us. Perhaps the most critical shift came wit h
+spiritualis m, around 1850, when a person, typically a woman imitating
+C H APT ER ON E
+
+the telegraph’s ability to bridge wide chasms, came to be called a medi u m,
+which no longer meant a natural element but a human intermedia ry between the worlds of the living and of the dead. A spiritualist med iu m
+was not an environ m ent enveloping organis ms but a person comm u n icating meanings that were distinctly human—that is, located in mind s
+(whether incarnate or not). This was a stepping-ston e to the sense prevailing in the twentieth century that media were human-made channels
+that carried news, entertainm ent, advertisin g and other so-called content.82 The spiritualist quest for communiqu és from distant minds wen t
+together with the shrinkage of the notion of communication to mean intentional sendings among humans.
+In the twentieth century, media came to mean the mass media of ra d io
+and television, cinema, newspapers, magazines, and sometim es books ,
+but the term never completely lost its environ m enta l meaning; ind eed ,
+mass media were so pervasive and elementa l that they could fit nicely int o
+the long lineage of medium as ambiance, and some, such as McLu h a n
+and his followers, sought a more expansive (and ancient) notion of med ia
+ecology. Social theorists, in a similar spirit, would speak of the media of
+money, power, or love, as artists would speak of charcoal, pencil, wat ercolor, or oil as their media. The term could sometim es take a singu la r
+verb, turning into a mass noun like spaghetti (which is also technically a
+plural form), but most media scholars, at least, usually stick to the plu ral media are in order to defend an interest in medium specificity. Toda y
+the term media carries with it more than a century’s worth of discou rs e
+about modes of meaning- ma kin g—p erha ps a distant semantic index of
+the Anthropocen e, when the human stamp touches all.
+My aim is not to turn back to a precritica l notion of media as natural.
+There are compellin g reasons to restrict the concept of “medium” to the
+semiotic dimension. 8 3 I take the modern human-sem iot ic turn as an enrichment of the concept, but it is time to graft those branches back into
+the natural roots in hopes of a new synthesis. This does not mean that the
+
+
+U N D ER STANDING
+
+MEDIA
+
+49
+
+sea, fire, or the sky are automatically media in themselves, but that th ey
+are media for certain species in certain ways with certain techniqu es ;
+in seeing media as ensembles of nature and culture, physis and techn ē,
+I try to stir together semantic strains that speak to a historical mom en t
+in which we cannot think of computation without thinking about ca rbon, or of the cloud without thinking about data. Today natural facts a re
+media, and cultural facts have elemental imprint. We can see the Internet as a means of existence, in some ways close to water, air, earth, fire,
+and ether in its basic shaping of environ m ents. Notions such as “the com mons,” so current in digital talk, or the wide interest in Jakob von Uexkü ll,
+the biologist who made the notion of Umwelt famous, for instance, revive
+the long tradition of thinking about milieu and ambiance. 84 Today’s infra structures invite an environ m enta l view of media, and we are fortu n a t e
+that the intellectua l history of the concept offers ample justification an d
+materials for that project. 85
+
+
+Sailing on Many Craft
+
+The reader will already have noted that this book, while a defense of the
+idea that technics is central to whatever it is that makes us humans, is not
+especially utopian about our digital technofutures . Computers and their
+spawn have, of course, reshaped much about how many of us work, play,
+and learn. Digital devices have spread like rabbits in Australia. Orga n isms flourish when transplanted into habitats lacking in natural enem ies ,
+and computers have spread almost zoologica lly into our cars and oven s ,
+clothes and garbage, music and minds, clothing and bodies. Perhap s ,
+George Dyson once ventured, there were even new species evolvin g in
+the silicate habitat of fiber optic cables. Computers are rather like wha t
+Donna Haraway calls “companion species living in naturecultu res ” such
+as dogs, cats, and horses, though we have lived for millennia with animals
+
+
+and barely three decades with household digital gadgets.86 Chips —a s
+implement ed into platforms and progra ms by dreamers, designers, and
+venture capitalists—h a ve drastically altered our environ m ents. Biology,
+Robert Carlson dramatically claims, has becom e technology. 8 7
+Yet all the basic problems remain amid the technical upheaval. T h e
+world is still mad, smart people make catastrophically bonehea d e d
+choices, Wednesday afternoon is still Wednesday afternoon, and doct ors
+have no answer for almost everyt hin g that ails us. Digital media have not
+abolished bills, backaches, or crummy weather—t o say nothing of rap e,
+poverty, or scorn. The central ethical and political problems are peren nial, however much many appliances open new social and political pos sibilities . New inventions do not release us from old troubles. A st ory
+from Bangladesh, whose govern m ent has run a two-front campaign to
+improve its informationa l and public health infrastructures, makes m y
+point. Because the state has boosted the term so much, digital in Bangla deshi slang has apparently come to attach itself to things that are newfangled or modern, including the disposable toilet “Peepoo” baggies dis tributed in hopes of reducing the spread of disease and keeping the wa t er
+clean.88 This felicitous coinage has discern ed a crucial truth: somet im e s
+the digital just collects the same old poop.
+Things in the middle, like spines and bowels, often get demeaned, but
+they too deserve their place in our analysis. Small means bring about that
+which is great. Media show up wherever we humans face the unman a geable mortality of our material existence: the melancholy facts that mem ory cannot hold up and body cannot last, that time is, at base, the merciless and generous habitat for humans and things. Media lift us out of
+time by providin g a symbolic world that can store and process data, in
+the widest sense of that word. Like Aristotle or Arendt, I do think there
+is such a thing as the human condition, and that it involves earth, world ,
+other people, labor, work, time, speech, action, birth and death, promise
+=
+51
+
+and forgiven es s. But the human condition is recursive; it is a condition a l
+condition: our actions change the conditions they act in, especially since
+they change us; we speak and act, and as we do we change the condition s
+in which we speak and act. As Walter Ong nicely puts it, “Artificia l it y
+is natural to human beings.” 89 The crossroad s of humans and things defines the domain of media studies. We are conditioned by conditions we
+condition. We, the created creators, shape tools that shape us. We live
+by our crafts and conditions. It is hard to look them in the face. In the
+grandest view, media studies is a general meditation on conditions. To try
+this adventure of ideas is the task of this book. It seeks nothing less than
+to sketch what Heidegger called “a poetic outline of [our] being, dra wn
+from its extrem e possibilit ies and limits.” 90
+The questions of how to define nature, humans, and media are ultimately the same question. We know and use nature only through the
+artifacts we make—bot h out of nature and out of our own bodies —a n d
+these artifacts can enter into nature’s own history. “The invention of the
+four-wheeled carriage, the plough, the windmill, the sailing ship, mus t
+also be viewed as biologica l ones,” says Leroi-G ou rha n. 91 Music and writ ing are as much a part of our natural history as are endotherm y and bipedalism. Our technical know-how and bodily form have coevolved. Th e
+balloonin g shape of human skulls and the bulging ears of Iowa corn are
+alike technical achievem ents. The history of fire forms a large chapt er
+in the history of nature in recent millennia, as does the anthropog en ic
+domesticat ion and extinction of diverse plants and animals. Media help
+steer nature and humans as logistical techniques linking the anthrop osphere and the biosphere, whose fates are now linked. Humans are at the
+planetary helm: our shipwreck won’t ruin the planet, which has surviv ed
+much bigger catastrophes, but it could ruin us. Wreck ruins the ship, not
+
+
+the sea. What was always the case for human nature, at least since we acquired language, and probably much earlier with fire and bipedalis m —
+head to toe artificializat ion —is now the case for all nature.
+As the next chapter makes clear, an argument in favor of human tech nicity is not at all the same thing as an endorsem ent of the engin ee ring culture of technologists. Rather, it is to attempt a better hold of the
+human condition by acknowled gin g a connection to each other and to
+sea, sky, and earth. Our home is among plants, animals, and the dead in
+all their varieties. Media are not just pipes or channels. Media theory has
+something both ecologica l and existential to say. Media are more than
+the audiovisua l and print institutions that strive to fill our empty secon d s
+with program m in g and advertisin g stimulus; they are our condition, ou r
+fate, and our challenge. Without means, there is no life. We are media t ed
+by our bodies; by our dependen ce on oxygen; by the ancient history of
+life written into each of our cells; by upright posture, sexual pair bondin g,
+and the domestica tion of fire; by language, writing, and metalsmit h in g;
+by farming and the domesticat ion of plants and animals; by calend a rmaking and astronomy; by the printing press, the green revolution , and
+the Internet. We are not only surround ed by the history-rich artifact s
+of applied intelligence; we also are such artifacts. Culture is part of ou r
+natural history.92 “That’s the sort of determin ed creature we are,” in poet
+Galway Kinnell’s pun.93 Microbes and bits are both media of existen ce.
+Media studies can be a form of philosophica l anthropology, of askin g
+the question with which Socrates stumped Alcibia d es : What is a huma n
+being? 94 I am also stumped, but I offer one answer in the next chapter:
+The human is a creature sailing on many craft.
+
+

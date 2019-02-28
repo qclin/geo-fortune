@@ -1,0 +1,677 @@
+2
+
+Techné: Research in Philosophy and Technology
+
+hundred years of industrialization. The relation between humanity and “nature”
+has undergone a great transformation, and the constant arrival of ecological crises
+and technological disasters has well documented such a historical moment, and
+urges for a new direction of humanity to avoid its proper end. The Anthropocene,
+announced by geologists such as Paul Crutzen as the successor of the Holocene
+(Crutzen 2006), carries such a historical meaning. It also serves as a turning
+point for the imagination of another future or beginning—provided that this is
+still possible at all. For some political theologians the Anthropocene also represents the apocalyptic moment, in the sense that it will be the kairos that ruptures
+the chronos, the deep time of earth proposed by the founder of modern geology
+James Hutton towards the end of the eighteenth century (Northcott 2015). I put
+the word “nature” in quotation marks since it will be important to first elucidate
+its meaning before we can embark on a discussion of a renewed relation between
+technology and nature. A facile opposition between technology and nature has
+long been made, fostering the illusion that the only way to salvation will be to
+give up upon, or else to undermine, technological development. We may also find
+the opposite position, in the various discourses on transhumanism, the technological singularity, and eco-modernism, for example, which carry a rather naïve and
+corporate-favored idea that we will be able to improve our living situation, repair
+environmental destruction with more advanced technology, and intervene within
+creation (e.g., through DNA manipulation). Within these discourses there is virtually no question of “nature,” since nature will be merely one of the possibilities of
+advanced technologies, and technology is no longer merely prosthetic, meaning
+as mere artificial replacement or supplement; instead, the order of things seems to
+have reversed, technology is not only supplementary, but rather it becomes itself
+the ground in contradistinction to the figure.
+In recent decades, even before the concept of the Anthropocene became
+popular, anthropologists such as Philippe Descola had been pushing an agenda for
+overcoming the opposition between culture and nature, as best detailed in his brilliant systematic work Beyond Nature and Culture (2013). However, this attempt to
+overcome the opposition between nature and culture, I will argue, relinquishes the
+question of technology too quickly and too easily. The proposal to overcome the
+dualism agrees on the urgency of developing a program for the co-existence between humans and non-humans, but it takes a rather simplistic approach and therefore, to some extent, may fail to recognize the real problem of the Anthropocene
+as that of a gigantic cybernetic system in the process of realization. Presupposing
+such, some profound questions are hidden, and the Anthropocene will continue the
+
+On Cosmotechnics
+
+3
+
+logic of development—a “metaphysics without finality,” as Jean-François Lyotard
+puts it (Lyotard and Brügger 1993, 149), until it reaches the point of self-destruction. This article attempts to contribute to a clarification of the relation between
+technology and nature, and to the inevitable task for the philosophy of technology
+of reflecting on future planetary technological development. It also aims to resolve
+the above-mentioned tension through the concept of cosmotechnics, thereby hoping to move beyond the limit of the notion of technology (Heidegger 1977)1 and to
+understand it from a truly cosmopolitical perspective.
+
+1. From First Nature to Second Nature
+In the two extreme attitudes mentioned above—one focusing on the sacredness
+and purity of nature, the other on its mastery—there is a lack of understanding
+of the profound question of different forms of participation of both humans and
+nonhumans. The participation of the non-human is either eclipsed by the question of technological dominance and mastery and hence rendered insignificant; or
+culture is seen as a mere possibility of nature in the sense that nature is the mother
+that gives rise to all and to which all will return. I would like to speak instead of
+a second nature,2 in order to avoid indulging in an illusion of a pure and innocent first nature, as well as to avoid imprisoning ourselves in a pure technological
+rationality.
+It is perhaps too obvious to mention that the world is composed of human
+and non-humans, and that they participate in different ways in different cultures.
+The question is rather: should we take it seriously, and if so, how? Knowing it and
+taking it seriously are two different things. The failure of the social constructivism
+of the twentieth century, as suggested by the sociologist Andrew Pickering (2017),
+should teach us to take these ontologies seriously, since they are not merely “constructed” but “real.” The participation of non-humans varies from one culture
+to another according to different cosmologies. These cosmologies are not only
+schemas that define the modes of participation, but also correspond to the moral
+grounds of such participation. To elucidate this, we only need to remind ourselves
+of the role of hau and mana in Marcel Mauss’s ethnography of gift economies
+(Mauss 2013), in which the moral obligation has its source in cosmology. A particular form of participation is only justified in so far as it meets or enlightens the
+moral—which doesn’t necessarily mean harmony, but rather the codes and belief
+that constitute the dynamics of both individual and communal life. We can talk
+about the moral only in so far as human beings are being-in-the-world; and the
+world is only a world and not a mere environment when it is in accordance with
+
+4
+
+Techné: Research in Philosophy and Technology
+
+such beliefs. It is in the question of second nature that we can locate the question
+of the moral, since the moral is only revealed through a certain interpretation of
+nature; or to put it differently, nature is known according to orders and exceptions.
+In ancient Greece it is known as cosmology: kosmos means order; cosmology, the
+study of order. Nature is no longer independent from humans, but rather its other.
+Cosmology is not a pure theoretical knowledge; indeed, ancient cosmologies are
+necessarily cosmotechnics. Let me give a preliminary definition of cosmotechnics here: it means the unification of the cosmic order and moral order through
+technical activities. Human activities, which are always accompanied by technical
+objects such as tools, are in this sense always cosmotechnical. Modern technology
+has broken down the traditional relation between cosmos and technics; it becomes
+a gigantic force, which transforms every being into mere “standing reserve” or
+“stock” (Bestand), as Martin Heidegger observes in his famous 1949/1954 lecture
+“The Question Concerning Technology” (Heidegger 1977).
+Without attempting to exhaust the rich materials we find across the history
+of philosophy, starting with the Greek notion of physis and technē, we will firstly
+access the notion of nature in light of the recent “ontological turn” in anthropology, a turn associated with figures such as Philippe Descola, Eduardo Viveiros
+de Castro, and Bruno Latour, among others. This ontological turn is an explicit
+response to the ecological crisis or ecological mutation according to Latour, proposing to take these different ontologies seriously, and to undermine and adjust
+the dominant European discourse of naturalism, in order to search for another way
+of co-existence. Secondly, I would like to supplement the anthropological work
+by suggesting how a co-existence between nature and modern technology can be
+conceptualized through the work of the French philosopher Gilbert Simondon.
+We will address the recently published posthumous works of Simondon in this
+context. We will try to show, in both the work of Simondon and the anthropologists, that the relation between nature and technology has a moral root that has
+been deracinated by planetary industrialization; and from there, we will attempt to
+address the possibility of a renewed relation between technology and nature, and
+thereby shed light on the concept of cosmotechnics.
+
+2. Between Technology and Nature
+In the writings of the above-mentioned thinkers, we can find two groups of opposing registers—which at first glance seems rather intriguing, as if there were
+a gap between them. Descola speaks of the dualism between culture and nature;
+Simondon speaks of the antagonism between culture and technics. Descola’s
+
+On Cosmotechnics
+
+5
+
+culture-nature dualism seems to have assumed that technics falls on the side of
+culture, while it is clear that for Gilbert Simondon technics is—at least, in the
+course of his writing—not yet fully integrated into culture. For Simondon there
+is a misunderstanding and ignorance of technics in culture (Simondon 2012, 10),
+which is one of the sources of a double alienation: the alienation of human beings
+in the sense of Marx, and the alienation of technical objects—for example, they
+are treated as slaves or products of consumption, like the slaves of Roman times
+waiting indefinitely in the market for the buyers (Simondon 2014, 58–60). In fact
+we can see a rather intriguing parallel between Descola and Simondon, as schematized in the following diagram:
+Nature
+
+vs.
+
+Descola
+
+Culture
+
+vs.
+
+Technics
+
+Simondon
+
+Do these different configurations—nature vs culture, culture vs technics—
+result from differences between Descola’s and Simondon’s respective disciplines,
+or from their different diagnoses of the problems of their time? It is notable that
+Descola, the anthropologist of nature, rarely addressed the paleontologist and anthropologist of technology André Leroi-Gourhan, who is an important figure for
+Simondon’s thinking of technology.3 It is my contention that the anthropology
+of nature and the philosophy of technology should talk to each other in order
+to address the question of the Anthropocene. Some readers may doubt if these
+two schools of thought can be brought together at all: the anthropological school
+is largely rooted in the work of Lévi-Strauss, who adopts a quasi-Kantian transcendental perspective on myths and cosmology, while Simondon’s thought could
+be characterized as a transcendental empiricism in the sense of Deleuze, which
+is situated in the immanence of relations, energies, and information. However,
+this opposition is only apparent, since on the one hand, in Part III of Simondon’s
+On the Mode of Existence of Technical Objects (2012), he offered a way to situate technical progress beyond the technical reality (e.g., the internal dynamics
+of technical objects) towards a cosmic reality; on the other hand, the question of
+relation (though somewhat schematized) plays a central role in conceiving the
+mode of operation within different ontologies in Descola’s Beyond Nature and
+
+6
+
+Techné: Research in Philosophy and Technology
+
+Culture (not to mention that Viveiros de Castro’s Cannibal Metaphysics (2014)
+is a poststructural anthropological treatise inspired by the Deleuzian concept of
+intensity). This time we want to switch the context; that is, to facilitate a dialogue
+between poststructuralist anthropology and philosophy of technology.
+
+2.1. Dualism between Culture and Nature
+The culture vs nature opposition comprises one of the four ontologies that Descola
+calls “naturalism,” alongside which he sets three others: “animism,” “totemism,”
+and “analogism” (Descola 2013, 122). In naturalism we find the nature/culture
+divide, which manifests as a divide between the human and the non-human. Such
+a divide is characterized by the physical continuity and the spiritual discontinuity
+between humans and non-humans, in which the participation of the non-humans is
+limited to being objects of the mastery and domination of the human. It would be
+too easy to attribute all these problems to the Cartesian division between subject
+and object. However, it is equally difficult to identify the origin of such thinking
+without recurring to the dominant philosophical scheme of early modern European philosophy. It is important to acknowledge that naturalism has not existed
+since the beginning of European culture; it is actually a “recent” product, or for
+Bruno Latour, an “incomplete” product on the sense that “we have never been
+modern” (Latour 1993). Descola showed that analogism rather than naturalism
+was significantly present in Europe during the Renaissance, and if this is the case,
+the “turn” that took place during European modernity seems to have provided
+a completely different epistemology regarding the relation between human and
+nonhuman, culture and nature, subject and object, and cosmos and physics; an
+epistemology that we can retrospectively analyze in the work of Galileo, Kepler,
+Newton, and others. If naturalism has succeeded in dominating modern thought it
+is because such a peculiar cosmological imagination is compatible with its technological development: nature should be mastered and it can be mastered according
+to the laws of nature.
+Table 1: The schema of Descola’s four ontologies
+Similar interiority,
+Dissimilar physicality
+
+Animism
+
+Totemism
+
+Similar interiority,
+Similar physicality
+
+Dissimilar interiority,
+Similar physicality
+
+Naturalism
+
+Analogism
+
+Dissimilar interiority,
+Dissimilar physicality
+
+The Anthropocene is at once the crisis of naturalism and the crisis of modernity. It is under such a crisis that modernity is again called into question (Latour
+
+On Cosmotechnics
+
+7
+
+2013), this time by anthropologists. The ontological turn in anthropology is a
+call for a politics of ontologies. What this politics leads to is primarily a pluralism which has been endangered by naturalism’s spread throughout the globe by
+colonization. At the center of such a politics is the recognition of a plurality of
+ontologies in which natures play different roles in everyday life. Recognition is,
+however, only the first step; politics arises in the encounter between these ontologies. What kind of politics will it look like? During the conference “Comment
+penser l’Anthropocène,” Descola referred to a story that Bolivia had included the
+rights of non-humans within its constitution (Descola 2015). We can understand
+this as an institutionalization of ontologies. However, the question that remains to
+be answered is what will be the fate of these indigenous ontologies and practices
+when confronting modern technology, which is the realization of naturalism? Or
+are these “practices” able to transform modern technology so that the latter acquires a new direction of development, a new mode of existence? This is one of the
+most crucial questions, since it is also about how to escape both colonialism and
+ethnocentrism. Descola frequently uses the word “practice” instead of technics
+or technology (Descola 2013). We can understand that he may want to avoid an
+antagonism between technics and nature; however, by doing so he also hides the
+question of technology. This is not to reproach Descola for forgetting the question
+of technics, since he is certainly aware of it when he writes:
+Animist “nature” and “supernature” are thus peopled with social collectives
+with which humans establish relations that conform with the norms supposed to be shared by all, for when this happens, humans and nonhumans
+are not content simply to exchange perspectives. They also, and above all,
+exchange signs, which sometimes leads to an exchange of bodies or, at the
+very least, indications that, in their interactions, they understand each other.
+Those signs cannot be interpreted by either side unless they are underwritten by institutions that legitimate them and make them meaningful, thereby
+ensuring that misunderstandings in the communications between the two
+species are kept to a minimum. (Descola 2013, 249)
+
+There are codes and institutions; codes are already technical like the ‘protocols.’
+However, therein hides another problem, one that is less strategic than ontological.
+We will have to recognize that the tension between ontology and technics is not
+clearly stated in Descola’s thinking. In speaking of a tension between ontology
+and technics I mean that these ontologies are only possible when they are already
+complicit with the technical life—ranging over invention, production and daily
+
+8
+
+Techné: Research in Philosophy and Technology
+
+use. As a result, any transformation of the latter will directly alter the former.
+The arrival of modern technology in non-European countries in past centuries has
+created a transformation unthinkable for European observers. The concept of an
+‘indigenous ontology’ itself has to be questioned first, not because it did not exist
+but because it is situated in a new epoch and transformed to such an extent that
+there is hardly any way to go back to it and restore it. This is precisely the reason
+that we have to conceive a cosmotechnical thinking from the standpoint of these
+ontologies without falling prey to an ethnocentrism.4 The transformation triggered
+by modern technology not only happened in non-European cultures in the course
+of colonization, but also in European culture, with the significant difference that,
+for the former, it is through the import of such advanced technological apparatus
+as military technologies, and for the latter mainly through technological invention.
+What is central to the anthropologists’ concept of “nature” and “ontology”
+is cosmology, since such “nature” is defined according to different “ecologies
+of relations,” in which we observe different constellations of relations, e.g., the
+parental relation between females and vegetables, or brotherhood between hunters and animals. These relations can be traced in technical activities such as the
+invention and use of tools. It is the reason for which we may want to conceive a
+cosmotechnics instead of speaking merely of a cosmology, which may limit us
+to discussions on theoretical knowledge and attitudes. Globalized modernization,
+Claude Lévi-Strauss has suggested in his Tristes Tropiques, brings forward a new
+meaning to the study of anthropology, namely entropology—note that both words
+pronounced the same in French (Lévi-Strauss 1992, 414)—entropic in the sense of
+the “disintegration” of forms of life through technological transformation, which
+silently homogenizes different cosmological relations into one that is compatible
+with modern technology. This is the problem of modernity as viewed outside of
+Europe, and it is undeniable that globalization has taken such a pace that what
+is called indigenous knowledge is marginalized, and the situation will continue
+to deteriorate. If we want to conceive the future of the philosophy of technology
+we must give it the task of thinking beyond the Western tradition. And in order
+to address this task, we must not be satisfied with how useful philosophy is to
+technological development and how philosophy can give an account of the ethics
+of a particular technology. Rather, we must conceive a philosophy of technology
+which tackles the fundamental dualism between nature and technology, humans
+and non-humans (animals, plants, machines), modern and non-modern, and go
+beyond them against a globalization dominated by the mere discourse of economy
+or political economy.
+
+On Cosmotechnics
+
+9
+
+We can identify such an emphasis on the role of cosmology in the work of anthropologists and philosophers such as Viveiros de Castro, Déborah Danowski (cf.
+Danowski and de Castro 2016), and Tim Ingold (2014), among many others.5 Here
+I will limit myself to addressing an interesting proposal from Donna Haraway.
+In her recent work “Staying with the Trouble: Making Kin in the Chthulucene”
+(2016), we find a similar strategy, which also indirectly addresses the question of
+technology. Although making no reference to Descola, she addresses the problem
+of the Anthropocene in a way that resonates with Descola’s proposal. If Descola
+sees politics as the moment of encounter and negotiation of different ontologies,
+in a more or less Latourian sense, Haraway does not have a schematic presentation
+of ontologies but rather a more generalized conception of non-human politics.
+Haraway characterizes the Chthulucene as the next scene after the Anthropocene
+and the capitalocene. Chthulucene, according to Haraway, is a compound of two
+Greek roots—khthôn and kainos—which means to look from below from the perspective of other forms of living beings (Haraway 2016, 2). As a biologist and
+social scientist, Haraway proposes to think of politics as a way of “making kin,” of
+conceiving a sympoiesis between different species. This neologism, “sympoiesis,”
+relates to both symbiosis and autopoiesis. However, it differs from them since,
+firstly, it doesn’t simply mean that which is mutually beneficial (Haraway 2016,
+61); and, secondly, it emphasizes the fact that the relation between humans and
+other beings are highly interdependent, thus problematizing the “auto-”:
+Symbiosis makes trouble for autopoiesis, and symbiogenesis is an even
+bigger troublemaker for self-organizing individual units. The more ubiquitous symbiogenesis seems to be in living beings’ dynamic organizing processes, the more looped, braided, outreaching, involuted, and sympoietic is
+terran worlding. (Haraway 2016, 61)
+
+It is a “bio-politics” par excellence, as Haraway writes that the “biologies,
+arts, and politics need each other; with involutionary momentum, they entice each
+other to thinking/making in sympoiesis for more livable worlds that I call the Chthulucene” (Haraway 2016, 98). We can probably summarize Haraway’s proposal
+as a “biology contra technocracy,” such that whenever humans develop technologies they will have to assess its impact on other forms of living beings. Haraway’s
+approach is deeply ethical, and has the advantage of providing a generalized ontological politics and ethics for overcoming the Anthropocene. The concept of sympoiesis is an attempt to set limits to technocratic development, and the possibility
+of sympoiesis becomes the condition for protecting species from destruction. By
+
+10
+
+Techné: Research in Philosophy and Technology
+
+doing so, Haraway does not directly address the question of technology; rather,
+like Descola, she abstracts technology as culture, and therefore avoids a direct
+confrontation with the question of technology. It is by going to Simondon’s work
+that we make the question of and confrontation with technology explicit.
+
+2.2. Antagonism between Culture and Technics
+Gilbert Simondon’s work confronts the question of modern technology with rigor.
+He also notably influenced other thinkers such as Gilles Deleuze and Bernard
+Stiegler (the latter significantly extends the investigations of Simondon into the
+realm of contemporary digital technologies and the Anthropocene, cf. Stiegler
+2015). It is true that in the work of Simondon, one finds less a reconciliation
+between nature and technology as one between technics and culture. As we have
+noted before, in the first pages of his On the Mode of Existence of Technical Objects (2012), Simondon had already diagnosed the problem of our society: there
+is an antagonism of culture against technics which comes from an ignorance and
+misunderstanding of the latter. It would not be wise to try to expound the technological thinking of Simondon in this short article; it is sufficient to point out that
+this misunderstanding of technics leads to the painful difficulty of co-existence
+between human and machines. We can simply understand it in the following ways.
+On the one hand, machines become opaque to their users, and only specialists
+understand how to repair their parts (and increasingly not the entire machine).
+This is one of the sources of alienation in the nineteenth and twentieth-centuries:
+workers who are used to practicing with simple tools are not able to cope with the
+new operations or understand the technical reality. On the other hand, machines
+are treated as merely functional objects, i.e., utilities; they are consumerist products secondary to aesthetic objects, and in extreme cases, slaves, as exhibited in
+the public conception of robots. This is why, already on the second page of On the
+Mode of Existence of Technical Objects, Simondon writes:
+We precisely would like to show that a robot does not exist, and that it is
+not a machine, as much as a statue is not a living being, but only a product
+of imagination, of fictive fabrication, and of the art of illusion. (Simondon
+2012, 18)
+
+Simondon is referring here to an operational and ethical relation between human
+and machine. The question of co-existence or being-with is of ultimate importance
+in this connection. Haraway and Descola are right to point out the necessity of reconsidering the question of co-existence with nature. However, such co-existence
+
+On Cosmotechnics
+
+11
+
+is only possible when we reflect on the role of technical objects which do not
+only have their own existence, but also function as relations with other existences.
+The question of co-existence therefore concerns not simply the relations between
+the human and the non-human. We must also add to it the question of technical
+objects, or machines. It is our task here to point to a thinking that is present in
+the work of Gilbert Simondon concerning nature and technology, on the basis of
+which we can concretize the task of a philosophy of technology in the age of the
+Anthropocene. We may want to consider such thinking of Simondon an ecological
+thinking which concerns different modes of reticulation. Or to put it another way:
+if there is an ecology in Simondon, it understands technology in terms of modes
+of reticulation and technological progress as the constant transformation of forms
+of reticulation. This point is evident when we think of the emergence of different
+communication networks from analogue to digital in the twentieth century, and
+now with all sorts of social networks. However, not all modes of reticulation lead
+to a reconciliation between nature and technics; or perhaps we can say that, in
+Simondon’s thought, it is characterized by a cosmopoeisis.6 In order to elaborate
+on this, we must look into Simondon’s speculative history concerning the genesis
+of technicity.
+Before we continue our exposition of Simondon’s thought, let us summarize
+what we have discussed above. I suggest, firstly, to consider the technical a priori
+in the concept of nature, which allows us to abandon a pure and innocent image
+of nature and gives us a “second nature”; and, secondly, the cosmic a priori in
+technological development, meaning that technics are always already cosmotechnics from the beginning. These are the two sides of the same coin that we call
+human existence and human progress. If we can reproach Descola, Haraway and
+others with not paying enough attention to the first, we must also reproach the
+technocrats for ignoring the latter to the extent that the cosmos becomes simply
+a standing reserve for exploitation, in the sense that cosmology becomes mere
+astrophysics. I will demonstrate this second point in terms of what I call a cosmogeographic a priori in Simondon’s thinking, which is crucial for the construction
+of the techno-geographic milieu.
+
+3. The Cosmo-Geographic A Priori and Co-Naturality
+First of all, we must address the question: what is nature for Simondon? In
+L”individuation à la lumière des notions de forme et d”information (Simondon
+2005), nature is considered as the pre-individual, which is like the apeiron of
+Anaximander, an inexhaustible potential (Simondon 2005, 358). The pre-individ-
+
+12
+
+Techné: Research in Philosophy and Technology
+
+ual is what allows further individuation to take place. However, it does not mean
+that nature is a reservoir of energy, but rather that it is what is always anterior to
+the already individuated being and what gives rise to a second individuation when
+conditions are met. For Simondon the history of technology can be seen as a constant progress of the modes of reticulation of spiritual forces. The very beginning
+of the history of technology started with what he calls “the magic phase” (2005,
+227–28). The reticulation of the magic phase is characterized by what he calls key
+points (points clés): for example, a giant tree, a huge rock, a tall peak, or a river.
+These geographical points are the key points, which maintain the reticulation of
+forces; or more precisely, it is not that these key points are the origin of the forces,
+but rather these forces are regulated according to the key points. In the magic
+phase, Simondon proposes, there is a form of unity, where there is no distinction
+between subject and object; the ground and the figure support each other, meaning
+that ground gives form and figures limit the ground, as we see in typical examples
+of Gestalt psychology.
+The magical universe is already structured, but according to a mode anterior to the segregation of object and subject; this primitive world of structuration is the one that distinguishes figure and ground, by indicating the key
+points in the universe . . . in fact, precedent to the segregation of unities, a
+reticulation of space and time is instituted, which emphasizes the privileged
+places and moments, as if all the power of human action and all the capacity
+of the world in influencing humans is concentrated in this place and moment. (Simondon 2012, 227–28)
+
+The de-phasing or phasing out [déphasage] of the magic phase is developed
+into technics and religion. The vessels of rite—which are technical objects—become the key points of another mode of reticulation (Simondon 2012, 227). This
+is the departing point from which we can thematize the concept of cosmotechnics.
+This stage marked an aesthetic thinking which was able to create a convergence
+after the bifurcation of religion and technics, but which was later found to be insufficient. In Part III of Simondon’s On the Mode of Existence of Technical Objects,
+there is a complicit and somewhat problematic tension between what Simondon
+calls aesthetic thinking and philosophical thinking (cf. Duhem 2009). Aesthetic
+thinking was not able to cope with the constant bifurcation, because aesthetic
+thinking is still situational, meaning its role will be to serve as “the paradigm for
+orienting and supporting the effort of philosophical thinking” (Simondon 2012,
+276), implying that philosophical thinking will have to intervene to bring about
+
+On Cosmotechnics
+
+13
+
+a higher order of convergence. As in Heidegger, in Simondon we find another
+presentation concerning the rupture of the relation between technics and nature
+during European modernity. Simondon accords with Jean-Jacques Rousseau’s
+critique of the encyclopedia of Denis Diderot and Jean le Rond D’Alembert for
+its detachment of technics from nature—or, in Simondon’s words, from “the elements” in the sense of the pre-Socratics (e.g., Thales’s water, Heraclitus’s fire, and
+Anaximander’s apeiron) (Simondon 2016, 380). The detachment of technics from
+nature continued during European modernity, and as Simondon noticed, towards
+the end of the eighteenth century, the rupture was amplified to the extent that
+the ancient technics were repressed, the relation to the natural world was lost,
+and technical objects became “artificial” objects—artificial in the sense that it has
+nothing to do with nature (Simondon 2012, 126). This period corresponds to “a
+dramatic and passionate notion of progress, becoming rape of nature, conquest of
+the world and caption of energies” (Simondon 2012, 17).
+It is this question that leads Simondon to mediate on the question of convergence and the possible reconciliation between nature and technology as a task
+of philosophical thinking instead of aesthetic thinking. However, it would not
+be justified to say that Simondon opposes aesthetic thinking and philosophical
+thinking. Simondon’s criticism is that by glorifying the aesthetic value of objects
+(what he calls “aesthetic objects” (Simondon 2012, 10)), one tends to reduce the
+role of technical objects as mere utility and therefore ignore the signification of
+its technical reality; but we will always need aesthetic thinking, and it complements philosophical thinking. Since technics is fundamentally a matter of modes
+reticulation, there is always the possibility of reconstituting different key points.
+This is just to say that this philosophical-anthropological imagination of unities,
+which characterizes the beginning of the genesis of technicity, calls for a search
+for convergence that reunifies the different professions and different specialities in
+human history. In this connection Simondon invoked Martin Heidegger in his Du
+mode d”existence des objets techniques:
+In the technicity integrated in the natural world and the human world, these
+forms of respect and of disrespect manifest the inherence of values exceeding utility; the thinking that recognizes the nature of the technical reality
+is that which, according to the expression of Heidegger, by going beyond
+separated objects, utensils, discovers the essence and the capacity of technical organisation, beyond the separated objects and the specialized professions. (Simondon 2012, 303)
+
+14
+
+Techné: Research in Philosophy and Technology
+
+It is not clearly stated where the reference to Heidegger is to be found. However,
+we can probably make an allusion to Heidegger’s essay “The Thing” (1971), in
+which he proposes the four-fold [das Geviert], namely, heaven, earth, the mortals
+and God, to characterize such a convergence in the Thing.7 I reformulate Simondon’s genesis of technicity as a cosmotechnical thinking, and would go beyond
+Simondon in adding that this search for convergence should also mediate the modern and the traditional, which in the process of modernisation became strangers to
+one another—this was the case in Europe, and it has been much more serious in
+China, Japan and other non-European countries over the past two centuries. This
+is also the reason why we should study theses reticulations of forces according to
+their own philosophical and political histories in order to tackle the problem of
+the Anthropocene. However, it would be an illusion to substantialize the ancient
+cosmologies against technology, and it will be our task to renew a cosmotechnical
+thinking in order to search for a continuity between the modern and the traditional
+by appropriating technologies.
+Instead of seeing technological development as a rape of nature, Simondon
+tends to discover a poeisis in a certain development of technology, which has
+both an aesthetic dimension and productive dimension. However, we must point
+out that in the thinking of Simondon, reticulation is always given as a form of
+cosmo-geographic a priori, and it is the departing point that we can describe as a
+techno-geographic milieu of technical ensembles, such as railway networks and
+arenas. Commenting on the technical mentality of industrialization, Simondon
+proposes that:
+It is not a question here of the rape of nature or of the victory of the human Being over the elements, because in fact it is the natural structures
+themselves that serve as the attachment point for the network that is being
+developed: the relay points of the Hertzian “cables” for example, re-join
+with the high sites of ancient sacredness above the valleys and the seas.
+(Simondon 2009b, 22)
+
+Simondon analyses the technology-nature relation through a detour of an
+antagonism between culture and technics. Technology is not raping nature, as is
+often claimed; such perception comes out of a misunderstanding and ignorance
+of technology. The aim of Simondon’s thinking is to propose a program through
+which culture is able to re-integrate technology by re-connecting nature with technics. In so doing, the antagonism between technology and nature can be resolved.
+The question that has to be more systematically studied is that ofhowsuch a desire
+
+On Cosmotechnics
+
+15
+
+and thinking are applicable to modern technologies? This question deserves much
+more dedicated analysis. We will only give a glimpse into the sort of possibility Simondon proposed in different contexts. This cosmo-geographic a priori of
+reticulation, when it is followed and adopted in the course of technological development, expresses a poiesis of the being-together of the human and nature. The
+following example that Simondon gave during a filmed interview with journalist
+Jean Le Moyn best illustrates how the cosmo-geographic could be compatible
+with the techno-geographic.8
+Look at this antenna of television as it is . . . it is rigid but it is oriented; we
+see that it looks into the distance, and that it can receive [signals] from an
+emitter far away. For me, it appears to be more than a symbol; it seems to
+represent a gesture of sorts, an almost magical power of intentionality, a
+contemporary form of magic. In this encounter between the highest place
+and the nodal point, which is the point of transmission of hyper-frequencies,
+there is a sort of “co-naturality” between the human network and the natural
+geography of the region. It has a poetic dimension, as well as a dimension
+having to do with signification and the encounter between significations.
+(Simondon 2009a, 111)
+
+In this quote we can see the unity between the geographical milieu and the technical milieu, in which a cosmopoiesis is presented as a “co-naturality.” The question
+is, firstly, where is this cosmo-geographic a priori from? It is not purely universal, since it varies from one culture to another, and conditions different forms of
+life; it is transcendental yet, since it is not universal, it also carries an empirical
+dimension and is thus subject to renewal. Secondly, what is the sense of the term
+“poiesis” as experienced in different cultures? The Greeks’ sense of poetic experience is not necessarily the same as that of the Chinese. Simondon was no anthropologist, although he was a great connoisseur of Greek and Roman culture. He
+proposed a general theory of the genesis of technicity which can be supplemented
+by current debates in anthropology concerning the role of nature and cosmology.
+And cosmologies, when realized as cosmotechnics, will allow us to go beyond the
+limits of the technical system that is in the progress of realization, as well as to
+see how cosmological thinking can intervene into the imagination of technological
+development.
+
+16
+
+Techné: Research in Philosophy and Technology
+
+4. Beyond Nature and Technology
+The question that is posed immediately is as follows: Is aesthetics, then, the solution to the problem we have discussed above? It is this question that takes us to
+the relation between the cosmo-geographic a priori and the construction of the
+techno-geographic milieu, and to the role of cosmotechnical thinking. In order to
+investigate this, we will have to look into another example that Simondon gave,
+concerning the connection between the technical and the natural milieus, demonstrated by the Guimbal turbine (Simondon 2012, 66–67). With this example,
+we also want to push this line of thinking further than Simondon did himself.
+The turbines antecedent to the Guimbal turbine suffered from the problem of
+over-heating: the turbine produced so much heat that it destroyed itself. Guimbal’s invention consisted of a very important step toward integrating the “natural
+world” into the operation of the turbine. The “natural world” is here, for example,
+a river. The turbine is well wrapped and isolated with oil, and placed in the river.
+The current of the river will drive the turbine to move; at the same time, it also
+carries away the heat produced by the turbine. Theoretically, the faster the water,
+the larger the amount of heat produced; since the water is fast, heat will dissipate
+quickly. In this case, the river becomes part of the operation, though it is not really
+a component at the interior of the turbine; rather it is what Simondon calls an
+associated milieu (milieu associé) (Simondon 2012, 70). An associated milieu is
+defined by a recurrent causality between output and input, in a way that we can
+understand as “feedback” in cybernetics.9 However, Simondon also goes beyond
+the “feedback” mechanism of cybernetics and considers the formation of the associated milieu within a general technical process of concretization. The associated
+milieu is in this case also a techno-geographic milieu. The machine demands an
+associated milieu, which is part of a mechanism that allows the machine to resume
+its normal working status in the face of both external and internal disturbance.
+We may want to consider that here the cosmo-geographic a priori is neither
+merely aesthetic, nor being a background, but also operational. It has its signification, not simply as an aesthetic object, but also as a scheme interior to the technical
+object, and not simply the function exterior to the object. However, we may want
+to problematize this example given by Simondon: in the case of the turbine, and
+its integration of the natural world as part of its operation, how about those other
+living beings, for example fishes swimming in the river? This is a question that
+Simondon (2012) did not touch upon in his On the Mode of Existence of Technical
+Objects, and is also outside the scope of the antagonism Simondon sets up at the
+
+On Cosmotechnics
+
+17
+
+beginning of his work: culture vs. technics. As such it may serve as a negative example in Haraway’s (2016) Staying with the Trouble. We will propose that it is for
+this reason that we can supplement Simondon’s analysis with current debates in
+anthropology, in order to conceive a cosmotechnics confronting the current global
+technological exploitation.
+The notion of the cosmo-geographic a priori is fundamental to variouscosmotechnics, and the organization of such an a priori varies from one culture to
+another. The different “cosmotechnics” can be further analyzed according to their
+cultural specificities and understood in terms of different or alternative epistemologies, as well as episteme in the sense of Michel Foucault (1970) namely the
+relations between different scientific domains which define the regime of truth. We
+mentioned at the beginning of this article that the Anthropocene is often referred
+as a gigantic cybernetic system or in line of biologists a complex system, demonstrated by the cover of Stewart Brand’s Whole Earth Catalogue (1968), in which
+we see the blue earth from the outside, the earth studied as a whole cybernetic
+system, while we have to recognize that this is situated in a specific epistemology,
+indicated by the end of the cosmos10 and the beginning of ecology as proposed by
+Marshall McLuhan, namely the realization of the cosmos as a gigantic technoscientific object.
+Sputnik created a new environment for the planet. For the first time the natural world was completely enclosed in a man-made container. At the moment that the Earth went inside this new artefact, Nature ended and Ecology
+was born. ‘Ecological’ thinking became inevitable as soon as the planet
+moved up into the status of a work of art. (McLuhan 1974, 49)
+
+At the same time, technological globalization only exports homogeneous technologies embedded within a very narrow and predefined epistemology, and other
+cultures are forced to adapt to this technology or else replicate it. We can call this
+process modernization. The modernization process driven by economic and military competition has blinded us of seeing the multiplicity of cosmotechnics; rather
+it has obliged us to identify all cosmotechnics as part of a universal technological
+lineage. It is necessary to approach the question of the Anthropocene interior and
+exterior to the technical system that we are confronting, to improve it from within,
+and to appropriate it with new epistemes.
+The attempt to introduce the concept of cosmotechnics is to explore the limit
+of the current concept of technology as well as to re-affirm the relation between
+cosmology, morality and technology which has disappeared in the technological
+
+18
+
+Techné: Research in Philosophy and Technology
+
+system called the Anthropocene. I hope that with the notion of cosmotechnics
+we can re-approach modern technology in two schematic ways. Here I can only
+provide some preliminary thoughts. Firstly from interiority, we should question
+the epistemology of the techno-scientific applications in order to critically access
+it and to develop alternatives. It is clear when we look into established systems of
+knowledge such as medicine, which have been kept separated in the process of
+modernization, or one is subordinated to the other; for example, Chinese medicine
+can only be approved, when it is shown that the ingredients contain the types of
+chemicals legitimated in Western medicine. However the question of epistemology is not merely within the domain of science, but rather these epistemologies
+are enforced and universalized by capital, and it consequently leads to a naïve
+rationalization. Capitalist industrial technologies are efficient because they are
+mostly homogeneous and purely calculative. They are homogeneous because they
+bypass heterogeneous epistemologies and practices. These industrial technologies
+have the tendency to universalize, namely that they can easily go beyond cultural
+and national borders, a process known as globalization. However, it is necessary to
+critically access these industrial models and demonstrate alternatives.11 A concrete
+example that I would like to provide is a project that I led with the computer scientist Harry Halpin to develop an alternative model to platforms such as Facebook.
+By tracing the history of social network back to the social psychologist Jacob
+Moreno and his invention of sociometrics, we show that such a social network is
+based on an individualist concept, namely social atoms, namely each individual
+is a social atom and the society is an aggregation of social atoms (Hui and Halpin 2013; cf. Hui 2015). We proposed to develop another model based on groups
+instead of individuals, collaboration instead of individual activities. Examples
+are surely not limited to social networks (e.g., in this case, the concept of social
+relations, individuals, groups, collectives), one should not feel helpless in front
+of the becoming-totality of modern technology, but should seek the possibility to
+re-appropriate it, like what Gilles Deleuze famously says “there is no need to fear
+or hope, but only to look for new weapons” (Deleuze 1992, 5).
+Secondly from exteriority, we should conceive the cosmos as an exteriority to
+the technological system instead of the anthropocentric view of human activities
+as the center of the university, to bear in mind the limit of such a system, beyond
+which is the unknown and the mysterious.12 However this is by no means to mystify the cosmos again, or a proposal to go back to the pre-modern cosmology,
+but rather to develop new epochal sensibilities which allows us to re-appropriate
+modern technology, not only to repurpose it (like what we have mentioned above)
+
+On Cosmotechnics
+
+19
+
+but also to invent cosmotechnics of our epoch. I use sensitivity and cosmotechnics
+in plural in order to emphasize that it is not only one sensibility or one cosmotechnics, but rather a re-opening of the question of technology through the affirmation
+of non-modern cultures. In order to allow this to take place, every culture will have
+to retrieve and formulate its own history of cosmotechnics and only through such
+a historical study can new cosmotechnics be revealed to us. The Anthropocene
+presents the necessity to reconceive the relation between humans and the Earth/
+cosmos, which is reflected in the discussions among anthropologists, Descola’s
+ontological pluralism, Viveiros de Castro’s multinaturalism, as well as Latour’s
+(2015) Gaia theory. However, this new relation cannot avoid the question of technology since nature is no safe harbor and this is the task that I think philosophy of
+technology needs to open up—that is to say, rediscover multiple cosmotechnics
+beyond the current discourse of technology, limited as it is to Greek technē and
+modern technology coming out of Western modernity, and to develop a theoretical
+framework that allows an appropriation of modern technologies as an Ereignis
+in the Anthropocene and an overcoming of the oppositions between culture and
+nature, and culture and technics.
+
+
+believe that one can only abandon the notion of first nature as totally innocent and
+
+
+
+
+
+
+
+
+

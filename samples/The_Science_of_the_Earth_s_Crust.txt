@@ -13,14 +13,14 @@ are now going on all around us; and that we are able to interpret
 present-day earth features only by an understanding of earth changes in
 the past.
 
-_Geology_, meaning literally "earth science," deals with the history of
+Geology, meaning literally "earth science," deals with the history of
 the earth and its inhabitants as revealed in the rocks. The science is
 very broad in its scope. It treats of the processes by which the earth
 has been, and is now being, changed; the structure of the earth; the
 stages through which it has passed; and the evolution of the organisms
 which have lived upon it.
 
-_Geography_ deals with the distribution of the earth's physical
+Geography deals with the distribution of the earth's physical
 features, in their relation to one another, to the life of sea and
 land, and human life and culture. It is the present and outward
 expression of geological effects.
@@ -58,7 +58,7 @@ vast that the milleniums of written history have not accomplished the
 shifting of even one of the fleeting views which blend into the moving
 picture."[A]
 
-[A] Central Connecticut in the Geologic Past, pp. 1-2.
+Central Connecticut in the Geologic Past, 
 
 Or in the words of Tennyson:
 
@@ -106,29 +106,18 @@ The rocks of the earth constitute the special field of study for the
 geologist because they contain the records of events through which the
 earth and its inhabitants have passed during the millions of years of
 time until their present conditions have been reached. All the rocks of
-the earth's crust may be divided into three great classes: _igneous_,
-_sedimentary_, and _metamorphic_.
+the earth's crust may be divided into three great classes:
 
-_Igneous_ rocks comprise all those which have ever been in a molten
-condition, and of these we have the _volcanic_ rocks (for example,
-lavas), which have cooled at or near the surface; _plutonic_ rocks (for
+Igneous rocks comprise all those which have ever been in a molten
+condition, and of these we have the volcanic rocks (for example,
+lavas), which have cooled at or near the surace; plutonic rocks (for
 example, granites), which have cooled in great masses at considerable
-depths below the surface; and the _dike_ rocks which, when molten, have
+depths below the surface; and the dike rocks which, when molten, have
 been forced into fissures in the earth's crust and there cooled.
 
-_Sedimentary_ rocks comprise all those which have been deposited under
-water, except some wind-blown deposits, and they are nearly always
-arranged in layers (stratified). Such rocks are called strata. They may
-be of mechanical origin such as clay or mud which hardens to _shale_;
-sand, which consolidates into _sandstone_; and gravel, which when
-cemented becomes _conglomerate_. They may be of organic origin such as
-limestone, most of which is formed by the accumulation of calcareous
-shells; _flint_ and _chert_, which are accumulations of siliceous
-shells; or _coal_, which is formed by the accumulation of partly
-decayed organic matter. Or, finally, they may be formed by chemical
-precipitation, as beds of _salt_, _gypsum_, _bog iron ore_, etc.
 
-_Metamorphic_ rocks include both sedimentary and igneous rocks which
+
+Metamorphic rocks include both sedimentary and igneous rocks which
 have been notably changed from their original condition. Traces or
 remains of plants and animals preserved in the rocks are known as
 fossils. The term originally meant anything dug out of the earth,
@@ -157,7 +146,7 @@ In the Middle Ages, distinguished writers held curious views regarding
 fossils. Thus Avicenna (980-1037) believed that fossils represented
 unsuccessful attempts on the part of nature to change inorganic
 materials into organisms within the earth by a peculiar creative force
-(_vis plastica_). About two centuries later, Albertus Magnus held
+. About two centuries later, Albertus Magnus held
 a somewhat similar view. Leonardo da Vinci (1452-1519), the famous
 artist, architect, and engineer, while engaged in canal building in
 northern Italy, saw fossils imbedded in the rocks, and concluded
@@ -398,7 +387,6 @@ separated from each other.
 
 
 
-CHAPTER II
 
 WEATHERING AND EROSION
 
@@ -607,7 +595,7 @@ especially effective in the case of flowing ice.
 
 
 
-CHAPTER III
+
 
 STREAM WORK
 
@@ -817,7 +805,7 @@ cause the larger streams to appreciably sink their channels below the
 general valley floors. The reader will find a general discussion of
 movements of the earth's crust in a succeeding chapter.
 
-[Illustration: Fig. 1.--The submerged Hudson River channel is clearly
+The submerged Hudson River channel is clearly
 shown by the contour lines on the sea floor. Figures indicate depth of
 water in fathoms. Geologically recent sinking of the land has caused
 the "drowning" of the river valley. (Coast and Geodetic Survey).]
@@ -831,10 +819,10 @@ region is distinctly diminished. The recently sunken coast of Maine
 well illustrates the idea of "drowned valleys." The drowned valley of
 the lower Hudson River is another fine example.
 
-[Illustration: Fig. 2.--Sketch maps showing how the Shenandoah River
+Sketch maps showing how the Shenandoah River
 captured the upper waters of Beaverdam Creek in Virginia. The abandoned
 valley of the creek across Blue Ridge is now called a "wind gap."
-(After B. Willis.)]
+
 
 What is termed stream "piracy" is of special interest in connection
 with stream work. By this is meant the stealing of one stream or
@@ -877,8 +865,8 @@ production of large "potholes" many rock fragments are worn away and
 new ones supplied to continue the work. Locally, some stream beds are
 honeycombed with "potholes."
 
-[Illustration: Fig. 3.--Grand Canyon, Arizona. (From Darton's "Story of
-the Grand Canyon.")]
+Grand Canyon, Arizona. (From Darton's "Story of
+the Grand Canyon.")
 
 Strikingly narrow and deep valleys, called gorges and canyons, are
 rather exceptional features of stream action. Most wonderful of all
@@ -931,12 +919,7 @@ narrow, steep-sided inner gorge may thus be readily accounted for and
 the general lack of steplike forms on its sides is due to essential
 uniformity of the rock material as regards resistance to erosion.
 
-[Illustration: Fig. 4.--Profile and structure section across the
-line A-A in Fig. 3. Length of section 10 miles, vertical scale not
-exaggerated. The main relief features, and the relations of the rocks
-below the surface are shown. The granite and gneiss are of Archeozoic
-age, and the overlying nearly horizontal strata are of Paleozoic age.
-(After Darton, U. S. Geological Survey.)]
+
 
 The wonderful King's River Canyon of the southern Sierras in California
 is remarkable for its combined narrowness and depth. It is a steep
@@ -1107,7 +1090,7 @@ York, have developed in this way in limestone.
 
 
 
-CHAPTER IV
+
 
 THE SEA AND ITS WORK
 
@@ -1318,7 +1301,7 @@ advanced westward more than three miles between the years 1835 and
 
 
 
-CHAPTER V
+
 
 GLACIERS AND THEIR WORK
 
@@ -2305,8 +2288,7 @@ During the great earthquake on the coast of Alaska in 1899 notable
 changes took place along the shore for some miles, one portion having
 suddenly risen as much as forty-seven feet, while another portion sank
 below sea level.
-
-[Illustration: Fig. 15.--Map showing the principal earthquake regions
+Map showing the principal earthquake regions
 of the world.]
 
 In 1886 the earthquake centering near Charleston, S. C., was preceded
@@ -2339,7 +2321,7 @@ developed, the movement on one having been thirty-five feet.
 
 
 
-CHAPTER VIII
+
 
 VOLCANOES AND IGNEOUS ROCKS
 
@@ -7899,40 +7881,6 @@ An important criterion for the recognition of minerals is hardness,
 by which is meant the resistance of a smooth surface to abrasion or
 scratching. The generally adopted scale of hardness follows:
 
-  1.--Soft, greasy feel, and easily scratched by the finger nail (e.g.,
-        talc).
-
-  2.--Just scratched by the finger nail (e.g., gypsum).
-
-  3.--Just scratched by a copper coin (e.g., calcite).
-
-  4.--Easily cut by a knife, but does not cut glass (e.g., fluorite).
-
-  5.--Just scratches soft glass, and is cut by a knife (e.g., apatite).
-
-  6.--Harder than steel, and scratches glass easily (e.g., orthoclase).
-
-  7, 8, 9, and 10.--Harder than any ordinary substance and
-        represented in order by quartz, topaz, corundum, and diamond.
-
-[Illustration: Plate 17.--Skeleton of the Great Two-Legged, Carnivorous
-Dinosaur Reptile, Called "Tyrannosaurus," Which Lived During Cretaceous
-Time. (_Courtesy American Museum of Natural History._)
-
-Small Picture.--Restoration of the Earliest Known Bird of Which Several
-Nearly Perfect Skeletons Have Been Found. This feathered creature with
-reptilian characteristics lived at least 5,000,000 years ago. It had a
-long vertebrated tail, claws on the ends of the wings, and teeth. (_By
-E. W. Berry._)]
-
-Plate 18.--(_a_) Skeleton of the Largest Known Creature That Ever Flew.
-It was a flying reptile with spread wings of nearly twenty-five feet,
-and lived during the Cretaceous period several million years ago.
-(_Courtesy of the American Museum of Natural History._)
-
-Plate 18.--(_b_) Skeleton of a Remarkable Swimming Reptile of the
-Mesozoic Era. Length about twelve feet. Parts of skeletons of unborn
-young are seen. (_Courtesy of the American Museum of Natural History._)
 
 Minerals also show a great variety of colors. Many of them like quartz
 and calcite are colorless or white, others like galena (steel-gray)
@@ -7952,10 +7900,7 @@ special economic importance. Only those features are listed by which
 the mineral species may be recognized at sight, or by the aid of very
 simple nonchemical tests.
 
-[Illustration: Fig. 74.--Drawings showing forms of crystals of common
-minerals: a and b, garnet (Isometric); c and d, feldspars (Monoclinic);
-e, f, and g, quartz (Trigonal); h, i, and j, calcite (Hexagonal); k,
-augite (Monoclinic); l. hornblende (Monoclinic); m, pyrite (Isometric).]
+
 
 Amphibole. A number of species closely related in composition, crystal
 form, and properties are here included. They are silicates of lime
@@ -8727,35 +8672,7 @@ oil immediately below, on either side, followed by the water. It is,
 of course, necessary that the oil-bearing stratum shall be capped by a
 practically impervious one.
 
-[Illustration: Fig. 78.--Map showing the principal petroleum and
-natural gas fields of the United States. (After U. S. Geological
-Survey.)]
 
-[Illustration: Fig. 79.--A vertical (structure) section showing a very
-common type of oil-bearing structure. In this anticline, water, oil,
-and gas arranged in order of their specific gravities. Removal of the
-gas would allow the oil and water to rise higher toward the apex of the
-porous layer. (After Indiana Geological Survey.)]
-
-[Illustration: Plate 19.--General View in the Appalachian Mountains
-Along New River, Virginia. This is a typical portion of the great area
-which, during Mesozoic time, was reduced by erosion to the condition
-of a low-lying plain ("peneplain"). Since early Cenozoic time the
-peneplain has been upraised and New River has carved out its V-shaped
-valley to its present depth, while tributary streams have carved out a
-series of valleys along belts of weak rocks nearly at right angles to
-the main valley. The remarkably even sky line marks approximately the
-old peneplain surface. (_Photo by Hillers, U. S. Geological Survey._)]
-
-[Illustration: Plate 20.--(_a_) A Big Glacial Bowlder of Plutonic
-Igneous Rock Carried Miles from Its Parent Ledge by the Ice Sheet Which
-Passed Over the Adirondack Mountains During the Ice Age. (_Photo by the
-author._)]
-
-[Illustration: Plate 20.--(_b_) A Long, Winding Ridge of Sand and
-Gravel (Called an "Esker") Deposited by a Stream in a Channel in the
-Ice Near the Margin of the Great Glacier During Its Retreat from the
-Adirondack Mountains. (_Photo by the author._)]
 
 "If the rocks are dry, then the chief points of accumulation of the oil
 will be at or near the bottom of the syncline (downfold), or lowest
@@ -9447,7 +9364,7 @@ taken from U. S. Survey Bulletin No. 613.
      contains much more iron, calcium, and magnesium.
 
   _Base-level._--The lowest level to which a stream can cut (erode) its
-     channel. A whole region may be base-leveled by erosion.
+     channel. A whole regiaon may be base-leveled by erosion.
 
   _Cambrian._--The first or earliest period of the Paleozoic era of
      geologic time.

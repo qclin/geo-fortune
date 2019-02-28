@@ -126,99 +126,6 @@ U.S. Marine Corps, commander of Operation Guzheng
 
 
 
-CONTENTS
-
-Title Page
-
-Copyright Notice
-
-List of Characters
-
-Part I: Silent Spring
-
-1. The Madness Years
-
-2. Silent Spring
-
-3. Red Coast I
-
-Part II: Three Body
-
-4. The Frontiers of Science
-
-5. A Game of Pool
-
-6. The Shooter and the Farmer
-
-7. Three Body: King Wen of Zhou and the Long Night
-
-8. Ye Wenjie
-
-9. The Universe Flickers
-
-10. Da Shi
-
-11. Three Body: Mozi and Fiery Flames
-
-12. Red Coast II
-
-13. Red Coast III
-
-14. Red Coast IV
-
-15. Three Body: Copernicus, Universal Football, and Tri-Solar Day
-
-16. The Three-Body Problem
-
-17. Three Body: Newton, Von Neumann, the First Emperor, and Tri-Solar Syzygy
-
-18. Meet-up
-
-19. Three Body: Einstein, the Pendulum Monument, and the Great Rip
-
-20. Three Body: Expedition
-
-Part III: Sunset for Humanity
-
-21. Rebels of Earth
-
-22. Red Coast V
-
-23. Red Coast VI
-
-24. Rebellion
-
-25. The Deaths of Lei Zhicheng and Yang Weining
-
-26. No One Repents
-
-27. Evans
-
-28. The Second Red Coast Base
-
-29. The Earth-Trisolaris Movement
-
-30. Two Protons
-
-31. Operation Guzheng
-
-32. Trisolaris: The Listener
-
-33. Trisolaris: Sophon
-
-34. Bugs
-
-35. The Ruins
-
-Author’s Postscript for the American Edition
-
-Translator’s Postscript
-
-About the Author
-
-About the Translator
-
-Copyright
 
 
 
@@ -2900,47 +2807,7 @@ Research Report on the Possibility of Technology Leap Due to the Search for Extr
 
 1. Current International Research Trends [Summary]
 
-(1) The United States and other NATO states: The scientific case and the necessity for SETI are generally accepted, and strong academic support exists.
 
-Project Ozma: In 1960, the National Radio Astronomy Observatory at Green Bank, West Virginia, searched for extraterrestrial intelligence with a radio telescope 26 meters in diameter. The project examined the stars Tau Ceti and Epsilon Eridani for 200 hours using ranges near the 1.420 gigahertz frequency. Project Ozma II, which will involve more targets and a broader frequency range, is planned for 1972.
-
-Probes: The Pioneer 10 and Pioneer 11 probes, each of which will carry a metal plaque containing information about civilization on Earth, are scheduled for launch in 1972. The Voyager 1 and Voyager 2 probes, each of which will carry a metal audio record, are scheduled for launch in 1977.
-
-The Arecibo Observatory in Puerto Rico: Constructed in 1963, this is an important instrument for SETI. Its effective energy collection area is about 20 acres, which is greater than the sum of the collecting areas of all other radio telescopes in the world. When combined with its computer system, it can simultaneously monitor 65,000 channels and is also capable of ultrahigh-energy transmissions.
-
-(2) The Soviet Union: Few sources of intelligence are available, but there are indications that large investments have been made in the field. Compared to NATO countries, the research seems to be more systematic and long term. Based on certain isolated information channels, plans are currently under way to build a global-scale very-long-baseline interferometry (VLBI) aperture-synthesis radio telescope system. Once the system is completed, it will possess the world’s most powerful deep-space exploration capabilities.
-
-2. Preliminary Analysis of Social Patterns of Extraterrestrial Civilizations Using a Materialist Conception of History [omitted]
-
-3. Preliminary Analysis of the Influence of Extraterrestrial Civilizations on Human Social and Political Trends [omitted]
-
-4. Preliminary Analysis of the Influence on Current International Patterns Due to Possible Contact with Extraterrestrial Civilizations
-
-(1) Unidirectional contact (only receiving messages sent by extraterrestrial intelligence): [omitted]
-
-(2) Bidirectional contact (exchange of messages with extraterrestrial intelligence and direct contact): [omitted]
-
-5. The Danger and Consequences of Superpowers Making Initial Contact with Extraterrestrial Intelligence and Monopolizing Such Contact
-
-(1) Analysis of consequences of American Imperialists and NATO making initial contact with extraterrestrial intelligence and monopolizing such contact: [still classified]
-
-(2) Analysis of consequences of Soviet Revisionists and Warsaw Pact making initial contact with extraterrestrial intelligence and monopolizing such contact: [still classified]
-
-[Instructions from Central Leadership] Others have already sent their messages out into space. It’s dangerous if extraterrestrials only hear their voices. We should speak up as well. Only then will they get a complete picture of human society. It’s not possible to get the truth by only listening to one side. We must make this happen, and quickly.
-
-Signed: XXX Date: XX/XX/196X
-
-III.
-
-Research Report on the Initial Phase of the Red Coast Project (XX/XX/196X)
-
-TOP SECRET
-
-Number of Copies: 2
-
-Summary Document: Central Document Number XXXXXX, forwarded to the Commission for Science, Technology, and Industry for National Defense, the Chinese Academy of Sciences, and the Central Planning Commission, Department of National Defense; disseminated at the XXXXXX Conference and the XXXXXX Conference; partially disseminated at the XXXXXX Conference.
-
-Topic Serial Number: 3760
 
 Code Name: “Red Coast”
 
@@ -3012,13 +2879,7 @@ Attention, you who have received this message! This message was sent out by a co
 
 [Instructions from Central Leadership] This is utter crap! It’s enough to put up big-character posters27 everywhere on the ground, but we should not send them into space. The Cultural Revolution leadership should no longer have any involvement with Red Coast. Such an important message must be composed carefully. It’s probably best to have it drafted by a special committee and then discussed and approved by a meeting of the Politburo.
 
-Signed: XXX Date: XX/XX/196X
 
-Second Draft [omitted]
-
-Third Draft [omitted]
-
-Fourth Draft [Complete Text]
 
 We extend our best wishes to you, inhabitants of another world.
 
@@ -3042,7 +2903,7 @@ Related Policies and Strategies
 
 How wonderful it will be if the universe really contains other intelligences and other societies! Bystanders have the clearest view. Someone truly neutral will then be able to comment on whether we’re the heroes or villains of history.
 
-Signed: XXX Date: XX/XX/196X
+
 
 
 
@@ -6428,61 +6289,6 @@ Ken Liu is a writer, lawyer, and computer programmer. His short story “The Pap
 
 
 
-This is a work of fiction. All of the characters, organizations, and events portrayed in this novel are either products of the author’s imagination or are used fictitiously.
-
-THE THREE-BODY PROBLEM
-
-Copyright © 2006 by (Liu Cixin)
-
-English translation © 2014 by China Educational Publications Import & Export Corp., Ltd.
-
-Translation by Ken Liu
-
-This publication was arranged by Hunan Science & Technology Press. Originally published as in 2008 by Chongqing Publishing Group in Chongqing, China. First serialized in Science Fiction World () in 2006.
-
-All rights reserved.
-
-Cover art by Stephen Martiniere
-
-A Tor Book
-
-Published by Tom Doherty Associates, LLC
-
-175 Fifth Avenue
-
-New York, NY 10010
-
-www.tor-forge.com
-
-Tor® is a registered trademark of Tom Doherty Associates, LLC.
-
-eBooks may be purchased for business or promotional use. For information on bulk purchases, please contact Macmillan Corporate and Premium Sales Department by writing to MacmillanSpecialMarkets@macmillan.com.
-
-The Library of Congress has cataloged the print edition as follows:
-
-Liu, Cixin.
-
-[San ti. English]
-
-The three-body problem / Cixin Liu; translated by Ken Liu.
-
-p. cm.
-
-ISBN 978-0-7653-7706-7 (hardcover)
-
-ISBN 978-1-4668-5344-7 (e-book)
-
-I. Liu, Ken, 1976–translator. II. Title.
-
-PL2947.C59S3613 2014
-
-895.13'52—dc23
-
-2014033729
-
-e-ISBN 9781466853447
-
-First U.S. Edition: November 2014
 
 
 

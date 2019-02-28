@@ -1,0 +1,1234 @@
+Early China Coast Meteorology
+The Role of Hong Kong
+
+
+Preface
+
+By the middle of the nineteenth century meteorology had become a frontier
+science, but, unlike most frontier sciences, a most valuable one in practical
+terms. It was a science that should easily have translated to East Asia, where
+its benefits were transparently obvious. The Japanese, when they set about it,
+rapidly adapted to the paradigm; the Chinese, fearful of colonial encroachment,
+were decidedly cool on the subject. What is surprising is how sluggish the
+development of the subject in the colonial environments was. What were the
+reasons for this? The present work grew out of an effort to document the history
+of the physical sciences in Hong Kong. This turned out to be too daunting a
+task, but from it grew an acquaintance with the unheralded founding director
+of the Hong Kong Observatory, Dr. William Doberck, a subject who provides a
+central focus for an account which can make a small contribution to answering
+this question. I also try to give a more general description of meteorology in the
+region during the late nineteenth and early twentieth centuries, something that
+has not received much attention from historians to date. Incidental to the whole
+story is an account of colonial government and society in Hong Kong from a
+point of view which is complimentary to the more usual politically oriented
+studies. But the work is more a portrait of events than a researched thesis. No
+effort has been made to consult Japanese sources, or to track down records from
+the Manila (largely lost) or Zikawei observatories, and even the records from
+the Hong Kong Observatory, if we exclude the Government Gazette, are by no
+means complete. So reliance has often had to be placed on secondary sources,
+mostly Colonial Office files and contemporary newspaper reports. Not all of the
+material here is of wide provenance, and I thought it wise to add information to
+augment some of these sources. My preference for doing so would be signalled
+footnotes on the page — footnotes being often of greater interest than the text.
+I’m conscious, however, that many readers find such footnotes distracting so
+have relegated all such material to the end of the book.
+	
+
+Preface
+
+	
+Minutes from the Colonial Office are from files CO129/297 (1882) through
+CO129/442 (1917). Materials from the Hong Kong Public Records Office
+are in files HKRS356 and HKRS842. Different spellings in early documents,
+Hongkong, Hong-Kong, Kaulung etc. are all standardized throughout to
+‘Hong Kong’, etc.
+	
+A bibliography lists all books cited, as well as journal articles that are
+referred to in the text more than once, and details of other publications are
+found in the notes where they are mentioned. In the last days of manuscript
+preparation I became aware of an unfinished draft of a book, An Introduction
+to Typhoons, that a late director of the Hong Kong Observatory, Gordon J. Bell,
+planned to produce, and which is housed in the Observatory library. Some
+relevant historical material, as well as some material, earlier familiarity with
+which would have saved me considerable effort, is to be found there.
+	
+There is a perennial problem of how names of places are to be treated,
+the variability over time being especially acute in that part of the world. Some
+accommodation must be found for the form as written at the time and for
+contemporary versions. Common geographical names, such as Peking, Canton,
+Hong Kong and Macao which have been anglicized in the same way as have
+Lisbon, Rome, Dublin and Copenhagen are retained in their familiar English
+form. More difficult to deal with are the names of other places, especially in
+China, where forms of a more transitory or corrupted nature were in common
+use. To make a blanket replacement of Chinese place names by their current
+Hanyu Pinyin forms, e.g. Yantai for Chefoo, or Nanpengdao for Lamocks,
+would make for a very perplexed reading of the historical material. For the sake
+of cross referencing and readability, names are given as in the context where
+they arise, and the accepted contemporary versions are given in a Gazetteer in
+an Appendix — in Pinyin transliteration in the case of places in China. In the
+same interest of readability, text in other than roman script is relegated to the
+endnotes. The Jesuit observatory at Xujiahui is referred to throughout, except
+in quotations, as Zikawei, in keeping with the priests’ usage.
+
+MacKeown_00_fm_rev.indd 14
+
+02/12/2010 11:55 AM
+
+1
+Nineteenth-Century Observatories
+Meteorology will not be in working order for
+two years more: but ‘Hart’ is long, if time is
+fleeting.
+Robert Hart, December 18731
+
+Introduction
+The scientific approach to the physical world which blossomed in Europe from
+the time of Newton and his contemporaries onwards only slowly diffused to
+more distant regions, and that encroachment was largely under the cloak of
+European colonial expansion. The extension of the community of science can
+hardly be described as a missionary undertaking. The propagation of the ways
+of thinking of scientists did not preoccupy them in the way that the saving
+of souls moved religiously minded individuals. Of course, we are not talking
+of mutually exclusive classes. The role of science was pressed into service in
+the cause of evangelization on many fronts. Ironically, the successes of these
+endeavours, as we will see, were particularly favourable to the propagation of
+scientific thinking, more so than to the conversion of the heathen. The ground
+for foreign encroachment on traditional patterns of thought was fertile in some
+places more than others. The bulk of Asia — India, China, Japan — was heir to
+rich educational traditions that could easily sympathize with the new ways of
+thinking. We are concerned in this volume with a part of the world, the South
+China Sea and its littoral, and the subject of meteorology, a subject paradigmatic
+of the scientific approach to nature, emphasizing systematic observation and
+rigorous analysis in the solution of problems.
+
+
+
+2	
+
+Early China Coast Meteorology
+
+	
+Meteorology as a subject was of as much interest 150 years ago as it is
+today, in the early twenty-first century. The scenario to which it relates, of
+course, has changed immeasurably over the intervening years, but the urgency
+of its practice was no less attended to then than it is these days. However, the
+perceived pedestrian nature of its study seems to have eclipsed its role in most
+chronicles of the times. The story of the military and political endeavours in
+the advancement of imperial designs by Europeans in other parts of the world
+in the seventeenth to nineteenth centuries has had many tellings. So also have
+there been many reports on the lives and adventures of the individuals who
+took part. Botanical and zoological enquiries among colonial servants, as
+well as casual travellers, have had wide reporting, but it is only recently that
+medicine, and to a much lesser extent the physical sciences and engineering,
+have drawn some attention.2 We are concerned with a factual account of the
+small, specialized subject of meteorology and especially how it was practised on
+the ‘China Coast’. Astronomy, and geomagnetism, bedmates of the subject in the
+early scientific age, will naturally also attract some attention. Although it is not
+our primary purpose, the story related also throws light on the strengths, foibles
+and prejudices of colonial society, as well as its attitudes to and interactions,
+in many cases minimal, with the native populations. There is much more to
+the story of meteorology in the Orient than an account of the role of the Hong
+Kong Observatory and we will make some attempt to cover these other aspects,
+but our focus will be on the evolution of the Observatory in Hong Kong and
+its relations with other Asian observatories. For good or bad, the history of the
+first thirty years of that observatory is in great part a chronicle of the career of
+Dr. William Doberck, the Observatory’s founding director and the institution’s
+feisty leader for twenty-four of those thirty years. His near quarter-century stay
+there and the shadow he cast for a further six years in the person of his close
+colleague and successor, Frederic George Figg, who retired in 1912, form a
+definitive timeframe for the study in hand. Doberck’s fame as an astronomer is
+also an excuse to treat, briefly, the early history of astronomy in Hong Kong. Its
+later developments are described elsewhere.3
+	
+To some, the very identification of meteorology in the East with its
+manifestations in Hong Kong will appear offensive. Compared to the
+contributions made by the observatories in China, Japan and the Philippines,
+Hong Kong will often appear, at least in the sense of resources, to have been
+a minor, but also a fractious player in the meteorology of the region in those
+times. We choose 1912 as the year at which to take stock of the development of
+observatories in East Asia, largely because it marks a watershed in the history
+of the Observatory in Hong Kong. The thirtieth year of its existence was the
+year in which the last of the cohort of early officers retired, the time when any
+pretence at playing a role in astronomy was discarded and a management more
+
+
+	
+
+Nineteenth-Century Observatories	
+
+3
+
+attuned to the modern demands of meteorology took charge. It was also the
+year in which, in a formal sense, it turned over a new leaf when ‘Royal’ was
+added to its title.4 The same year saw the new Republican government in China
+introducing not one but two meteorological institutes, one associated with the
+ministry of agriculture and the other with the ministry of education. But before
+getting to the core of the story it is informative to look briefly at the geopolitical
+context in which the Hong Kong Observatory originated and the history of
+other colonial observatories predating its founding.
+
+Early Systematic Observations
+The weather in all cultures has always been a matter of comment and concern and
+accounts of it have survived in many places, not least in the exhaustive records of
+natural phenomena to be found in Chinese documents, official and private. The
+earliest quantitative measurements made were of rainfall in China and Korea.5
+Descriptions relevant to our story were also given by early Portuguese explorers
+at Macao and Canton, and by Dutch traders in Japan. Such records are valuable
+for studies of climatology and how the climate may have varied over time but,
+being largely non-quantitative, they have little to contribute to a history of
+meteorology as such. Before a review of systematic studies of the subject and
+a description of the main sources of early meteorological work in East Asia —
+the various observatories established there from the mid-nineteenth century
+onwards — we will record a few isolated instances of systematic recordings
+made by individuals, some dating as far back as the seventeenth century.
+	
+There is the example of an Irish sojourner at Xiamen, by the name of James
+Cunningham, who in 1699 published an account of measurements he made
+there on the pressure, the wind direction and the state of the weather from
+October 1698 to the following January.6 Mr. Cunningham, later a fellow of the
+Royal Society, was for a time a physician to the English traders on Zhoushan
+(Chusan) Island, nine kilometres off the coast in Hangzhou Bay. Another notable
+example of early meteorological monitoring comes from Sweden. From the
+1730s the Swedish Academy of Sciences had an arrangement with the Swedish
+East India Company (a rather enlightened body of men) to carry scientists on
+board their China-bound ships.7 At least one meteorological record from this
+enterprise survives: a near complete tabulation by an anonymous visitor of the
+rainfall at Macao from early March to 12 September 1780.8 Another interesting
+case is that of a private observatory that was established at Batavia, in the Dutch
+East Indies, as early as 1765. Its owner was the self-taught German-Dutch
+Reverend Johan Maurits Mohr, whose wife fell into a large inheritance. This
+enabled him to build and equip his own private observatory from where he made
+
+
+
+4	
+
+Early China Coast Meteorology
+
+various meteorological and astronomical observations, including two Transits
+of Venus. A nucleus of amateur scientists built up around his observatory, but
+by 1790 activity had declined, not to recover again for almost a century.9
+
+China: The Early Days
+Records of the weather, as is the case with all observations of nature, have a
+long history in China. However, in her history of the Hong Kong Observatory,
+Ho Pui-yin remarks on the failure to keep continuous records of meteorological
+phenomena, the observers in general only recording exceptional events, and she
+describes records of many such events, especially typhoons, in the weather in
+Southern China from pre-Observatory days.10 So, unlike astronomy, meteorology
+in China in the pre-scientific age never reached any level of sophistication. In
+the words of China’s most distinguished meteorological son, Zhu Kezhen,11
+it never advanced beyond the stage of prognostication by proverbs, of which
+many exist. Typical is:
+If on the first come wind and rain,
+’Twill bring us pestilence and pain;
+If at Ch’ing Ming a south wind come,
+It means a plenteous harvest-home.12
+
+Nevertheless, although extensive records exist which would be valuable
+to students of climate for inferring climate and climate change in China, it
+would be stretching a point to suggest they played any determining role in the
+development of modern meteorology.
+	
+From the earliest days of their participation in the working of the Peking
+Observatory, and the time of Ferdinand Verbiest in the mid-seventeenth
+century, the Jesuit priests attached to that Observatory included meteorological
+monitoring among the curriculum of new knowledge they introduced into the
+Celestial Kingdom. We have some records of the first half of the eighteenth
+century from the French Jesuits there in the form of data they forwarded to the
+French Academy in Paris. Extensive data on temperature and wind direction,
+measured at 06:30 and 15:30 daily from July 1743 until March 1746 at the
+Observatory, communicated by a Fr. Antoine Gaubil, have been reported.13 The
+French had a reputation for rigour in their instrumentation — a resolution
+in their temperature measurements of 0.31°C at that time has been deduced14
+— and the systematic manner in which the data were accumulated must lend
+much confidence in their reliability. These data are particularly interesting for
+establishing, in the summer of 1743, a recorded all time high of 44.4°C in the
+
+
+
+	
+
+Nineteenth-Century Observatories	
+
+5
+
+capital, and a heat wave in North China in which Fr. Gaubil reports 11 400
+deaths around the capital; this heat wave is amply confirmed by many qualitative
+reports of the time in official documents and provincial chronicles. It has been
+concluded that it was the highest temperature encountered at Peking in the
+last seven hundred years. But there is more to meteorology than temperature
+records. Other observations on the pressure, the wind direction and the state
+of the weather, made twice daily at Peking from 1757 to 1762 were reported by
+another Jesuit father, Jean-Joseph Amiot.15
+
+An Early Publication in Chinese
+There are different readings of the confrontation in the eighteenth and
+nineteenth centuries between Western science as prosecuted by the colonial
+powers and indigenous populations in the territories they bestrode, either as
+colonial mandarins, philanthropists or missionaries. The case of meteorology
+might seem to be fairly simple compared, say, with the complexity of the
+encounter of Western medicine with native populations. Meteorology would
+largely be in the service of the foreigners, the benefit to the locals only incidental
+to this role. Yet the earliest systematic introduction of the subject to the China
+Coast, the publication of a book in Chinese on the subject in the 1850s
+by a foreign missionary, was exclusively directed at native readership. The
+subsequent establishment by the Jesuits of major meteorological observatories
+in China and the Philippines also cannot be easily read as the deliberate
+prosecution of colonial-oriented goals, even if they would eventually be coopted into that exercise.
+	
+The book in question was published in 1853 by the American missionary
+doctor Daniel Jerome MacGowan at Ningbo.16 MacGowan himself did not claim
+to make any meteorological measurements, but he was an active participant in a
+programme of bringing Western scientific thought to the attention of educated
+Chinese, with the twin aims of rejuvenating their society and spreading the
+Christian message.17 Two years earlier at Ningbo he had published Bo Wu Tong
+Shu or the Philosophical Almanac, a text introducing electricity to local readers
+in the context of explaining the electric telegraph. It contained illustrations
+featuring such items as Leyden jars and Toepler-Holtz machines, and proposed
+a never-to-be-adopted code of eighteen Chinese symbols to be used on the
+telegraph keyboard. That book was eventually translated into Japanese and its
+terminology played a role in decisions made there between Dutch-based and
+Chinese-based nomenclature in physics. The book by MacGowan of interest
+to us is titled Hang hai jin zhen (the Navigator’s Golden Needle, see Fig. 1) and
+separately in English, The Law of Storms in Chinese. It consists of thirty-seven
+
+
+
+6	
+
+Early China Coast Meteorology
+
+pages and is a singular publication on meteorology at the time. It contains a
+brief introduction in English, in which the author tells us that the chapter on
+typhoons in the South China Sea in Col. Reid’s work forms the basis for his
+publication, but that works by Redfield and Piddington were also consulted.18
+He acknowledges financial assistance from J. C. Bowring at Hong Kong in
+publishing his pamphlet. He continues: ‘So much of the science of meteorology
+as applies to the subject has been introduced, with some general principles of
+navigation as practiced in the West; the whole being interspersed with remarks
+on natural and revealed religion’. He castigated the Chinese for their slowness
+to appreciate new discoveries, but hoped that his pamphlet would help Chinese
+navigators to escape the fury of the storms and lead them to ‘make observations
+calculated to perfect our acquaintance with the tracks of revolving storms, in
+regions rarely visited by foreign ships’. He wrote further:
+they need instruction in those sciences which are the source of so much
+of the wealth and power of our native lands, and without which the
+resources of the empire can never be fully developed. In supplying
+them with works of a scientific character, we shall not only promote
+their material interests, but by employing these as media for conveying
+religious truth, we shall contribute largely to their intellectual and moral
+regeneration.
+
+
+	
+
+Nineteenth-Century Observatories	
+
+7
+
+	
+MacGowan translated the booklet into Chinese, he said, with supplements
+of his own ideas, so that mariners would know how to avoid hurricanes and
+master the principles of navigation. In this he is being modest. The work is not
+at all a literal translation of Reid’s chapter. Not only does he add a discussion
+of basic meteorological principles like atmospheric pressure and the role of the
+earth’s rotation in wind patterns, and adapt the material to the region of the
+South China Sea, but his discussions of phenomena are much more user-friendly
+than the sometimes rambling account in Reid. Although his main intention was
+to advise sailors on the avoidance of harm when encountering a typhoon, in a
+final chapter he introduces the principles and methods of navigation, especially
+the determination of position. Explaining the arbitrariness in assigning a zero of
+longitude, he chose the capital, Peking, as his zero reference in the one labelled
+chart he presented.19 He also explains the origins of the tides, contrasting the
+moon/sun role in the phenomenon with the role of a large fish in a hole in the
+sea believed by some, he said, to be the explanation. He admitted to ignorance
+of the names of some islands along the coast and of conditions in the seas north
+of Taiwan, and invited his Chinese sailor readers to help him. They should fill
+in the names of the unknown islands and if they encountered typhoons they
+should record the time, location and the change of the direction of the wind in a
+timely and continuous fashion, and send their records to the consuls of Western
+countries. When he had the results he promised he would write another book.
+He included a chart of typical typhoon tracks in the region, but in the absence
+of any land-based observatories in that part of the world at the time all such
+compilations were based on the reports in ships’ logs, and it is not too surprising
+that the chart shows some deficiencies when compared with later summaries.
+We will return to this issue in chapter 6.
+	
+The theological interventions threatened in the introduction are tolerably
+few. In defence of the scientific method he wrote how as a king administers his
+kingdom according to laws, so God administers the universe according to laws,
+too, and that the wind was to be understood as one of God’s laws — a contrast
+he wished to make against prevailing yin-yang theories. More evangelical was
+his advice on personal behaviour on encountering a storm, and being in a
+position where the ship is nearly destroyed. The mariner should keep a cool
+head, not panic nor lose his wits and abandon steering. He should not prostrate
+himself before idols on board and so lose his own judgment. Instead, he should
+worship with his heart the only true God in heaven, and his son Jesus Christ.
+Only this God was effective. How could idols made from wood and earth save
+him? He closed his pamphlet on a moralizing tone, explaining how he had
+come from afar, not in search of profit or rank but to awaken common people to
+the truth, and how proper conduct in society, not focussing on profit and greed,
+was ultimately of greater importance than the avoidance of typhoons. Although
+
+
+8	
+
+Early China Coast Meteorology
+
+of considerable interest to us here, it is questionable whether MacGowan’s book
+had any significant influence in the country at the time. Did any sailors take
+up his advice to abandon idols, or his request to forward information to the
+foreign consuls? It seems unlikely; no second book emerged and no later writers
+on meteorology in China makes any mention of the one he did write. As we
+have seen, the book was an early indicator of efforts of foreigners and Chinese
+together to bring modern developments in mathematics and the sciences to the
+attention of the citizens of the Empire, but it was to be the only one centred on
+meteorology.20 We will encounter no later instances where colonial officials or
+missionary priests attempted to assimilate native potential in the advancement
+of the subject, but more usually an opinion on their part dismissive of the ability
+of local employees for such work.
+
+China: Systematic Recording Pre-1860
+The earlier meteorological activity of the Jesuits in the capital had largely been
+forgotten by the time, more than a hundred years later in 1863, when an attempt
+was made to revive scientific meteorology there by Robert Hart, inspectorgeneral of the Imperial Chinese Maritime Customs. But before we embark on
+that episode we must note some organized efforts to publish meteorological
+data for the country. The Canton Register was inaugurated as an Englishlanguage publication in November 1827 and from issue No. 36 in October 1838
+it began to carry regularly daily temperature, pressure and wind measurements
+for that city, although it does not state where or by whom they were made. The
+temperature was quoted to the nearest Fahrenheit degree and the pressure to
+1/20th of an inch of mercury. A new journal in the city, the Chinese Repository, in
+its first volume in 1833 carried an article on the climate, reproduced some of the
+data for 1831 from the Canton Register, but also carried records of temperature
+and pressure at Macao from the ‘private diary of Mr. Blettermann’ and rainfall
+data at Macao for sixteen years courtesy of a Mr. Beale.21
+	
+In 1835 Bemerkungen über die klimatischen Verhältnisse des südlichen China
+by the pioneering German plant physiologist Franz Julius Ferdinand Meyen
+was published in Europe.22 On a round-the-world expedition, 1830–32, he
+monitored meteorological conditions four times daily. On the basis of a fourmonth sojourn at Macao and Canton in the autumn of 1831, he presumed to
+write an account of the climate of South China. He made observations of the
+temperature for a couple of days in August at Northwest Lantau23 — where he
+also collected some botanical specimens — before moving on to Macao. There,
+for a couple of days he recorded temperature and pressure, followed by two
+weeks at Canton where he recorded thermometer and psychrometer (relative
+
+
+	
+
+Nineteenth-Century Observatories	
+
+9
+
+humidity) data. Although his report may contain the first meteorological data
+from what would become the territory of Hong Kong, his work is less useful
+for his own observations than for the compilation of earlier data from Canton
+and Macao that he presented. Some of it dates back to 1785, the temperature
+and the winds throughout that year at Canton recorded by C.-L.-J. de Guignes,
+the French consul in the city at the time.24 Meyen, in furtherance of his
+primary interest, botany, took the opportunity of visiting two men in Macao
+who cultivated large and mature gardens and found some interesting plant
+specimens. But the two men, the same two responsible for the data published
+at Canton noted above, were the Dutch general-consul there, Mr. Blettermann
+and an English merchant, Thomas Beale, who both dabbled in meteorology and
+had accumulated some records on rainfall and temperature.25 From Blettermann
+he collected the extensive data on rainfall he had recorded at Macao from 1812
+to 1831 (excluding two years). Meyen also presents four years (1827–30) of
+temperature data (and one year of pressure data) at Macao recorded by Beale,
+and temperature data at Canton for 1829–31 as reported in the Canton Register
+of the time. The climate of Canton and Macao was also considered by another
+traveller at this time.26 He gave the mean monthly temperature and pressure
+during 1831 at Canton, from the Canton Register, and at Macao from a ‘private
+diary’ of Mr. Blettermann. Average monthly rainfall over a period of sixteen
+years attributed to Mr. Beale was also presented.
+
+The Role of Observatories
+As we have noted, established observatories would be the main source of
+information on meteorology. Apart from evolving observatories in Japan, which
+in the years of interest to us, in their infancy, made but a small contribution to
+China Coast meteorology, all such institutions were products of the Western
+colonial expansion in that part of the world. As such they must be viewed in the
+context of the establishment of observatories overseas by the colonial powers
+generally, with the British dictating the paradigm for this study. There were,
+however, contributions by the French, the Spanish, the Russians and the Dutch,
+and also a tentative role by the quasi-autonomous Imperial Chinese Maritime
+Custom Service authorities. The role of observatories in the colonial expansion
+of Western powers into Asia is not a simple linear story. All the major colonial
+powers devoted effort to some aspects of the physical sciences usually associated
+with an observatory and established suitable institutions in that part of the
+world. In the case of Hong Kong a direct role in colonial expansion is clear. In
+several other cases it was more the fact that observatories, and observers, were
+co-opted into the imperial enterprise. However, the aspects emphasized could
+
+
+10	
+
+Early China Coast Meteorology
+
+vary greatly, and the forces directing them were equally diverse. Astronomy,
+meteorology, seismology and geomagnetic phenomena all featured, with greater
+or lesser emphasis, in the developments.
+	
+Astronomy was, of course, the doyen among these subjects, but its
+occurrence was more often the default condition of the practical requirements
+of providing a time service rather than the academic pastime its practitioners
+pursued in other parts and, indeed, would have liked to pursue in the Orient.
+Nowhere is this better illustrated than in Hong Kong, where, as we will see, the
+frustrated ‘Government Astronomer’ fought a gallant, but unavailing, fight in
+defence of his passion for the subject. Nor can anywhere else in the region be
+said to have fared any better in this respect. The provision of a time service was
+a very important duty in the early days of these observatories, especially at ports
+with major shipping traffic such as Shanghai and Hong Kong. Indeed it was
+the very raison d’être for the founding of the latter observatory. The demands
+for such a service can be seen from the total numbers of vessels entering and
+leaving Hong Kong: in 1885, 27 100 (344 sailing), in 1900, 82 500 (78 sailing)
+and in 1912, 489 000 (1 sailing), with respective tonnages of 5.66 million, 18.45
+million and 36.74 million. But from the intellectual point of view there was
+nothing new to be learned from this pursuit and, as it happened, the growth of
+telegraphy meant that the importance of locally establishing the time steadily
+declined.
+	
+Seismology, in general, had a more particular local interest but, more
+relevantly, the subject was far from being easily understood and, at the same
+time, was of little practical application. Only true devotees were involved. The
+most intriguing subject in our purview of subjects studied in the observatories
+is terrestrial magnetism. The magnetic compass was an essential of navigation,
+both by sea and surface, and an accurate map of the geomagnetic field was a
+prime necessity, but the study of magnetism went far beyond such a pedestrian
+requirement. The analogue, in the nineteenth century, of a modern hightechnology laboratory was a geomagnetic observatory. No expense was spared in
+furnishing such laboratories world-wide with the most sensitive of instruments,
+monitoring the time variability of the components of the earth’s magnetic field.
+Once set up, such a laboratory was relatively easy to maintain, but did require
+a dedicated observer to supervise the observations. It must often have seemed
+a thankless task, but they contributed to the very foundations of the subject of
+geophysics, one might almost say, when correlations with solar conditions are
+acknowledged, cosmic physics.
+	
+Meteorology, however, was the paramount subject justifying the existence
+of these observatories. Not only did the expansion in sea and, later, air travel
+mean that it came to play an increasingly important role, but there was much
+that was new to be learned. This was especially the case with regard to storms
+
+
+
+	
+
+Nineteenth-Century Observatories	
+
+11
+
+in the Pacific and the China Sea, which were such a source of destruction to life
+and property both on land and on sea. It is recorded that on 17 July 1281 a fleet
+of 3500 ships assembled by the Mongol emperor Kublai Khan for an invasion
+of Japan was totally destroyed by a typhoon off the coast of Kyushu, and it was
+reported that only three of the 100,000 men aboard made it back to China.
+Storms in Europe, the Indian Ocean and the Antilles had been extensively
+studied by the middle of the nineteenth century and it remained to establish
+their nature and properties in the Far East. The historical importance of all
+the observatories in that part of the world lies almost entirely in the advances
+achieved by their pioneering staff in understanding such meteorological
+phenomena, and in weather forecasting.
+
+The Earliest European Institutions
+The Russian Observatory at Peking
+The earliest of the European-run meteorological services in Asia was a small
+unit attached to the Russian Orthodox Mission in Peking from 1841. In 1849
+this was expanded to a magnetic cum meteorological observatory which was
+constructed on the grounds of the Embassy, and it recorded data sporadically
+until 1863.27 In 1867 the Academy of Science in St. Petersburg took over the
+operation and dispatched Dr. Hermann Fritsche as director of the Peking
+Observatory. For the next sixteen years Fritsche coordinated a systematic
+programme of magnetic and meteorological observations, some of them at
+stations away from Peking. In 1877, at Shanghai, he published The Climate of
+Eastern Asia, the first substantial work (230 pages) on meteorology in that part
+of the world. It is perhaps a surprise to find Fritsche decrying the adoption of
+the metric system by European meteorologists (which, perforce, he had to use
+himself) since he was of the opinion that the French system differed more from
+the so-called natural measure than the English, and only ‘France with its small
+territory’ would be at a disadvantage if English standards were used.28 Much of
+his book is devoted to tables of temperature, pressure and cloud cover (minima,
+maxima and means), mostly at North Asian locations but including Shanghai,
+Fuzhou, Keelung, Canton, Hong Kong and Bangkok. We shall have cause to
+refer to it from time to time later.
+
+
+
+12	
+
+Early China Coast Meteorology
+
+The Imperial Chinese Customs: Robert Hart
+An important figure in early meteorology in China is Robert Hart, the inspectorgeneral of the Imperial Chinese Maritime Customs. The Chinese Maritime
+Customs, later when amalgamated with the Qing office of foreign affairs (the
+Tsungli Yamen), the Imperial Chinese Maritime Customs, was originally set up
+in 1854 as a foreign-operated institution by the Shanghai municipal authorities
+and the foreign consuls in the city. Although later formally part of the Qing
+administration, the British always retained a dominant position in the unit. 		
+	
+Hart, an Irishman, was its long-serving second head (1863–1910). In the
+event, his efforts in meteorology, always but a very small part of his portfolio,
+were of much value, although much less successful than he had hoped for. Hart
+had already coordinated the customs medical officers at stations in the treaty
+ports into a data-gathering body for providing half-yearly reports, which went
+on to become a very successful operation.29 Encouraged by this, and mindful that
+climatic factors was one of the categories encompassed in that work, in November
+1869 he devised a similar plan to encompass meteorology in the Empire.30 He
+wrote to the commissioners at fourteen Customs stations informing them that
+he intended a meteorological station to be associated with each Customs office.
+They would be equipped with the necessary apparatus, and ‘two or three simple
+books on Meteorology etc’. He originally saw the collection of data would also
+be done by lighthouse keepers at the many new lighthouses established along
+the coast. They would report, at least initially, to a meteorological department
+under the statistical secretary and the marine secretary, resident at Shanghai,
+although he hoped that ‘in a few years these meteorological stations will … have
+at their head an observatory to be established in connection with the Peking
+college [Tongwen Guan]’. The Tongwen Guan, originally founded in 1862 as a
+college for interpreters, was later expanded and became the premier venue for
+the expansion in the teaching of mathematics and the physical sciences in the
+country. It was under the administration of the Customs Service.
+	
+It was not until four years later that Hart became really enthusiastic about
+encompassing meteorology in the Custom Service’s activities, observing that:
+‘the Medical Reports are a success … the meteorological observations and
+exchange of weather-news will, in time, fill up the gap and help to give the West
+sets of facts concerning the East that must prove most useful to scientific men’,31
+and ‘if comparative meteorology is to accomplish anything anywhere anyday, I
+fancy our Stations will be as near the front as any others. I seem to have kept
+it back until just the right moment’.32 He would be sorely disappointed. He
+took steps to equip these stations. In March 1873 he asked J. D. Campbell,
+his agent in London, to consult with the astronomer royal on the required
+instrumentation, of which twenty sets would be purchased. Twelve sets were to
+
+
+
+	
+
+Nineteenth-Century Observatories	
+
+13
+
+be sent, he hoped by August of that year, to Shanghai, and eight to the Customs
+agent in Hong Kong,33 but later, on 29 May, he speaks only of twelve sets to be
+sent to the ‘cosmopolitan stations’.34 It is almost certain that his original idea to
+have sets of instruments sent to Hong Kong was not followed up, for reasons we
+cannot discern.
+	
+The unknown context, however, may explain a certain coolness detectable
+in his attitude later to the observatory established there; he appears to have
+had no input in the setting up of the observatory. He also wished his proposal
+to be made widely known among scientific circles at home, although he was
+not convincingly clear as to what would be achieved, at one time writing: ‘find
+out if there is any special line in which such stations can be made useful —
+either to established receptacles of knowledge, or to isolated experimentalists,
+specialists, etc.’ and at another: ‘here … there is a movement under way to
+assist science and give shipping the benefit of the information supplied by daily
+observations’.35 For a man educated in the liberal arts (Greek, Latin, English
+literature, modern languages, etc.) at Queen’s University, Belfast, Hart always
+showed a shrewd scientific sense, here wanting to know: ‘which will be the best
+hours to take [the observations] and what will be the very smallest number to
+be taken daily to be compatible with utility’. By May of that year he had drawn
+up an ambitious list of sites along the Asian coast accessible by telegraph where
+he hoped to have meteorological stations established — Posiet (Vladivostock),
+Yokohama, Nagasaki, Newchwang, Hankow, Lamock Islands (near Shantou),
+Hong Kong, Manila, Saigon, Bangkok, Singapore and Batavia, and had written
+to the relevant authorities in this context. Already, he reported, the ‘Chinese
+Customs are going to send weather news by telegraph every morning from
+Shanghai to Hong Kong, Amoy and Nagasaki’.36 Some of the instruments arrived
+at Shanghai by early December, ‘two whole and four smashed barometers’, but
+these broken instruments were not his only difficulty.
+	
+Others were to arise on two fronts, with the Chinese authorities — perhaps
+not unanticipated — but also apparently, elsewhere. In his letter to Campbell,
+on 18 October 1873, he writes: ‘The [meteorological] work can be put off for
+another year: it will be better to begin well than to begin badly. You may be
+on the lookout for a meteorologist: but do not engage one until you have my
+positive orders to do so. I do not quite like the intensity of “Brother J’s” interest:
+to me it looks like a desire to take the lead out of our hands, and I shall not
+authorize you to visit W. for the present’.37 A month later he is writing: ‘we’ll
+have to go at Meteorology very gradually’38 and in December: ‘Meteorology
+will not be in working order for two years more: but “Hart” is long, if time is
+fleeting’. If we take the identification by the editors of the letters, of ‘Brother J’
+with John Bull, i.e. England, and ‘W’ with Whitehall, it seems that the Colonial
+Office, with which Hart had no official relations, was taking an interest in the
+
+
+14	
+
+Early China Coast Meteorology
+
+matter — here, perhaps, lies another possible explanation for the total absence
+of any reference to Hart in the setting up of the Hong Kong Observatory. An
+antagonism in this direction is also suggested by Hart’s unfavourable opinion
+of a Mr. Wodehouse who applied for a meteorological position, ostensibly
+because he was an amateur, but, as the editors of his letter suggest, the fact that
+Wodehouse was ‘a man of very high standing in the Colonial Service’ did not
+endear him to the inspector general.39
+	
+Campbell informed Hart of the high opinion of Mr. Blanford, the
+meteorological reporter for Bengal, of his scheme: ‘but thinks it too “ambitious”
+and fears it will fail unless you can get a man, who thoroughly understands
+such work, to carry it out’.40 He finally decided that the data from the chain
+of coastal stations would be channelled to the head station in Peking and the
+programme directed by an astronomer stationed at the Tongwen Guan. A very
+suitable candidate for the astronomer’s post was found, one Ralph Copeland,
+and in a letter to Campbell of 30 September 1874, he writes: ‘Herewith authority
+to appoint Copeland … the “Chair” means schoolmaster’s work, … life in
+China has many drawbacks: on the other hand it is possible that if he “takes
+well”, he may make a career, for the Chinese have an immense reverence for
+Astronomy’.41 Mr. Copeland had some short-term plans, including a visit to
+Mauritius for observing the transit of Venus in late 1874, but such a delay was
+deemed acceptable and, for Copeland, turned out to be fortunate, for when
+the time came around that he was free to go to China the whole scheme had
+fallen through. The Chinese authorities appear to have had a change of heart,
+probably a reluctance to see further encroachment by foreigners in its territory
+in a sensitive field, though not so explained by Hart when he wrote to Campbell
+in January 1876 that: ‘the Yamen has backed out of its desire to have a Professor
+of Astronomy and says we must wait. I tell them they have lost such a chance
+as they’ll never have again. They reply. “There’s corn in Egypt”.’42 No more is
+heard of his proposal. Copeland went on to a distinguished career: professor
+of astronomy at Edinburgh and eventually astronomer royal for Scotland. As
+will be seen later, after 1882 the Jesuit observatory at Zikawei took over the
+coordination of data monitored by Customs officers along the coast, while
+the founding director of the Hong Kong Observatory was to come across the
+meteorological instruments, still stored unboxed, in the Custom Houses at
+Shanghai and Xiamen in the autumn of 1883 to begin a new phase in the story.43
+	
+The attitude of reluctance of the Chinese Imperial government in respect
+of making use of foreign expertise contrasts with that of contemporary Meiji
+Japan, where foreigners were conscripted, at very attractive rates of pay, but for
+just such duration as enabled their expertise to be transferred to local students.
+A notable example was the unemployed ex-master of the Hong Kong Mint,
+Thomas William Kinder, whose salary as director of the Osaka Mint in 1870
+
+
+
+	
+
+Nineteenth-Century Observatories	
+
+15
+
+was 50% more than that of the Japanese prime minister. There was also in
+China a failure to abjure traditional thinking. What one writer has described as
+‘moral meteorology’ still held a place in Imperial decrees, where the visitations
+of unwelcome climatic conditions was attributed to objectionable behaviour by
+the local population or their officials.44 As late as 1870 the emperor in a decree
+blamed floods, droughts and deficient harvests on unhappiness in heaven with
+officials, great and small, in this echoing the earlier ‘moral meteorological
+analysis’ of the Yongzheng Emperor:
+We are of the opinion that although icy hail commonly occurs in the
+northern regions, yet the disasters suffered by the villages of Xuanhua
+seem uniquely severe, and rarely seen in recent times. It is evident that
+Heaven Above has been sending signs again and again to warn Xuanhua.
+If by any chance the local officials or common peoples regard these as
+accidents due to natural causation then they are inferior people who do
+not know how to tremble in fear and reflect on their transgressions.45
+
+	
+In summary, it may be said that Hart overreached himself in his enthusiasm
+for meteorology, but his efforts were not totally in vain. Although lacking
+any formal integrating structure, meteorological recordings at the Customs
+stations were begun. Fritsche presents sporadic data on temperature and
+pressure, starting in 1871 from Imperial Maritime Customs stations at Chefoo,
+Newchang, Taku and Kelung. However, he considered the observations not of
+very great use, ‘being very incomplete, and obtained with instruments whose
+corrections are not known’.46 Some further information on observations made at
+the treaty ports is available in a recent publication.47 When Doberck arrived on
+the scene at Hong Kong some use could be made of the archived instruments,
+and data from the Customs stations were later to play an important role in the
+development of synoptic meteorology in the region. However, the prosecution
+of meteorology in a professional manner in China would have to wait a few
+years more until the establishment of the Zikawei Observatory at Shanghai by
+the Jesuits in 1873.
+
+The Established Observatories
+In the Europe of the eighteenth and nineteenth centuries the attraction of distant
+parts for students of the botanical and zoological sciences was obvious, as much
+from the point of view of gainful pursuit as the pursuit of pure science itself.
+And, indeed, such studies were enthusiastically pursued in the newly acquired
+colonies in both contexts. The case of the physical sciences was not so clear cut.
+By and large, exotic locations did not offer an advantage in studying them and
+their pursuit ‘overseas’ hinged very much on their utilitarian value. This aspect
+
+
+
+16	
+
+Early China Coast Meteorology
+
+of the history of science has been vigorously promoted by commentators on
+‘colonial science’ in recent times, and, indeed, the argument may be valid, but
+it certainly needs more investigation than it has received heretofore.48 Before
+looking into the observatories that had an important impact on the one that was
+to develop in Hong Kong, it is interesting to look briefly at some other related
+institutions.
+	
+The nineteenth century brought a flourishing of scientific-related activity
+generally and advances in meteorology became important from a practical point
+of view. However, it is with a brief consideration of geomagnetic monitoring that
+we introduce the ‘overseas’ observatories. Following C. F. Gauss’s suggestion
+of a systematic study of the earth’s magnetic field, an international array of
+monitoring stations was supported by the British government — the earliest
+example of what would later be termed a ‘campaign’. Under the supervision
+of Edward Sabine at the Royal Society, stations at Toronto, South Africa,
+St. Helena and Van Diemen’s Land (Tasmania) — the ‘Colonial Observatories’
+— were equipped with instruments designed by Humphrey Lloyd in Dublin.
+They monitored the field hourly (and for short periods, every few minutes),
+for a period of at least three years between 1840 and 1850. Meteorological
+observations did tag along — the temperature, in particular, was required for
+reducing the magnetic data — but otherwise it was a low priority concern. These
+colonial observatories were the prototype for later meteorological observatories,
+notably those at Mauritius and Hong Kong.
+	
+There were observatories at Madras and at Bombay but the most influential
+of the early observatories in the Indian Ocean, and one which could play a role
+model for a similar establishment at Hong Kong, was that operating at Mauritius.
+Time-keeping, meteorology and geomagnetic recording were practised at a
+public observatory on the island of Mauritius from as early as 1831, but it was
+1874 when The Royal Alfred Observatory attained the status of a government
+department and became operational. Its first director was Dr. Charles Meldrum,
+a pioneer in the study of tropical storms. There was a lot of maritime traffic
+in the Indian Ocean, and good seamen’s practice was that the meteorological
+situation should be regularly recorded in the ship’s log. Among the important
+parameters were the barometric pressure, the wind strength and direction, and
+the temperature. When later reduced and collated, such data, when combined
+with observations from the islands of Rodrigues, St. Brandon, Agalega, Diego
+Garcia and the Seychelles, enabled charts, so-called synoptic charts, of the
+situation at some earlier times to be drawn, which, if without direct forecasting
+potential, could reveal some useful information. On such a basis Meldrum
+first established the spiral motion of the wind inwards towards the centre of a
+tropical storm.49 This study gave rise to the well-regarded ‘Meldrum’s rules’ for
+sailors when encountering such a storm.50
+
+
+
+	
+
+Nineteenth-Century Observatories	
+
+17
+
+	
+East Asia provided a notable void in the availability of global climatic data
+from before about 1875 — data which would be of considerable contemporary
+interest in the context of assessing the status of global climate change.
+Quantitative meteorology only became a subject of organized study from about
+that time.
+
+The Philippines
+Of all the external institutions that were to have an impact on the study of
+meteorology in Hong Kong, none rivalled in importance the observatory at
+Manila, even if the first director of the Hong Kong Observatory did not quite
+see the relationship in this way. By the mid-nineteenth century the extent of
+the great Spanish empire had dwindled to a few remote colonies. Although the
+Philippines was the largest of these, it was very much neglected, and education
+was poorly provided for. There were universities, but science was totally
+lacking from their curricula. The setting up of observatories under Spanish
+and French control fell to the private sector, in the guise of Jesuit missionaries.
+Suppressed for forty-one years from 1773 — at a time when they controlled
+thirty astronomical observatories — the Society of Jesus was re-established in
+1814 and steadily reclaimed the ground it had occupied in the intellectual world
+in the seventeenth and eighteenth centuries. Harnessing advances in scientific
+knowledge in the cause of evangelization, as they had done with astronomical
+knowledge at Peking in earlier years, they set about establishing institutions of
+learning in various parts of the world. The first half of the nineteenth century
+had seen major advances in the field of meteorology which elevated it to a
+subject of great practical utility and thus recommended itself as a vehicle for
+their aims, much as a later generation of missionaries would see medical skills
+as an opportunity in the same cause.
+	
+Meteorological recordings in the Philippines were started, as a hobby, at
+the Ateneo, the Jesuit school in Manila, by Fr. Francisco Colina in 1860. Colina
+began publishing his observations in a local newspaper and these, together with
+the passage of a major typhoon over the city in 1865, stimulated local interests
+to contribute for the provision of meteorological instruments. These enabled
+regular monitoring and forecasting to be carried out from that year onwards, and
+the operation informally became known as the ‘observatory’ and Fr. Colina as
+its ‘director’. The importance of the school as a meteorological observatory dates
+from 1866, with the arrival there of Federico Faura, who put the Observatory
+on a firm footing.51 Faura’s first interest was astronomy, and with two assistants
+he joined a Dutch team to observe a total solar eclipse in 1868 on the small
+
+
+
+18	
+
+Early China Coast Meteorology
+
+island of Mantawalok in the Celebes.52 They were brought there on a British
+ship under a Captain Charles Bullock, who also reported to London on his
+observations of the phenomenon. The attention of Europe to an observatory
+operating in Manila was drawn by the results of the photographs taken by
+the Manila priests being published in Rome by the leading astronomer Pietro
+Angelo Secchi.53 Faura then returned to Europe for seven years, spending time
+with Secchi in Rome, and at the Stonyhurst Observatory in England. Stonyhurst
+at the time was one of the seven first-class meteorological stations of the British
+Meteorological Office and had a well-known observatory for geomagnetism. He
+returned to Manila in 1878 to become director of the Observatory, a position he
+held for ten years. He immediately began his investigations into typhoons. His
+timely warning of the approach of major typhoons on two occasions in 1879
+greatly raised the prestige of the Observatory.
+	
+The study of meteorology, and especially the role of weather forecasting,
+had been revolutionized in Europe and North America from mid-century by
+the introduction of cable telegraphy. The possibilities of this new technology
+in East Asia were not as readily realized, but from 1 May 1880 Manila was in
+telegraphic contact with Hong Kong. Knowing of the Observatory’s expertise in
+storm warning, the government of Hong Kong requested their forwarding to the
+port, and this led the Spanish governor of the Philippines to set up a committee
+to look into the matter generally. The result was a proposal, drafted by Faura,
+to establish a government-supported meteorological service, to be managed by
+the Jesuits. It took the home authorities in Madrid three years to take action
+and grant the Observatory official status as headquarters of the Meteorological
+Service of the Philippines. In 1886 it moved out of the old city to occupy several
+buildings which were part of a newly constructed school in Ermita. At that time
+it embraced ten other monitoring stations in the islands.54 The Observatory
+was divided into four sections, for meteorology, astronomy, geomagnetism and
+seismology, respectively. Equipped with a meridian telescope by Dollond, the
+Observatory assumed responsibility for official time-keeping in the Colony
+in 1885, dropping a time-ball at noon daily, which was followed by a cannon
+shot in the Manila harbour. From 1880 Faura had regularly sent messages to
+Hong Kong, so that his observatory was seen as an important complementary
+component when plans for an observatory were being drawn up there in 1881.
+In the context of these messages, we will later have more to say on Fr. Faura,
+his successor José Algué and the Manila Observatory. Faura was succeeded by
+José Algué in 1897; Algué had studied at Georgetown University with Hagen
+and had worked with the distinguished meteorologist Vines in Havana. In 1901
+the American administration entrusted the direction of the new Philippines
+Weather Bureau to the Observatory, with Algué as director.55
+
+
+	
+
+Nineteenth-Century Observatories	
+
+19
+
+China: Zikawei
+French contributions to systematic meteorology in the East centre on Shanghai,
+and to a lesser extent on their colonies in Indo-China, the former, courtesy
+of the Jesuits. Notwithstanding the fact that for 150 years they had served as
+directors of the Imperial Observatory in Peking, the beginnings of a revived
+scientific presence by the Jesuits in China, almost contemporaneous with those
+in Manila, were similarly modest. The role of some early French Jesuits in
+meteorological observations at Peking has been described above. When they
+returned to China in 1842 they started with a college and seminary at Zikawei,
+a suburb of Shanghai (now in Shanghai city proper). Starting in 1868, under the
+direction of Fr. P. M. Heude, they developed a museum of natural history, the
+first of its kind in China, which attained international recognition. Following
+that, in 1873, they again started reporting meteorological observations. Some
+observations from Shanghai in the period 1848–53 and in the late 1860s also
+exist.56 In August 1872 they decided to establish a Jiangnan Association for
+Science — Jiangsu and Anhui constitute the diocese of Jiangnan — which
+would incorporate a meteorological observatory at Zikawei under the direction
+of Fr. A. Colombel.57 The Observatory was equipped with a barometer (Fortin),
+maximum and minimum thermometers and a psychrometer of French
+manufacture, all calibrated at the Observatory of the Meteorological Society of
+Paris, and started publishing data from January 1873 in a Bulletin Météorologique.
+The bulletin’s ornate banner reading ‘A. M. D. G.’ [Ad Majorem Dei Gloriam], the
+motto of the Jesuits, was the only indicator of any evangelical content.
+	
+The professionalism of a modern observatory, however, only dates from
+the following year when Marc Dechevrens arrived to take up the directorship,
+and lead it to recognition as a first class observatory. Dechevrens, a sometime
+teacher of physics in the Jesuit College Vaugirard in Paris, spent three months
+before embarking for the East at Stonyhurst Observatory, familiarizing himself
+with meteorological and geomagnetic observing practices. In June 1874 he
+reported his first measurements of the magnetic field at Zikawei.58 Like his
+contemporary Faura in Manila, Dechevrens took a keen interest in typhoons,
+and on the basis of a major one that struck Shanghai in 1879 wrote a detailed
+study of the storm and its effects, including an early trajectory for such a storm,
+which won favourable comment. These developments led the International
+Chamber of Commerce in Shanghai to suggest the possibility of Dechevrens
+heading up a typhoon signal service for the city and the coast. They would
+provide some support for his work, and it was expected that Sir Robert Hart and
+the Chinese Maritime Customs Service would supply the Zikawei Observatory
+with regular meteorological observations from the coastal stations. Together
+with data collected from ships and lighthouses, and reports from Manila and
+
+
+20	
+
+Early China Coast Meteorology
+
+Tokyo, Dechevrens was able to publish a pamphlet giving an account of the
+typhoons of 1882. For the first time in that part of the world, in the words of a
+reviewer in Nature, he ‘has been able to … trace the history of several typhoons
+from their cradle in the equatorial maritime regions to their grave in the North
+Pacific Ocean’.59 We shall return to this project later.
+	
+From 1884 a time service was provided for ships in the Shanghai harbour,
+using a Billant equatorial telescope for calibration, by dropping a time-ball at the
+Observatory at noon, and firing a cannon from the harbour. In 1884 Dechevrens
+devised a storm warning system, which was to be widely used in the region, and
+which could be transmitted to the harbour at Shanghai via a newly installed
+telegraphic link with his observatory.60 Despite the frosty attitude of Doberck
+in Hong Kong, the Zikawei Observatory, with some financial assistance from
+Chinese and English insurance companies, would establish itself as the premier
+meteorological observatory in the East. Under the leadership of Stanislas
+Chevalier and, especially from 1897, Louis Marie Froc, its operations embraced
+most of East Asia. By 1904, Zikawei was receiving 150 telegraphic bulletins
+daily from 60 stations, ranging in latitude from Yap (9° 25´N) to Tomsk (56°
+30´N), 14 from Japan and Formosa, 11 from Siberia, 6 from Indochina, 6 from
+the Yangtze valley, and 11 from the China coast, among others. It took one
+Jesuit the better part of a day to make sense of them and prepare the forecast.61
+The Observatory’s activities in magnetic monitoring and in astronomy would go
+on to become major autonomous operations.
+
+South-East Asia
+Above and beyond the Jesuit contribution, there were some more official
+French contributions to meteorology in the region. Dr. Alfred-Emile Borius,
+the surgeon general in Tonkin, was also an enthusiastic amateur meteorologist
+who had worked in Africa. He was charged with setting up a meteorological
+service in 1884 for Indochina based on Haiphong. Although he was dead within
+a year, he had already established regular telegraphic contact with the Hong
+Kong Observatory, and was exchanging observations twice a day with them.
+According to the Hong Kong Daily Press in 1884, he acknowledged ‘information
+about typhoons from here, the necessity for which was made apparent by the
+disastrous typhoon of 8 July [1884] that ravaged Haiphong, the course of which
+was forecast here by the Government Astronomer, whose subsequent telegrams
+Dr. Borius states to have produced great effect and to have convinced the most
+skeptical’.62 From a meteorological point of view, Hong Kong stood in relation
+to Indochina very much as Manila stood in relation to Hong Kong; important
+
+
+
+	
+
+Nineteenth-Century Observatories	
+
+21
+
+traffic was to a large extent one way. Apart from dispatching routine readings
+by telegraph, no great activity there followed Borius’s death until the end of the
+century. The French administration then decided on a more comprehensive
+meteorological service and, in 1898, employed the services of the experienced
+Fr. Froc from the Zikawei Observatory to identify a suitable location for an
+observatory, and engaged his help in designing the observatory buildings.
+His choice of Phu Lien, nine kilometres south of Haiphong, became the site
+of the Phu Lien Observatory (also known as Tonkin Observatory, Haiphong
+Observatory). Apart from the major observatories in the East, it also received
+reports from French observers in Yunnan, Guangdong and Guangxi, but it
+was 1905 before it was fully operational, too late to make much impression
+on our story.63
+	
+A Magnetical and Meteorological Observatory at Batavia was started in
+1875 under Dr. Pieter Adriaan Bergsma as director, but he died en route to the
+Netherlands in 1882. For most of the time 1883–99, although well funded, it
+lacked consistent leadership (part of the time under J. P. van der Stok), and it
+only gained fame from the early years of the twentieth century onwards.64 It
+never had telegraphic connection with Hong Kong.
+
+Japan
+Although not strictly a component of the ‘colonial observatories’, early
+instrumental meteorology in Japan was largely in the hands of expatriates. The
+country in these early days played but a small role in regional meteorology.
+Only after the Meiji Restoration in 1867 did instrumental meteorology gain
+a foothold there. Hakodate Meteorological Station started in 1872. Europeans
+and Americans, no less than in the Philippines or China, played the lead
+role in this development, in the guise of yatoi, specialists recruited by the
+Japanese government to facilitate the entry of modern scientific methods into
+the administration of the Empire. Previous recordings of meteorological data,
+by visitors, were much less common than in the case of China because of the
+severely limited mobility of foreigners in the country. However, in recent years
+some early records have been located. Some data for Nagasaki and Tokyo (Edo)
+collected by a German doctor serving with the Dutch colony at Nagasaki from
+1819 to 1828 survive, and there is a series of data from 1839 to 1855 recorded in
+the native observatory at Tokyo devoted to maintaining the calendar. The Dutch
+themselves started recording basic climatic data on Dejima Island (Nagasaki) from
+1845.65 The earliest comprehensive recordings of meteorological parameters are by
+Erwin Knipping, and date from 1872. Dr. Knipping was a German mathematician
+
+
+
+22	
+
+Early China Coast Meteorology
+
+at the University of Tokyo and he took a professional approach to the subject.
+Starting with data from October 1872, he regularly published monthly
+summaries of meteorological parameters (and sometimes daily observations)
+and his data were widely distributed.66 He also published some material
+on typhoons related to those islands. Later, Thomas Corwin Mendenhall,
+a professor of physics in the same university also started publishing
+meteorological recordings. The Tokyo Meteorological Observatory was set up
+in 1875, followed by observatories at Osaka (1883) and Kobe (1897). Storm
+warnings were hoisted, starting from 1883.
+
+Early Meteorology in Hong Kong
+Anecdotal records of some of the great storms in the counties adjacent to Hong
+Kong from the Song to the Qing dynasties (thirteenth to nineteenth century)
+have been preserved.67 In July 1841, in the earliest stages of the settlement by
+the British, a major typhoon struck, for which we have vivid reminiscences68
+and, according to Eitel its near-annihilation of Hong Kong brought rejoicing
+in Imperial circles.69 If we ignore the very cursory observations by Meyen
+on Lantau in 1831, the earliest recorded readings were made by the British
+authorities. From day one of their occupation they monitored the basic
+meteorological parameters and as early as 1845 published in The Friend of China
+and the Hong Kong Government Gazette a ‘Meteorological Register’. A summary
+of the earliest data has been given by Ho.70 Both the locations and the times
+where the observations were made changed over time. More devoted attention
+to meteorology resulted in a network of seventeen stations across the globe,
+including Hong Kong, under British Royal Engineer officers being established
+in 1851, later (1 April 1862) transferred to the Army Medical Department.
+Climate at the time was seen as a major factor in medical conditions. Some
+of them, including Hong Kong, reported until December 1884, when the
+operation was disbanded.71 These observations were, it seems, sometimes made
+in parallel with other observations. The Hong Kong Government Gazette was set
+up in September 1853, and from 29 April 1854 carried systematic reporting
+of these observations in the form of monthly averages (at five recording times
+daily) of pressure, wet and dry bulb thermometer, and associated dew point and
+humidity for the previous year taken at the Seamen’s Hospital in Wanchai. A Dr.
+James B. Thompson addressed some remarks on the climate of Hong Kong at a
+meeting of the Royal Geographical Society in London in 1845, but he focused
+mainly on the precautions Europeans should take to avoid illness.72 The first
+published summary of the climate in Hong Kong seems to be that of a Dr. Smart
+at the Royal Naval Hospital in 1863, but he gives no information on typhoons.73
+
+
+
+	
+
+Nineteenth-Century Observatories	
+
+23
+
+He analyzed the local data, pressure and temperature from 1853 to 1858. He also
+compared the average of this six years’ temperature data with those reported
+from Macao by Beale twenty years before, noted earlier, and commented on a
+‘great want of accordance’. Seeing that he could find good agreement between
+current data from Hong Kong and Canton, he concluded that ‘in the Macao
+series the instruments used may have been less exact than those with more
+modern improvements’. This illustrates just one of the many pitfalls modern
+day climatologists have to circumvent in their study of past records.
+	
+Quite detailed reporting of meteorological parameters in the Gazette began
+in February 1861 when bi-daily (9 a.m., 3 p.m.) readings at the Government
+Civil Hospital (later Government Lock Hospital) for every day in the previous
+month were presented as ‘Meteorological Tables’ and continued, with only
+slight interruption, until the opening of the new observatory in 1884.
+Considering that they could hardly have served any practical use in the colony
+and were presumably offered as a contribution to the cause of pure science, the
+regularity, usually weekly, with which the data were published is impressive.
+They were sometimes summarized in global compilations, e.g. in 1863 the
+average monthly temperatures, as by then established, were published in the
+Philosophical Transactions of the Royal Society.74 But as with the data from other
+stations, it is not clear to what other purpose they obtained. To quote one
+writer: ‘it is possible that the Army Medical Department put them to practical
+use, but it seems more likely that they were stored on a shelf and forgotten’.75
+In parallel with these data, from 24 November 1860 the Gazette every week
+printed ‘Weather Tables’ (from July 1876 titled ‘Meteorological Observations’)
+which contained data taken three times a day, at 6 a.m., 12 and 6 p.m. Initially the
+measurements were of the temperature and pressure as recorded at the Harbour
+Master’s Office on Queen’s Road and on the Peak, but they were eventually
+extended to include dry and wet bulb thermometers, maxima and minima, the
+wind and the weather, and to include reports also from Police Gap Station,
+Stonecutter’s Island and Cape d’Aguilar. From May 1876 the Daily Press also
+carried a ‘China Coast Meteorological Register’ which gave data for the previous
+day at Hong Kong, Shanghai, Xiamen and Nagasaki. There was thus no scarcity
+of recorded data, but the practical utility of the efforts must be questioned:
+published figures were never less than a week old, and usually much longer
+after the event. The quality of the data was also questionable in some cases;
+certainly the future director of the Observatory did not have a very high opinion
+of its reliability.76 A summary of some of the results is given by Ho.77 In terms
+of the acquisition of basic meteorological data the existing arrangements by
+the end of the 1870s were probably adequate or, at most, required some closer
+supervision of the instruments used.
+
+
+
+24	
+
+Early China Coast Meteorology
+
+	
+What was not adequately provided for was any kind of forecasting, and
+especially warning of, approaching typhoons. This was illustrated by the case
+of a big typhoon that struck Hong Kong in September 1874 and claimed more
+than 2500 victims. In his history of the times, Eitel, a witness to the event, gives
+a colourful account of it.78 An account of the storm was also carried in Nature,
+which claimed, inter alia, that an earthquake occurred while the typhoon was
+raging.79 This was based on the fact that several public clocks stopped at the
+same time, just the time when the storm was registered at being at its peak.
+This was not the first suggestion of the possible association of an earth tremour
+with a typhoon, but none of the evidence was unambiguous.80 The prominent
+meteorologist and author, Piddington, had drawn attention to the need for
+study of the matter, but his work seems to have been overlooked by the Nature
+columnist. Some years later, in 1894, Fr. Algué in Manila hit upon microseismic
+movements as possible precursory signals for a typhoon and devoted a chapter
+to them in his book.81 The Manila observatory was doing seismic monitoring
+at the time, taking readings of a tromometer (a primitive seismograph) every
+hour. From his own observations on several storms Algué argued that the main
+disturbances occurred when the storm was over land, and in particular when
+it was incident on a mountain range. It would be many more years before it
+became established that microseisms can be produced, mainly by the oceanic
+convulsions which result from cyclonic storms. Indeed these disturbances can
+now be used to estimate the locations of typhoons over the sea. It is likely
+that such travelling microseismic disturbances will act as a trigger for a more
+significant tremour in a region where critical crustal stresses already occur.
+	
+An alternative proposal for the association of seismic movement with
+typhoons is the proposal that a sudden release of pressure, as would occur
+when the eye of a typhoon passes over land, may play a similar role in releasing
+pent-up stresses. The latter hypothesis, now seldom embraced, was especially
+propounded by Fr. Ernesto Gherzi, a later director of Zikawei, and post-1949 a
+member of staff of the Hong Kong Observatory.82 This has been an opportunity
+to mention, however briefly, the aspect of seismology in an observatory and to
+note that we will not be returning to it. Although obviously of great importance
+in places like Japan and the Philippines, in the days before nuclear power
+stations were contemplated it was realized that little practical benefit to the
+Hong Kong community could accrue from a pursuit of this discipline. There
+were occasional, fleeting references to the introduction of seismology into the
+future Hong Kong Observatory, notably efforts in 1898 from London to establish
+seismic monitoring. This was aborted, ostensibly on the grounds of the, not
+very large, cost, but with the hand of the governor strengthened by the director’s
+reluctance to get involved, citing lack of space and shortage of manpower at
+the Observatory.83 It would be 1921 before instrumentation appropriate to the
+
+
+	
+
+Nineteenth-Century Observatories	
+
+25
+
+study of the subject would be installed in the Colony. The memory of the great
+storm of 1874 was still very much alive when proposals came to be floated for
+an observatory in Hong Kong.
+	
+Compared to the Indian Ocean and the Caribbean, knowledge of cyclonic
+storms in the China Sea by the mid-1870s was very incomplete. It is clear that
+at the time a very promising field of study was waiting to be undertaken. The
+coordination of meteorological monitoring in Hong Kong was in the hands of
+the harbour master, and it is from his office that the first mention of a practical
+aspect of meteorological monitoring appeared, in the form of a notice of
+proposed storm warnings published in the 4 August 1877 issue of the Gazette:
+In the event of bad weather being apprehended by this Department, a
+black drum will be hoisted at the Office Flagstaff. A similar signal will be
+hoisted and a gun will be fired from the Police Hulk.
+The usual signs of approaching bad weather are a falling Barometer
+with high Thermometer, sultriness of the atmosphere, wildness and
+discoloration of the clouds, and birds flying about in unusual numbers.
+Should these symptoms exist and the wind be anywhere between NorthWesterly and North-Easterly, a typhoon of a severe type may be looked
+for.
+The same indications of bad weather with the wind between SouthEasterly and South-Westerly, a typhoon may be known to be in the
+neighbourhood, but not likely to be severely felt at Hong Kong.
+
+This was repeated, essentially unchanged in 1878, 1879, 1880 (also now in
+Chinese — there was some Gazette notification in Chinese in earlier years, e.g.
+28 April 1858 related to rates payment, but only in the administration of Pope
+Hennessy, from 1 January 1879, was regular notification of items considered of
+interest to the local population given in Chinese in the Gazette), 1881, 1882,
+1883. These warnings were basically for the information of mariners so they
+could decide whether or not to set sail. More local warning signs familiar to the
+commercial and boat populations were not countenanced.
+	
+The weather was not the only factor which motivated the maritime
+community to seek an observatory. The availability of a reliable time signal at
+the port of Hong Kong was also a high priority and it was this requirement, as
+we will see in the next chapter, that acted as a trigger in moving officialdom to
+consider the setting up of such an institution.
+
+
+
