@@ -8,6 +8,7 @@ import requests
 from random import choice, shuffle
 import json
 import datetime
+import regex as re
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -119,7 +120,8 @@ def swap_outputs(location, weather, headline_terms, snippet):
         old_entities = choice(parsed_sample["entities"])
         new_chunk = new_chunk.replace(old_entities, location["region"])
 
-    print(new_chunk)
+    clean_chunk = re.sub(r'[()\"#/@<>{}`+=~|]', ' ', new_chunk)
+    print(clean_chunk)
 
 
 
