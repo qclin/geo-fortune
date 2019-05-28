@@ -54,13 +54,14 @@ def rant_first():
 
     # tmp_chain.append(text_model.make_sentence())
     # tmp_chain.append(text_model.make_short_sentence(140))
-    mm_chain = [s.decode('unicode_escape').encode('utf8') for s in tmp_chain]
+    # mm_chain = [s.decode('unicode_escape').encode('utf8') for s in tmp_chain]
+    mm_chain = [s.decode('unicode_escape').encode('ascii', 'ignore') for s in tmp_chain]
     blurb = ' '.join(mm_chain)
 
     return blurb
 
 # ## parsed markovify chain with spacy for Entities and Adjectives
-nlp = spacy.load('en_core_web_md')
+nlp = spacy.load('en_core_web_sm')
 
 def parse_blurb(blurb):
     doc = nlp(blurb)

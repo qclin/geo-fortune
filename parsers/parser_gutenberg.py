@@ -6,7 +6,7 @@ import json
 
 
 def do_spacy(text, num):
-	nlp = spacy.load('en_core_web_md')
+	nlp = spacy.load('en_core_web_sm')
 	doc = nlp(text)
 	sentences = list(str(doc.sents))
 	words = [str(w) for w in list(doc) if w.is_alpha]

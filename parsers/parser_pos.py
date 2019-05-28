@@ -10,7 +10,7 @@ import datetime
 from random import choice, shuffle
 import json
 
-nlp = spacy.load('en_core_web_md')
+nlp = spacy.load('en_core_web_sm')
 text = open("./samples/Theory_of_the_Earth.txt", 'rb').read().decode('utf-8', errors='replace') #NOTe: path is relative to root
 doc = nlp(text)
 

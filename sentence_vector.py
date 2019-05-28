@@ -10,7 +10,7 @@ import numpy as np
 from numpy import dot
 from numpy.linalg import norm
 
-nlp = spacy.load('en_core_web_md')
+nlp = spacy.load('en_core_web_sm')
 text = open("altai_stories.txt").read().decode('utf-8')
 doc = nlp(text)
 

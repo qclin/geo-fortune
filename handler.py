@@ -59,7 +59,7 @@ def rant_first():
     return blurb
 
 # ## parsed markovify chain with spacy for Entities and Adjectives
-nlp = spacy.load('en_core_web_md')
+nlp = spacy.load('en_core_web_sm')
 
 def parse_blurb(blurb):
     doc = nlp(blurb)
