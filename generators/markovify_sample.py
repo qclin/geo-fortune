@@ -120,7 +120,7 @@ def swap_outputs(location, weather, headline_terms, snippet):
         old_entities = choice(parsed_sample["entities"])
         new_chunk = new_chunk.replace(old_entities, location["region"])
 
-    clean_chunk = re.sub(r'[()\"#/@<>{}`+=~|]', ' ', new_chunk)
+    clean_chunk = re.sub(r'[()\"#/@<>{}`+=~|]', '', new_chunk)
     print(clean_chunk)
 
 

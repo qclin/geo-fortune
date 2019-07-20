@@ -6,9 +6,9 @@ module.exports = {
   generateFortune : function (ipAddress){
       let runPy = new Promise(function(resolve, reject){
       console.log("utterances --js--- ", ipAddress);
-      PythonShell.run("markovify_sample.py", { pythonPath: '/usr/bin/python', pythonOptions: ['-u'], scriptPath: 'generators/', args: [ipAddress]},  function (err, results) {
+      PythonShell.run("compile_fortune.py", { pythonPath: '/usr/bin/python', pythonOptions: ['-u'], scriptPath: 'generators/', args: [ipAddress]},  function (err, results) {
           if (err) console.log(err); // reject(err);
-          console.log('markovify_sample results: %j',results);
+          console.log('compile_fortune results: %j',results);
           resolve(results[results.length - 1]);
         });
       });
